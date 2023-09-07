@@ -3,16 +3,29 @@ const csv = require("csv-parser");
 const results = [];
 const isWord = require("is-word");
 
+const combineData = require("./tidyData.js");
+
+const {
+  combineNouns,
+  combineVerbs,
+  combineSynonyms,
+  combineHyponyms,
+  combineHypernyms,
+  combineAntonyms,
+  combineAdverbs,
+  combineAdjectives,
+} = combineData;
+
 var englishWords = isWord("british-english");
 
 async function wordList() {
-  fs.createReadStream("./data/csv/word-list.csv")
+  fs.createReadStream("./data/CSV/word-list.csv")
     .pipe(csv())
     .on("data", async (data) => {
       if (englishWords.check(data.word)) {
         results.push({
           word: data.word,
-          count: data.count,
+          Length: data.Length,
         });
       }
     })
@@ -31,14 +44,14 @@ async function wordList() {
 // wordList();
 
 const csvPaths = {
-  adjectives: "./data/csv/WordnetAdjectives.csv",
-  adverbs: "./data/csv/WordnetAdverbs.csv",
-  nouns: "./data/csv/WordnetNouns.csv",
-  verbs: "./data/csv/WordnetVerbs.csv",
-  synonyms: "./data/csv/WordnetSynonyms.csv",
-  antonyms: "./data/csv/WordnetAntonyms.csv",
-  hyponyms: "./data/csv/WordnetHyponyms.csv",
-  hypernyms: "./data/csv/WordnetHypernyms.csv",
+  adverbs: "./data/CSV/WordnetAdverbs.csv",
+  nouns: "./data/CSV/WordnetNouns.csv",
+  adjectives: "./data/CSV/WordnetAdjectives.csv",
+  verbs: "./data/CSV/WordnetVerbs.csv",
+  synonyms: "./data/CSV/WordnetSynonyms.csv",
+  antonyms: "./data/CSV/WordnetAntonyms.csv",
+  hyponyms: "./data/CSV/WordnetHyponyms.csv",
+  hypernyms: "./data/CSV/WordnetHypernyms.csv",
 };
 
 function convertToJSON() {
@@ -56,7 +69,7 @@ function convertToJSON() {
 }
 
 function filterJSON(array, path) {
-  const words = require("./data/rawJSON/word-list.json");
+  const words = require("./data/JSON/word-list.json");
   const list = words.map((object) => object.word.toLowerCase().trim());
 
   let filterData = [];
@@ -69,21 +82,75 @@ function filterJSON(array, path) {
         filterData.push(item);
       }
     }
-    if (item.lemma) {
-      const lemma = item.lemma.toLowerCase().trim();
-      const index = list.indexOf(lemma);
-      if (index !== -1) {
-        filterData.push(item);
+  });
+
+  let formattedData = [];
+
+  function makeArray(data, index) {
+    const keys = ["Synonyms", "Antonyms", "Hyponyms", "Hypernyms"];
+    const key = keys[index];
+
+    const dataWithArrays = data.map((entry) => {
+      if (entry.POS.length === 2) {
+        entry.POS.forEach((pos) => {
+          const string = pos[key].replace(/;/g, "|");
+          const array = string.split("|");
+          pos[key] = array;
+        });
+      } else {
+        const string = entry["POS"][0][key].replace(/;/g, "|");
+        const array = string.split("|");
+        entry["POS"][0][key] = array;
       }
+      return entry;
+    });
+
+    return dataWithArrays;
+  }
+
+  switch (path) {
+    case "nouns":
+      formattedData = combineNouns(filterData);
+      break;
+    case "verbs":
+      formattedData = combineVerbs(filterData);
+      break;
+    case "adjectives":
+      formattedData = combineAdjectives(filterData);
+      break;
+    case "adverbs":
+      formattedData = combineAdverbs(filterData);
+      break;
+    case "synonyms":
+      formattedData = combineSynonyms(filterData);
+      formattedData = makeArray(formattedData, 0);
+      break;
+    case "antonyms":
+      formattedData = combineAntonyms(filterData);
+      formattedData = makeArray(formattedData, 1);
+      break;
+    case "hyponyms":
+      formattedData = combineHyponyms(filterData);
+      formattedData = makeArray(formattedData, 2);
+      break;
+    case "hypernyms":
+      formattedData = combineHypernyms(filterData);
+      formattedData = makeArray(formattedData, 3);
+      break;
+    default:
+      console.log("No match");
+  }
+
+  const filteredJSONPath = `./JSON/${path}.json`;
+
+  fs.writeFile(
+    filteredJSONPath,
+    JSON.stringify(formattedData, null, 2),
+    (err) => {
+      if (err) throw err;
+      console.log("The file was saved!");
     }
-  });
-
-  const filteredJSONPath = `./data/test/${path}.json`;
-
-  fs.writeFile(filteredJSONPath, JSON.stringify(filterData, null, 2), (err) => {
-    if (err) throw err;
-    console.log("The file was saved!");
-  });
+  );
 }
 
-// convertToJSON();
+convertToJSON();
