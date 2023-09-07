@@ -2,31 +2,31 @@ function combineAdjectives(data) {
 
   let combinedEntries = {};
   data.forEach((entry) => {
-    let word = entry.Word;
+    let word = entry.word;
 
     if (combinedEntries[word]) {
-      combinedEntries[word].Meanings.push({
-        Definition: entry.Definition,
-        Examples: [
-          entry["Example 1"],
-          entry["Example 2"],
-          entry["Example 3"],
-          entry["Example 4"],
+      combinedEntries[word].meanings.push({
+        definition: entry.definition,
+        examples: [
+          entry["example 1"],
+          entry["example 2"],
+          entry["example 3"],
+          entry["example 4"],
         ],
       });
     } else {
       combinedEntries[word] = {
-        Word: word,
-        POS: "adjective",
-        Length: entry.Length,
-        Meanings: [
+        word: word,
+        pos: "adjective",
+        length: entry.length,
+        meanings: [
           {
-            Definition: entry.Definition,
-            Examples: [
-              entry["Example 1"],
-              entry["Example 2"],
-              entry["Example 3"],
-              entry["Example 4"],
+            definition: entry.definition,
+            examples: [
+              entry["example 1"],
+              entry["example 2"],
+              entry["example 3"],
+              entry["example 4"],
             ],
           },
         ],
@@ -42,22 +42,22 @@ function combineAdverbs(data) {
   let combinedEntries = {};
 
   data.forEach((entry) => {
-    let word = entry.Word;
+    let word = entry.word;
 
     if (combinedEntries[word]) {
-      combinedEntries[word].Meanings.push({
-        Definition: entry.Definition,
-        Example: entry.Example,
+      combinedEntries[word].meanings.push({
+        definition: entry.definition,
+        example: entry.example,
       });
     } else {
       combinedEntries[word] = {
-        Word: word,
-        POS: "adverb",
-        Length: entry.Length,
-        Meanings: [
+        word: word,
+        pos: "adverb",
+        length: entry.length,
+        meanings: [
           {
-            Definition: entry.Definition,
-            Example: entry.Example,
+            definition: entry.definition,
+            example: entry.example,
           },
         ],
       };
@@ -72,21 +72,21 @@ function combineAntonyms(data) {
  let combinedEntries = {};
 
   data.forEach((entry) => {
-    let word = entry.Word;
+    let word = entry.word;
 
     if (combinedEntries[word]) {
-      combinedEntries[word].POS.push({
-        POS: entry.POS,
-        Antonyms: entry.Antonyms,
+      combinedEntries[word].pos.push({
+        pos: entry.pos,
+        antonyms: entry.antonyms,
       });
     } else {
       combinedEntries[word] = {
-        Word: word,
-        Length: entry.Length,
-        POS: [
+        word: word,
+        length: entry.length,
+        pos: [
           {
-            POS: entry.POS,
-            Antonyms: entry.Antonyms,
+            pos: entry.pos,
+            antonyms: entry.antonyms,
           },
         ],
       };
@@ -102,24 +102,24 @@ function combineHypernyms(data) {
  let combinedEntries = {};
 
   data.forEach((entry) => {
-    let word = entry.Word;
+    let word = entry.word;
 
     if (combinedEntries[word]) {
-      if (!combinedEntries[word].POS) {
-        combinedEntries[word].POS = [];
+      if (!combinedEntries[word].pos) {
+        combinedEntries[word].pos = [];
       }
-      combinedEntries[word].POS.push({
-        POS: entry.POS,
-        Hypernyms: entry.Hypernyms,
+      combinedEntries[word].pos.push({
+        pos: entry.pos,
+        hypernyms: entry.hypernyms,
       });
     } else {
       combinedEntries[word] = {
-        Word: word,
-        Length: entry.Length,
-        POS: [
+        word: word,
+        length: entry.length,
+        pos: [
           {
-            POS: entry.POS,
-            Hypernyms: entry.Hypernyms,
+            pos: entry.pos,
+            hypernyms: entry.hypernyms,
           },
         ],
       };
@@ -134,24 +134,24 @@ function combineHyponyms(data) {
   let combinedEntries = {};
 
   data.forEach((entry) => {
-    let word = entry.Word;
+    let word = entry.word;
 
     if (combinedEntries[word]) {
-      if (!combinedEntries[word].POS) {
-        combinedEntries[word].POS = [];
+      if (!combinedEntries[word].pos) {
+        combinedEntries[word].pos = [];
       }
-      combinedEntries[word].POS.push({
-        POS: entry.POS,
-        Hyponyms: entry.Hyponyms,
+      combinedEntries[word].pos.push({
+        pos: entry.pos,
+        hyponyms: entry.hyponyms,
       });
     } else {
       combinedEntries[word] = {
-        Word: word,
-        Length: entry.Length,
-        POS: [
+        word: word,
+        length: entry.length,
+        pos: [
           {
-            POS: entry.POS,
-            Hyponyms: entry.Hyponyms,
+            pos: entry.pos,
+            hyponyms: entry.hyponyms,
           },
         ],
       };
@@ -166,24 +166,24 @@ function combineSynonyms(data) {
   let combinedEntries = {};
 
   data.forEach((entry) => {
-    let word = entry.Word;
+    let word = entry.word;
 
     if (combinedEntries[word]) {
-      if (!combinedEntries[word].POS) {
-        combinedEntries[word].POS = [];
+      if (!combinedEntries[word].pos) {
+        combinedEntries[word].pos = [];
       }
-      combinedEntries[word].POS.push({
-        POS: entry.POS,
-        Synonyms: entry.Synonyms,
+      combinedEntries[word].pos.push({
+        pos: entry.pos,
+        synonyms: entry.synonyms,
       });
     } else {
       combinedEntries[word] = {
-        Word: word,
-        Length: entry.Length,
-        POS: [
+        word: word,
+        length: entry.length,
+        pos: [
           {
-            POS: entry.POS,
-            Synonyms: entry.Synonyms,
+            pos: entry.pos,
+            synonyms: entry.synonyms,
           },
         ],
       };
@@ -191,7 +191,6 @@ function combineSynonyms(data) {
   });
 
   let combinedArray = Object.values(combinedEntries);
-  console.log(combinedArray);
   return combinedArray;
 }
 
@@ -199,41 +198,41 @@ function combineVerbs(data) {
   let combinedEntries = {};
 
   data.forEach((entry) => {
-    let word = entry.Word;
+    let word = entry.word;
 
     if (combinedEntries[word]) {
-      let existingSense = combinedEntries[word].Meanings.find(
-        (sense) => sense.Meanings === entry.Meanings
+      let existingSense = combinedEntries[word].meanings.find(
+        (sense) => sense.meanings === entry.meanings
       );
       if (existingSense) {
-        existingSense.Examples.push({
-          Example: entry["Example 1"],
+        existingSense.examples.push({
+          example: entry["example 1"],
         });
-        existingSense.Examples.push({
-          Example: entry["Example 2"],
+        existingSense.examples.push({
+          example: entry["example 2"],
         });
       } else {
-        combinedEntries[word].Meanings.push({
-          Meanings: entry.Meanings,
-          Definition: entry.Definition,
-          Examples: [
-            { Example: entry["Example 1"] },
-            { Example: entry["Example 2"] },
+        combinedEntries[word].meanings.push({
+          meanings: entry.meanings,
+          definition: entry.definition,
+          examples: [
+            { example: entry["example 1"] },
+            { example: entry["example 2"] },
           ],
         });
       }
     } else {
       combinedEntries[word] = {
-        Word: word,
-        POS: "verb",
-        Length: entry.Length,
-        Meanings: [
+        word: word,
+        pos: "verb",
+        length: entry.length,
+        meanings: [
           {
-            Meanings: entry.Meanings,
-            Definition: entry.Definition,
-            Examples: [
-              { Example: entry["Example 1"] },
-              { Example: entry["Example 2"] },
+            meanings: entry.meanings,
+            definition: entry.definition,
+            examples: [
+              { example: entry["example 1"] },
+              { example: entry["example 2"] },
             ],
           },
         ],
@@ -250,16 +249,16 @@ function combineNouns(data) {
   let combinedEntries = {};
 
   data.forEach(entry => {
-    let word = entry.Word;
+    let word = entry.word;
 
     if (combinedEntries[word]) {
-      combinedEntries[word].Definitions.push(entry.Definition);
+      combinedEntries[word].definitions.push(entry.definition);
     } else {
       combinedEntries[word] = {
-        Word: word,
-        Length: entry.Length,
-        POS: entry.POS,
-        Definitions: [entry.Definition]
+        word: word,
+        length: entry.length,
+        pos: entry.pos,
+        definitions: [entry.definition]
       };
     }
   });
