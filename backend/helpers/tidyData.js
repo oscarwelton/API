@@ -1,5 +1,3 @@
-const fs = require("fs");
-
 function combineAdjectives(data) {
 
   let combinedEntries = {};
