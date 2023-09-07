@@ -141,7 +141,7 @@ function filterJSON(array, path) {
       console.log("No match");
   }
 
-  const filteredJSONPath = `./JSON/${path}.json`;
+  const filteredJSONPath = `./data/JSON/${path}.json`;
 
   fs.writeFile(
     filteredJSONPath,
