@@ -213,13 +213,19 @@ function combineNouns(data) {
     let word = entry.word;
 
     if (combinedEntries[word]) {
-      combinedEntries[word].definitions.push(entry.definition);
+      combinedEntries[word].meanings.push({
+        definition: entry.definition,
+      });
     } else {
       combinedEntries[word] = {
         word: word,
         length: entry.length,
         pos: entry.pos,
-        definitions: [entry.definition],
+        meanings: [
+          {
+            definition: entry.definition,
+          },
+        ],
       };
     }
   });
