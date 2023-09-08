@@ -1,30 +1,18 @@
 const fs = require("fs");
-const wordList = require("../data/JSON/word-list.json");
-const adjectives = require("../data/JSON/adjectives.json");
+const antonyms = require("../data/JSON/antonyms.json");
+const synonyms = require("../data/JSON/synonyms.json");
 
-console.log(Object.keys(wordList))
+const synonymWords = synonyms.map((object) => object.word.toLowerCase().trim());
+const antonymWords = antonyms.map((object) => object.word.toLowerCase().trim());
 
+const mergedJSON = [];
 
-// function mergeObjectsByKey(arr1, arr2, key) {
-//   const map = new Map(arr1.map(item => [item[key], item]));
+synonymWords.forEach((word) => {
+  const matchedWord = antonymWords.indexOf(word);
 
-//   for (const item of arr2) {
-//     const value = item[key];
-//     if (map.has(value)) {
-//       Object.assign(map.get(value), item);
-//     }
-//   }
+  if (matchedWord !== -1) {
+    mergedJSON.push(word)
+  }
+});
 
-//   return Array.from(map.values());
-// }
-
-// const mergedData = mergeObjectsByKey(wordList, adjectives, 'aggressive');
-// const mergedJSON = JSON.stringify(mergedData);
-
-// fs.writeFile("../data/JSON/merged.json", mergedJSON, "utf8", function (err) {
-//   if (err) {
-//     console.log("An error occurred while writing JSON Object to File.");
-//     return console.log(err);
-//   }
-//   console.log("JSON file has been saved.");
-// });
+console.log(mergedJSON.length)
