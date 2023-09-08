@@ -5398,15 +5398,25 @@
       },
       {
         "pos": "verb",
-        "antonyms": "advance|front|veer"
+        "antonyms": [
+          "advance",
+          "front",
+          "veer"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "front"
+        "antonyms": [
+          "front"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "forward|ahead;forward"
+        "antonyms": [
+          "forward",
+          "ahead",
+          "forward"
+        ]
       }
     ]
   },
@@ -6393,11 +6403,22 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "worst|bad|evil"
+        "antonyms": [
+          "worst",
+          "bad",
+          "evil"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "ill|ill|badly|badly;disadvantageously|badly"
+        "antonyms": [
+          "ill",
+          "ill",
+          "badly",
+          "badly",
+          "disadvantageously",
+          "badly"
+        ]
       }
     ]
   },
@@ -6426,11 +6447,24 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "worse|worse|bad|evil|ill"
+        "antonyms": [
+          "worse",
+          "worse",
+          "bad",
+          "evil",
+          "ill"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "ill|ill|badly|badly;disadvantageously|badly"
+        "antonyms": [
+          "ill",
+          "ill",
+          "badly",
+          "badly",
+          "disadvantageously",
+          "badly"
+        ]
       }
     ]
   },
@@ -6672,11 +6706,16 @@
       },
       {
         "pos": "verb",
-        "antonyms": "whiten"
+        "antonyms": [
+          "whiten"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "white|white"
+        "antonyms": [
+          "white",
+          "white"
+        ]
       }
     ]
   },
@@ -8358,11 +8397,16 @@
       },
       {
         "pos": "verb",
-        "antonyms": "agitate|stimulate"
+        "antonyms": [
+          "agitate",
+          "stimulate"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "stormy"
+        "antonyms": [
+          "stormy"
+        ]
       }
     ]
   },
@@ -9935,11 +9979,18 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "dirty|unclean|dirty|dirty"
+        "antonyms": [
+          "dirty",
+          "unclean",
+          "dirty",
+          "dirty"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "unfairly"
+        "antonyms": [
+          "unfairly"
+        ]
       }
     ]
   },
@@ -10351,11 +10402,19 @@
       },
       {
         "pos": "verb",
-        "antonyms": "open|open|open|open|open"
+        "antonyms": [
+          "open",
+          "open",
+          "open",
+          "open",
+          "open"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "opening"
+        "antonyms": [
+          "opening"
+        ]
       }
     ]
   },
@@ -10868,11 +10927,15 @@
       },
       {
         "pos": "verb",
-        "antonyms": "discolor"
+        "antonyms": [
+          "discolor"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "black-and-white"
+        "antonyms": [
+          "black-and-white"
+        ]
       }
     ]
   },
@@ -18929,11 +18992,15 @@
       },
       {
         "pos": "verb",
-        "antonyms": "content"
+        "antonyms": [
+          "content"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "contented"
+        "antonyms": [
+          "contented"
+        ]
       }
     ]
   },
@@ -21725,11 +21792,15 @@
       },
       {
         "pos": "verb",
-        "antonyms": "be born"
+        "antonyms": [
+          "be born"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "nascent"
+        "antonyms": [
+          "nascent"
+        ]
       }
     ]
   },
@@ -28244,11 +28315,15 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "piano"
+        "antonyms": [
+          "piano"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "piano"
+        "antonyms": [
+          "piano"
+        ]
       }
     ]
   },
@@ -28809,11 +28884,15 @@
       },
       {
         "pos": "verb",
-        "antonyms": "back"
+        "antonyms": [
+          "back"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "back"
+        "antonyms": [
+          "back"
+        ]
       }
     ]
   },
@@ -29806,11 +29885,16 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "bad|evil"
+        "antonyms": [
+          "bad",
+          "evil"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "ill"
+        "antonyms": [
+          "ill"
+        ]
       }
     ]
   },
@@ -37513,11 +37597,18 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "outside"
+        "antonyms": [
+          "outside"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "outside;outdoors|outside|outwardly"
+        "antonyms": [
+          "outside",
+          "outdoors",
+          "outside",
+          "outwardly"
+        ]
       }
     ]
   },
@@ -41038,11 +41129,16 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "windward"
+        "antonyms": [
+          "windward"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "windward;downwind"
+        "antonyms": [
+          "windward",
+          "downwind"
+        ]
       }
     ]
   },
@@ -41058,15 +41154,24 @@
       },
       {
         "pos": "verb",
-        "antonyms": "arrive|enter|disinherit"
+        "antonyms": [
+          "arrive",
+          "enter",
+          "disinherit"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "right|center"
+        "antonyms": [
+          "right",
+          "center"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "right"
+        "antonyms": [
+          "right"
+        ]
       }
     ]
   },
@@ -41788,11 +41893,22 @@
       },
       {
         "pos": "verb",
-        "antonyms": "extinguish"
+        "antonyms": [
+          "extinguish"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "heavy|dark|heavy|heavy|heavy|dark|heavy|heavy"
+        "antonyms": [
+          "heavy",
+          "dark",
+          "heavy",
+          "heavy",
+          "heavy",
+          "dark",
+          "heavy",
+          "heavy"
+        ]
       }
     ]
   },
@@ -48865,11 +48981,20 @@
       },
       {
         "pos": "verb",
-        "antonyms": "close|close|close|close|fold|close"
+        "antonyms": [
+          "close",
+          "close",
+          "close",
+          "close",
+          "fold",
+          "close"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "closing"
+        "antonyms": [
+          "closing"
+        ]
       }
     ]
   },
@@ -49607,11 +49732,18 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "inside|indoor"
+        "antonyms": [
+          "inside",
+          "indoor"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "inside;indoors|inside"
+        "antonyms": [
+          "inside",
+          "indoors",
+          "inside"
+        ]
       }
     ]
   },
@@ -50523,11 +50655,17 @@
       },
       {
         "pos": "verb",
-        "antonyms": "fail|fail|be born"
+        "antonyms": [
+          "fail",
+          "fail",
+          "be born"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "running"
+        "antonyms": [
+          "running"
+        ]
       }
     ]
   },
@@ -50568,11 +50706,17 @@
       },
       {
         "pos": "verb",
-        "antonyms": "fail|fail|be born"
+        "antonyms": [
+          "fail",
+          "fail",
+          "be born"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "running"
+        "antonyms": [
+          "running"
+        ]
       }
     ]
   },
@@ -53425,11 +53569,15 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "anti"
+        "antonyms": [
+          "anti"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "con"
+        "antonyms": [
+          "con"
+        ]
       }
     ]
   },
@@ -54883,15 +55031,24 @@
       },
       {
         "pos": "verb",
-        "antonyms": "louden|agitate"
+        "antonyms": [
+          "louden",
+          "agitate"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "unquiet|noisy|active"
+        "antonyms": [
+          "unquiet",
+          "noisy",
+          "active"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "unquietly"
+        "antonyms": [
+          "unquietly"
+        ]
       }
     ]
   },
@@ -57592,11 +57749,15 @@
       },
       {
         "pos": "verb",
-        "antonyms": "wholesale"
+        "antonyms": [
+          "wholesale"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "wholesale"
+        "antonyms": [
+          "wholesale"
+        ]
       }
     ]
   },
@@ -58185,15 +58346,30 @@
       },
       {
         "pos": "verb",
-        "antonyms": "wrong|falsify"
+        "antonyms": [
+          "wrong",
+          "falsify"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "left|incorrect;wrong|wrong|wrong|left"
+        "antonyms": [
+          "left",
+          "incorrect",
+          "wrong",
+          "wrong",
+          "wrong",
+          "left"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "left|improperly|incorrectly;wrongly"
+        "antonyms": [
+          "left",
+          "improperly",
+          "incorrectly",
+          "wrongly"
+        ]
       }
     ]
   },
@@ -58398,11 +58574,20 @@
       },
       {
         "pos": "verb",
-        "antonyms": "fall|sit down|wane|go to bed;turn in|set"
+        "antonyms": [
+          "fall",
+          "sit down",
+          "wane",
+          "go to bed",
+          "turn in",
+          "set"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "falling"
+        "antonyms": [
+          "falling"
+        ]
       }
     ]
   },
@@ -61864,11 +62049,17 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "fast|fast|fast"
+        "antonyms": [
+          "fast",
+          "fast",
+          "fast"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "quickly"
+        "antonyms": [
+          "quickly"
+        ]
       }
     ]
   },
@@ -62774,11 +62965,16 @@
       },
       {
         "pos": "verb",
-        "antonyms": "devoice"
+        "antonyms": [
+          "devoice"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "unsound|unsound"
+        "antonyms": [
+          "unsound",
+          "unsound"
+        ]
       }
     ]
   },
@@ -64107,11 +64303,16 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "moving|sparkling"
+        "antonyms": [
+          "moving",
+          "sparkling"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "no longer"
+        "antonyms": [
+          "no longer"
+        ]
       }
     ]
   },
@@ -67428,11 +67629,18 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "thick|fat|thick|full"
+        "antonyms": [
+          "thick",
+          "fat",
+          "thick",
+          "full"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "thickly"
+        "antonyms": [
+          "thickly"
+        ]
       }
     ]
   },
@@ -76171,11 +76379,16 @@
       },
       {
         "pos": "verb",
-        "antonyms": "wax|wax"
+        "antonyms": [
+          "wax",
+          "wax"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "waxing"
+        "antonyms": [
+          "waxing"
+        ]
       }
     ]
   },
@@ -76419,11 +76632,16 @@
       },
       {
         "pos": "verb",
-        "antonyms": "wane|wane"
+        "antonyms": [
+          "wane",
+          "wane"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "waning"
+        "antonyms": [
+          "waning"
+        ]
       }
     ]
   },
@@ -77049,11 +77267,16 @@
       },
       {
         "pos": "verb",
-        "antonyms": "blacken"
+        "antonyms": [
+          "blacken"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "black|black"
+        "antonyms": [
+          "black",
+          "black"
+        ]
       }
     ]
   },
@@ -77154,11 +77377,15 @@
       },
       {
         "pos": "verb",
-        "antonyms": "retail"
+        "antonyms": [
+          "retail"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "retail"
+        "antonyms": [
+          "retail"
+        ]
       }
     ]
   },
@@ -77461,11 +77688,16 @@
       },
       {
         "pos": "adjective",
-        "antonyms": "leeward"
+        "antonyms": [
+          "leeward"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "leeward;upwind"
+        "antonyms": [
+          "leeward",
+          "upwind"
+        ]
       }
     ]
   },
@@ -78272,15 +78504,25 @@
       },
       {
         "pos": "verb",
-        "antonyms": "right"
+        "antonyms": [
+          "right"
+        ]
       },
       {
         "pos": "adjective",
-        "antonyms": "correct;right|right|right"
+        "antonyms": [
+          "correct",
+          "right",
+          "right",
+          "right"
+        ]
       },
       {
         "pos": "adverb",
-        "antonyms": "correctly;right"
+        "antonyms": [
+          "correctly",
+          "right"
+        ]
       }
     ]
   },

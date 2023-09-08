@@ -44,9 +44,9 @@ async function wordList() {
 // wordList();
 
 const csvPaths = {
-  adverbs: '../data/CSV/WordnetAdverbs.csv',
+  adverbs: "../data/CSV/WordnetAdverbs.csv",
   nouns: "../data/CSV/WordnetNouns.csv",
-  adjectives:  "../data/CSV/WordnetAdjectives.csv",
+  adjectives: "../data/CSV/WordnetAdjectives.csv",
   verbs: "../data/CSV/WordnetVerbs.csv",
   synonyms: "../data/CSV/WordnetSynonyms.csv",
   antonyms: "../data/CSV/WordnetAntonyms.csv",
@@ -69,7 +69,7 @@ function convertToJSON() {
 }
 
 function filterJSON(array, path) {
-  const words = require('../data/JSON/word-list.json');
+  const words = require("../data/JSON/word-list.json");
   const list = words.map((object) => object.word.toLowerCase().trim());
 
   let filterData = [];
@@ -91,7 +91,7 @@ function filterJSON(array, path) {
     const key = keys[index];
 
     const dataWithArrays = data.map((entry) => {
-      if (entry.pos.length === 2) {
+      if (entry.pos.length > 1) {
         entry.pos.forEach((pos) => {
           const string = pos[key].replace(/;/g, "|");
           const array = string.split("|");
