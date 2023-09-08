@@ -6,12 +6,7 @@ function combineAdjectives(data) {
     if (combinedEntries[word]) {
       combinedEntries[word].meanings.push({
         definition: entry.definition,
-        examples: [
-          entry["example 1"],
-          entry["example 2"],
-          entry["example 3"],
-          entry["example 4"],
-        ],
+        example: entry["example 1"],
       });
     } else {
       combinedEntries[word] = {
@@ -21,12 +16,7 @@ function combineAdjectives(data) {
         meanings: [
           {
             definition: entry.definition,
-            examples: [
-              entry["example 1"],
-              entry["example 2"],
-              entry["example 3"],
-              entry["example 4"],
-            ],
+            example: entry["example 1"],
           },
         ],
       };
@@ -155,7 +145,6 @@ function combineSynonyms(data) {
   let combinedArray = Object.values(combinedEntries);
   return combinedArray;
 }
-
 function combineVerbs(data) {
   let combinedEntries = {};
 
@@ -163,26 +152,10 @@ function combineVerbs(data) {
     let word = entry.word;
 
     if (combinedEntries[word]) {
-      let existingSense = combinedEntries[word].meanings.find(
-        (sense) => sense.meanings === entry.meanings
-      );
-      if (existingSense) {
-        existingSense.examples.push({
-          example: entry["example 1"],
-        });
-        existingSense.examples.push({
-          example: entry["example 2"],
-        });
-      } else {
-        combinedEntries[word].meanings.push({
-          meanings: entry.meanings,
-          definition: entry.definition,
-          examples: [
-            { example: entry["example 1"] },
-            { example: entry["example 2"] },
-          ],
-        });
-      }
+      combinedEntries[word].meanings.push({
+        definition: entry.definition,
+        example: entry["example 1"],
+      });
     } else {
       combinedEntries[word] = {
         word: word,
@@ -190,12 +163,8 @@ function combineVerbs(data) {
         length: entry.length,
         meanings: [
           {
-            meanings: entry.meanings,
             definition: entry.definition,
-            examples: [
-              { example: entry["example 1"] },
-              { example: entry["example 2"] },
-            ],
+            example: entry["example 1"],
           },
         ],
       };
