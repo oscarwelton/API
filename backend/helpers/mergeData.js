@@ -4,6 +4,8 @@ const synonyms = require("../data/JSON/synonyms.json");
 const synonymWords = synonyms.map((object) => object.word.toLowerCase().trim());
 const antonymWords = antonyms.map((object) => object.word.toLowerCase().trim());
 
+const mergedJSON = {};
+
 synonymWords.forEach((word) => {
   const matchedIndex = antonymWords.indexOf(word);
   if (matchedIndex !== -1) {
@@ -17,5 +19,5 @@ synonymWords.forEach((word) => {
 
 
 function mergeObject(synonym, antonym) {
-  console.log(synonym)
+  console.log(synonym, antonym)
 }

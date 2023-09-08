@@ -86,28 +86,6 @@ function filterJSON(array, path) {
 
   let formattedData = [];
 
-  function makeArray(data, index) {
-    const keys = ["synonyms", "antonyms", "hyponyms", "hypernyms"];
-    const key = keys[index];
-
-    const dataWithArrays = data.map((entry) => {
-      if (entry.pos.length > 1) {
-        entry.pos.forEach((pos) => {
-          const string = pos[key].replace(/;/g, "|");
-          const array = string.split("|");
-          pos[key] = array;
-        });
-      } else {
-        const string = entry["pos"][0][key].replace(/;/g, "|");
-        const array = string.split("|");
-        entry["pos"][0][key] = array;
-      }
-      return entry;
-    });
-
-    return dataWithArrays;
-  }
-
   switch (path) {
     case "nouns":
       formattedData = combineNouns(filterData);
@@ -121,21 +99,17 @@ function filterJSON(array, path) {
     case "adverbs":
       formattedData = combineAdverbs(filterData);
       break;
-    case "synonyms":
-      formattedData = combineSynonyms(filterData);
-      formattedData = makeArray(formattedData, 0);
-      break;
     case "antonyms":
       formattedData = combineAntonyms(filterData);
-      formattedData = makeArray(formattedData, 1);
+      break;
+    case "synonyms":
+      formattedData = combineSynonyms(filterData);
       break;
     case "hyponyms":
       formattedData = combineHyponyms(filterData);
-      formattedData = makeArray(formattedData, 2);
       break;
     case "hypernyms":
       formattedData = combineHypernyms(filterData);
-      formattedData = makeArray(formattedData, 3);
       break;
     default:
       console.log("No match");

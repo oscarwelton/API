@@ -1,5 +1,4 @@
 function combineAdjectives(data) {
-
   let combinedEntries = {};
   data.forEach((entry) => {
     let word = entry.word;
@@ -68,60 +67,20 @@ function combineAdverbs(data) {
   return combinedArray;
 }
 
-function combineAntonyms(data) {
- let combinedEntries = {};
-
-  data.forEach((entry) => {
-    let word = entry.word;
-
-    if (combinedEntries[word]) {
-      combinedEntries[word].pos.push({
-        pos: entry.pos,
-        antonyms: entry.antonyms,
-      });
-    } else {
-      combinedEntries[word] = {
-        word: word,
-        length: entry.length,
-        pos: [
-          {
-            pos: entry.pos,
-            antonyms: entry.antonyms,
-          },
-        ],
-      };
-    }
-  });
-
-  let combinedArray = Object.values(combinedEntries);
-  return combinedArray
-}
-
-
 function combineHypernyms(data) {
- let combinedEntries = {};
+  let combinedEntries = {};
 
   data.forEach((entry) => {
-    let word = entry.word;
+    const string = entry.hypernyms.replace(/;/g, "|");
+    const array = [...new Set(string.split("|"))];
 
-    if (combinedEntries[word]) {
-      if (!combinedEntries[word].pos) {
-        combinedEntries[word].pos = [];
-      }
-      combinedEntries[word].pos.push({
-        pos: entry.pos,
-        hypernyms: entry.hypernyms,
-      });
-    } else {
+    let word = entry.word;
+    if (!combinedEntries[word]) {
       combinedEntries[word] = {
         word: word,
         length: entry.length,
-        pos: [
-          {
-            pos: entry.pos,
-            hypernyms: entry.hypernyms,
-          },
-        ],
+        pos: entry.pos,
+        hypernyms: array,
       };
     }
   });
@@ -134,26 +93,38 @@ function combineHyponyms(data) {
   let combinedEntries = {};
 
   data.forEach((entry) => {
-    let word = entry.word;
+    const string = entry.hyponyms.replace(/;/g, "|");
+    const array = [...new Set(string.split("|"))];
 
-    if (combinedEntries[word]) {
-      if (!combinedEntries[word].pos) {
-        combinedEntries[word].pos = [];
-      }
-      combinedEntries[word].pos.push({
-        pos: entry.pos,
-        hyponyms: entry.hyponyms,
-      });
-    } else {
+    let word = entry.word;
+    if (!combinedEntries[word]) {
       combinedEntries[word] = {
         word: word,
         length: entry.length,
-        pos: [
-          {
-            pos: entry.pos,
-            hyponyms: entry.hyponyms,
-          },
-        ],
+        pos: entry.pos,
+        hyponyms: array,
+      };
+    }
+  });
+
+  let combinedArray = Object.values(combinedEntries);
+  return combinedArray;
+}
+
+function combineAntonyms(data) {
+  let combinedEntries = {};
+
+  data.forEach((entry) => {
+    const string = entry.antonyms.replace(/;/g, "|");
+    const array = [...new Set(string.split("|"))];
+
+    let word = entry.word;
+    if (!combinedEntries[word]) {
+      combinedEntries[word] = {
+        word: word,
+        length: entry.length,
+        pos: entry.pos,
+        antonyms: array,
       };
     }
   });
@@ -166,26 +137,17 @@ function combineSynonyms(data) {
   let combinedEntries = {};
 
   data.forEach((entry) => {
+    const string = entry.synonyms.replace(/;/g, "|");
+    const array = [...new Set(string.split("|"))];
+
     let word = entry.word;
 
-    if (combinedEntries[word]) {
-      if (!combinedEntries[word].pos) {
-        combinedEntries[word].pos = [];
-      }
-      combinedEntries[word].pos.push({
-        pos: entry.pos,
-        synonyms: entry.synonyms,
-      });
-    } else {
+    if (!combinedEntries[word]) {
       combinedEntries[word] = {
         word: word,
         length: entry.length,
-        pos: [
-          {
-            pos: entry.pos,
-            synonyms: entry.synonyms,
-          },
-        ],
+        pos: entry.pos,
+        synonyms: array,
       };
     }
   });
@@ -241,14 +203,13 @@ function combineVerbs(data) {
   });
 
   let combinedArray = Object.values(combinedEntries);
-  return combinedArray
+  return combinedArray;
 }
 
 function combineNouns(data) {
-
   let combinedEntries = {};
 
-  data.forEach(entry => {
+  data.forEach((entry) => {
     let word = entry.word;
 
     if (combinedEntries[word]) {
@@ -258,13 +219,13 @@ function combineNouns(data) {
         word: word,
         length: entry.length,
         pos: entry.pos,
-        definitions: [entry.definition]
+        definitions: [entry.definition],
       };
     }
   });
 
   let combinedArray = Object.values(combinedEntries);
-  return combinedArray
+  return combinedArray;
 }
 
 module.exports = {
@@ -275,5 +236,5 @@ module.exports = {
   combineHypernyms,
   combineAntonyms,
   combineAdverbs,
-  combineAdjectives
+  combineAdjectives,
 };
