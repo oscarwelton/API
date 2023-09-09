@@ -189,7 +189,7 @@ function combineNouns(data) {
       combinedEntries[word] = {
         word: word,
         length: entry.length,
-        pos: entry.pos,
+        pos: "noun",
         meanings: [
           {
             definition: entry.definition,
