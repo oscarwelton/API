@@ -1,8 +1,17 @@
 [
   {
+    "word": "abaxial",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "facing away from the axis of an organ or organism"
+      }
+    ]
+  },
+  {
     "word": "abhorrent",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "offensive to the mind",
@@ -13,7 +22,6 @@
   {
     "word": "abject",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "of the most contemptible kind",
@@ -24,7 +32,6 @@
   {
     "word": "able",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "(usually followed by `to') having the necessary means or skill or know-how or authority to do something",
@@ -35,7 +42,6 @@
   {
     "word": "abnormal",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "not normal",
@@ -46,7 +52,6 @@
   {
     "word": "abominable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "unequivocally detestable",
@@ -57,7 +62,6 @@
   {
     "word": "aboriginal",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having existed from the beginning",
@@ -68,7 +72,6 @@
   {
     "word": "abounding",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "existing in abundancewhiskey galore",
@@ -79,7 +82,6 @@
   {
     "word": "abridged",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "(used of texts) shortened by condensing or rewriting",
@@ -90,7 +92,6 @@
   {
     "word": "abrupt",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "extremely steep",
@@ -101,7 +102,6 @@
   {
     "word": "absent",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "lost in thought",
@@ -112,7 +112,6 @@
   {
     "word": "absolute",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "perfect or complete or pure",
@@ -125,9 +124,18 @@
     ]
   },
   {
+    "word": "absorbable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "capable of being absorbed or taken in through the pores of a surface",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "absorbent",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "having power or capacity or tendency to absorb or soak up something (liquids or energy etc.)",
@@ -136,9 +144,22 @@
     ]
   },
   {
+    "word": "abstemious",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "sparing in consumption of especially food and drink",
+        "example": ""
+      },
+      {
+        "definition": "marked by temperance in indulgence",
+        "example": "abstemious with the use of adverbs"
+      }
+    ]
+  },
+  {
     "word": "abstinent",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "self-restraining",
@@ -149,7 +170,6 @@
   {
     "word": "abstract",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "existing only in the mind",
@@ -160,7 +180,6 @@
   {
     "word": "abstruse",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "difficult to penetrate",
@@ -171,7 +190,6 @@
   {
     "word": "absurd",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "so unreasonable as to invite derision",
@@ -182,7 +200,6 @@
   {
     "word": "abundant",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "present in great quantity",
@@ -193,7 +210,6 @@
   {
     "word": "abused",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "subjected to cruel treatment",
@@ -204,7 +220,6 @@
   {
     "word": "acceptable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "worthy of acceptance or satisfactoryperformances varied from acceptable to excellent",
@@ -215,7 +230,6 @@
   {
     "word": "accepted",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "generally approved or compelling recognitionhis recognized superiority in this kind of work",
@@ -226,7 +240,6 @@
   {
     "word": "accessible",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "capable of being reached",
@@ -237,7 +250,6 @@
   {
     "word": "accommodating",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "helpful in bringing about a harmonious adaptationmade a special effort to be accommodating",
@@ -248,7 +260,6 @@
   {
     "word": "accountable",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "liable to account for one's actions",
@@ -259,7 +270,6 @@
   {
     "word": "accredited",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "given official approval to act",
@@ -270,7 +280,6 @@
   {
     "word": "accurate",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "conforming exactly or almost exactly to fact or to a standard or performing with total accuracy",
@@ -281,7 +290,6 @@
   {
     "word": "accusative",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "containing or expressing accusation",
@@ -292,7 +300,6 @@
   {
     "word": "accustomed",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "commonly used or practiced",
@@ -303,7 +310,6 @@
   {
     "word": "ace",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "",
@@ -314,7 +320,6 @@
   {
     "word": "acid",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "an acid reaction",
@@ -325,7 +330,6 @@
   {
     "word": "acidic",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "of a solution having an excess of hydrogen atoms (having a pH of less than 7)",
@@ -336,7 +340,6 @@
   {
     "word": "acknowledged",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "recognized or made known or admitteda woman of acknowledged accomplishments",
@@ -347,7 +350,6 @@
   {
     "word": "acrobatic",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "vigorously active",
@@ -358,7 +360,6 @@
   {
     "word": "active",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -369,7 +370,6 @@
   {
     "word": "acute",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -382,9 +382,18 @@
     ]
   },
   {
+    "word": "adaxial",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "nearest to or facing toward the axis of an organ or organism"
+      }
+    ]
+  },
+  {
     "word": "addled",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "confused and vague",
@@ -395,7 +404,6 @@
   {
     "word": "adept",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having or showing knowledge and skill and aptitude",
@@ -406,7 +414,6 @@
   {
     "word": "adequate",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having the requisite qualities or resources to meet a task",
@@ -421,7 +428,6 @@
   {
     "word": "adjacent",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "nearest in space or position",
@@ -436,7 +442,6 @@
   {
     "word": "adolescent",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "displaying or suggesting a lack of maturity",
@@ -447,7 +452,6 @@
   {
     "word": "adroit",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "quick or skillful or adept in action or thought",
@@ -456,9 +460,18 @@
     ]
   },
   {
+    "word": "adsorbent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having capacity or tendency to adsorb or cause to accumulate on a surface",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "advanced",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "far along in time",
@@ -473,7 +486,6 @@
   {
     "word": "advisable",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "worthy of being recommended or suggested",
@@ -484,7 +496,6 @@
   {
     "word": "aerial",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -495,7 +506,6 @@
   {
     "word": "aesthetic",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "concerning or characterized by an appreciation of beauty or good taste",
@@ -506,7 +516,6 @@
   {
     "word": "affable",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "diffusing warmth and friendliness",
@@ -517,7 +526,6 @@
   {
     "word": "affectionate",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "having or displaying warmth or affection",
@@ -526,9 +534,18 @@
     ]
   },
   {
+    "word": "afferent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "of nerves and nerve impulses"
+      }
+    ]
+  },
+  {
     "word": "affluent",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having an abundant supply of money or possessions of value",
@@ -539,7 +556,6 @@
   {
     "word": "afraid",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "filled with regret or concern",
@@ -550,7 +566,6 @@
   {
     "word": "aged",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "advanced in years",
@@ -561,7 +576,6 @@
   {
     "word": "ageless",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "continuing forever or indefinitely",
@@ -572,7 +586,6 @@
   {
     "word": "aggressive",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having or showing determination and energetic pursuit of your ends",
@@ -583,7 +596,6 @@
   {
     "word": "agile",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "moving quickly and lightly",
@@ -594,7 +606,6 @@
   {
     "word": "agreeable",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "conforming to your own liking or feelings or nature",
@@ -605,7 +616,6 @@
   {
     "word": "agricultural",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "relating to or used in or promoting agriculture or farming",
@@ -616,7 +626,6 @@
   {
     "word": "ailing",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "somewhat ill or prone to illness",
@@ -625,9 +634,18 @@
     ]
   },
   {
+    "word": "airheaded",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "lacking seriousness",
+        "example": "given to frivolity"
+      }
+    ]
+  },
+  {
     "word": "alert",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "mentally perceptive and responsive",
@@ -642,7 +660,6 @@
   {
     "word": "alkaline",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having a pH greater than 7",
@@ -653,7 +670,6 @@
   {
     "word": "alluring",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "highly attractive and able to arouse hope or desire",
@@ -664,7 +680,6 @@
   {
     "word": "alternate",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "",
@@ -675,7 +690,6 @@
   {
     "word": "amateur",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "engaged in as a pastime",
@@ -684,9 +698,18 @@
     ]
   },
   {
+    "word": "amatory",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "expressive of or exciting sexual love or romance",
+        "example": "her amatory affairs"
+      }
+    ]
+  },
+  {
     "word": "amazed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "filled with the emotional impact of overwhelming surprise or shock",
@@ -697,7 +720,6 @@
   {
     "word": "amazing",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "inspiring awe or admiration or wonder",
@@ -708,7 +730,6 @@
   {
     "word": "ambiguous",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "",
@@ -719,7 +740,6 @@
   {
     "word": "amphibious",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "operating or living on land and in water",
@@ -728,9 +748,18 @@
     ]
   },
   {
+    "word": "amphoteric",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "ample",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "affording an abundant supply",
@@ -741,7 +770,6 @@
   {
     "word": "amusing",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "arousing or provoking laughter",
@@ -752,7 +780,6 @@
   {
     "word": "analytic",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "using or skilled in using analysis (i.e. separating a whole--intellectual or substantial--into its elemental parts or basic principles)",
@@ -763,7 +790,6 @@
   {
     "word": "ancestral",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "",
@@ -774,7 +800,6 @@
   {
     "word": "angelic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "marked by utter benignity",
@@ -789,7 +814,6 @@
   {
     "word": "angered",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "marked by extreme anger",
@@ -800,7 +824,6 @@
   {
     "word": "angry",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "feeling or showing anger",
@@ -811,7 +834,6 @@
   {
     "word": "annoyed",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "aroused to impatience or anger",
@@ -826,7 +848,6 @@
   {
     "word": "annoying",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "causing irritation or annoyance",
@@ -837,7 +858,6 @@
   {
     "word": "anxious",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "causing or fraught with or showing anxiety",
@@ -848,7 +868,6 @@
   {
     "word": "apparent",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "clearly revealed to the mind or the senses or judgment",
@@ -859,7 +878,6 @@
   {
     "word": "approachable",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "easily approached",
@@ -870,7 +888,6 @@
   {
     "word": "approaching",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "of the relatively near future",
@@ -881,7 +898,6 @@
   {
     "word": "arbitrary",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "based on or subject to individual discretion or preference or sometimes impulse or caprice",
@@ -890,9 +906,18 @@
     ]
   },
   {
+    "word": "arcadian",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(used with regard to idealized country life) idyllically rustic",
+        "example": "a country life of arcadian contentment"
+      }
+    ]
+  },
+  {
     "word": "arctic",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "extremely cold",
@@ -903,7 +928,6 @@
   {
     "word": "ardent",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "characterized by intense emotion",
@@ -914,7 +938,6 @@
   {
     "word": "arduous",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "characterized by effort to the point of exhaustion",
@@ -929,7 +952,6 @@
   {
     "word": "arid",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "lacking vitality or spirit",
@@ -940,7 +962,6 @@
   {
     "word": "aristocratic",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "belonging to or characteristic of the nobility or aristocracy",
@@ -951,7 +972,6 @@
   {
     "word": "artificial",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "artificially formal",
@@ -966,7 +986,6 @@
   {
     "word": "ascertained",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "discovered or determined by scientific observation",
@@ -977,7 +996,6 @@
   {
     "word": "ascetic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "practicing great self-denial",
@@ -988,7 +1006,6 @@
   {
     "word": "ashen",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "anemic looking from illness or emotion",
@@ -999,7 +1016,6 @@
   {
     "word": "assimilating",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "capable of taking (gas light or liquids) into a solution",
@@ -1010,7 +1026,6 @@
   {
     "word": "assorted",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "consisting of a haphazard assortment of different kinds",
@@ -1025,7 +1040,6 @@
   {
     "word": "assumed",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "adopted in order to deceive",
@@ -1036,7 +1050,6 @@
   {
     "word": "astonishing",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "so surprisingly impressive as to stun or overwhelm",
@@ -1047,7 +1060,6 @@
   {
     "word": "atrocious",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "provoking horror",
@@ -1066,7 +1078,6 @@
   {
     "word": "attendant",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "occurring with or following as a consequence",
@@ -1077,7 +1088,6 @@
   {
     "word": "attractive",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "pleasing to the eye or mind especially through beauty or charm",
@@ -1088,7 +1098,6 @@
   {
     "word": "atypical",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "deviating from normal expectations",
@@ -1099,7 +1108,6 @@
   {
     "word": "audacious",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "disposed to venture or take risks",
@@ -1114,7 +1122,6 @@
   {
     "word": "authentic",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not counterfeit or copied",
@@ -1125,7 +1132,6 @@
   {
     "word": "authoritarian",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "characteristic of an absolute ruler or absolute rule",
@@ -1136,7 +1142,6 @@
   {
     "word": "autocratic",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "offensively self-assured or given to exercising usually unwarranted power",
@@ -1147,7 +1152,6 @@
   {
     "word": "automatic",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "",
@@ -1158,7 +1162,6 @@
   {
     "word": "available",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "obtainable or accessible and ready for use or service",
@@ -1169,7 +1172,6 @@
   {
     "word": "avaricious",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "immoderately desirous of acquiring e.g. wealth",
@@ -1180,7 +1182,6 @@
   {
     "word": "average",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -1195,7 +1196,6 @@
   {
     "word": "avid",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "(often followed by `for') ardently or excessively desirous",
@@ -1206,7 +1206,6 @@
   {
     "word": "away",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "the pitch was away (or wide)",
@@ -1217,7 +1216,6 @@
   {
     "word": "awful",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "causing fear or dread or terror",
@@ -1228,7 +1226,6 @@
   {
     "word": "awkward",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "socially uncomfortable",
@@ -1255,7 +1252,6 @@
   {
     "word": "bad",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "",
@@ -1282,7 +1278,6 @@
   {
     "word": "baffled",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "perplexed by many conflicting situations or statements",
@@ -1293,7 +1288,6 @@
   {
     "word": "baffling",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "making great mental demands",
@@ -1304,7 +1298,6 @@
   {
     "word": "balanced",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "being in a state of proper equilibrium",
@@ -1315,7 +1308,6 @@
   {
     "word": "baleful",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "threatening or foreshadowing evil or tragic developments",
@@ -1326,7 +1318,6 @@
   {
     "word": "banal",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "repeated too often",
@@ -1335,9 +1326,18 @@
     ]
   },
   {
+    "word": "bankable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "acceptable to or at a bank",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "bantam",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "very small",
@@ -1348,7 +1348,6 @@
   {
     "word": "barbarian",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "without civilizing influences",
@@ -1359,7 +1358,6 @@
   {
     "word": "barbarous",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "(of persons or their actions) able or disposed to inflict pain or suffering",
@@ -1370,7 +1368,6 @@
   {
     "word": "barbed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having or covered with protective barbs or quills or spines or thorns or setae etc.",
@@ -1381,7 +1378,6 @@
   {
     "word": "bare",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "providing no shelter or sustenance",
@@ -1392,7 +1388,6 @@
   {
     "word": "baronial",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "impressive in appearance",
@@ -1403,7 +1398,6 @@
   {
     "word": "barren",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "completely wanting or lacking",
@@ -1414,7 +1408,6 @@
   {
     "word": "base",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "having or showing an ignoble lack of honor or morality",
@@ -1429,7 +1422,6 @@
   {
     "word": "baseless",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "without a basis in reason or fact",
@@ -1440,7 +1432,6 @@
   {
     "word": "basic",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -1455,7 +1446,6 @@
   {
     "word": "battered",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "exhibiting symptoms resulting from repeated physical and emotional injurythe battered woman syndrome",
@@ -1466,7 +1456,6 @@
   {
     "word": "beaming",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "radiating or as if radiating light",
@@ -1477,7 +1466,6 @@
   {
     "word": "beastly",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "resembling a beast",
@@ -1488,7 +1476,6 @@
   {
     "word": "beautiful",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "delighting the senses or exciting intellectual or emotional admiration",
@@ -1499,7 +1486,6 @@
   {
     "word": "becoming",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "according with custom or propriety",
@@ -1510,7 +1496,6 @@
   {
     "word": "bedraggled",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "in deplorable condition",
@@ -1521,7 +1506,6 @@
   {
     "word": "beefy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -1532,7 +1516,6 @@
   {
     "word": "belated",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "after the expected or usual time",
@@ -1543,7 +1526,6 @@
   {
     "word": "belittling",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "tending to diminish or disparage",
@@ -1554,7 +1536,6 @@
   {
     "word": "benighted",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "lacking enlightenment or knowledge or culture",
@@ -1565,7 +1546,6 @@
   {
     "word": "best",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "",
@@ -1576,7 +1556,6 @@
   {
     "word": "better",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -1587,7 +1566,6 @@
   {
     "word": "bewitching",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "capturing interest as if by a spell",
@@ -1598,7 +1576,6 @@
   {
     "word": "bifurcate",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "resembling a fork",
@@ -1609,7 +1586,6 @@
   {
     "word": "big",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "conspicuous in position or importance",
@@ -1628,7 +1604,6 @@
   {
     "word": "bizarre",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "conspicuously or grossly unconventional or unusual",
@@ -1639,7 +1614,6 @@
   {
     "word": "black",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "being of the achromatic color of maximum darkness",
@@ -1668,9 +1642,18 @@
     ]
   },
   {
+    "word": "bladed",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "\\having a blade or blades"
+      }
+    ]
+  },
+  {
     "word": "blameless",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "free of guilt",
@@ -1681,7 +1664,6 @@
   {
     "word": "bland",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "lacking taste or flavor or tang",
@@ -1692,7 +1674,6 @@
   {
     "word": "blank",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "(of a surface) not written or printed on",
@@ -1703,7 +1684,6 @@
   {
     "word": "blasted",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "expletives used informally as intensifiers",
@@ -1714,7 +1694,6 @@
   {
     "word": "blasting",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "causing injury or blight",
@@ -1725,7 +1704,6 @@
   {
     "word": "blatant",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "conspicuously and offensively loud",
@@ -1740,7 +1718,6 @@
   {
     "word": "blazing",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "shining intensely",
@@ -1751,7 +1728,6 @@
   {
     "word": "bleached",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having lost freshness or brilliance of color",
@@ -1762,7 +1738,6 @@
   {
     "word": "blistering",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "very fast",
@@ -1773,7 +1748,6 @@
   {
     "word": "blithe",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "carefree and happy and lighthearted",
@@ -1784,7 +1758,6 @@
   {
     "word": "bloody",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having or covered with or accompanied by blood",
@@ -1795,7 +1768,6 @@
   {
     "word": "blue",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "causing dejection",
@@ -1814,7 +1786,6 @@
   {
     "word": "bluff",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "very steep",
@@ -1825,7 +1796,6 @@
   {
     "word": "blunt",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "characterized by directness in manner or speech",
@@ -1836,7 +1806,6 @@
   {
     "word": "bodily",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "affecting or characteristic of the body as opposed to the mind or spirit",
@@ -1847,7 +1816,6 @@
   {
     "word": "boggy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "(of soil) soft and watery",
@@ -1858,7 +1826,6 @@
   {
     "word": "boisterous",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "violently agitated and turbulent",
@@ -1873,7 +1840,6 @@
   {
     "word": "bonny",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "very pleasing to the eye",
@@ -1884,7 +1850,6 @@
   {
     "word": "booming",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "very lively and profitable",
@@ -1895,7 +1860,6 @@
   {
     "word": "boorish",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "ill-mannered and coarse and contemptible in behavior or appearance",
@@ -1906,7 +1870,6 @@
   {
     "word": "boring",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "so lacking in interest as to cause mental weariness",
@@ -1917,7 +1880,6 @@
   {
     "word": "bouncing",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "marked by lively action",
@@ -1928,7 +1890,6 @@
   {
     "word": "bouncy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "elastic",
@@ -1939,7 +1900,6 @@
   {
     "word": "brassy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "tastelessly showy",
@@ -1950,7 +1910,6 @@
   {
     "word": "brave",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "possessing or displaying courage",
@@ -1965,7 +1924,6 @@
   {
     "word": "brawny",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "(of a person) possessing physical strength and weight",
@@ -1976,7 +1934,6 @@
   {
     "word": "breasted",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having a breast or breasts",
@@ -1987,7 +1944,6 @@
   {
     "word": "bridal",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "of or relating to a wedding",
@@ -1998,7 +1954,6 @@
   {
     "word": "bright",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "made smooth and bright by or as if by rubbing",
@@ -2009,7 +1964,6 @@
   {
     "word": "brilliant",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "characterized by grandeur",
@@ -2020,7 +1974,6 @@
   {
     "word": "brimful",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "filled to capacity",
@@ -2031,7 +1984,6 @@
   {
     "word": "brittle",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "having little elasticity",
@@ -2042,7 +1994,6 @@
   {
     "word": "broad",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "showing or characterized by broad-mindedness",
@@ -2057,7 +2008,6 @@
   {
     "word": "brocaded",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "embellished with a raised pattern created by pressure or embroidery",
@@ -2068,7 +2018,6 @@
   {
     "word": "broken",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "not continuous in space time or sequence or varying abruptly",
@@ -2091,7 +2040,6 @@
   {
     "word": "bumbling",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "lacking physical movement skills especially with the hands",
@@ -2102,7 +2050,6 @@
   {
     "word": "buoyant",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "characterized by liveliness and lightheartedness",
@@ -2113,7 +2060,6 @@
   {
     "word": "burdensome",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "not easily borne",
@@ -2124,7 +2070,6 @@
   {
     "word": "burned",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "destroyed or badly damaged by fire",
@@ -2135,7 +2080,6 @@
   {
     "word": "busy",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "crowded with or characterized by much activity",
@@ -2150,7 +2094,6 @@
   {
     "word": "buttery",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "unpleasantly and excessively suave or ingratiating in manner or speech",
@@ -2161,7 +2104,6 @@
   {
     "word": "bygone",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "well in the past",
@@ -2170,9 +2112,18 @@
     ]
   },
   {
+    "word": "byzantine",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "highly complex or intricate and occasionally devious",
+        "example": "the Byzantine tax structure"
+      }
+    ]
+  },
+  {
     "word": "cadaverous",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "very thin especially from disease or hunger or cold",
@@ -2183,7 +2134,6 @@
   {
     "word": "calm",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not agitated",
@@ -2194,7 +2144,6 @@
   {
     "word": "capable",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "possibly accepting or permitting",
@@ -2205,7 +2154,6 @@
   {
     "word": "captive",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "giving or marked by complete attention to",
@@ -2216,7 +2164,6 @@
   {
     "word": "cardinal",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "serving as an essential component",
@@ -2227,7 +2174,6 @@
   {
     "word": "careful",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "exercising caution or showing care or attention",
@@ -2238,7 +2184,6 @@
   {
     "word": "careless",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "marked by lack of attention or consideration or forethought or thoroughness",
@@ -2247,9 +2192,18 @@
     ]
   },
   {
+    "word": "careworn",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "showing the wearing effects of overwork or care or suffering",
+        "example": "looking careworn as she bent over her mending"
+      }
+    ]
+  },
+  {
     "word": "carved",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -2258,9 +2212,18 @@
     ]
   },
   {
+    "word": "cashable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "able to be converted into ready money or the equivalent",
+        "example": "a cashable check"
+      }
+    ]
+  },
+  {
     "word": "casual",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "hasty and without attention to detail",
@@ -2275,7 +2238,6 @@
   {
     "word": "catastrophic",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "extremely harmful",
@@ -2286,7 +2248,6 @@
   {
     "word": "ceaseless",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "uninterrupted in time and indefinitely long continuing",
@@ -2297,7 +2258,6 @@
   {
     "word": "celebrated",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "widely known and esteemed",
@@ -2308,7 +2268,6 @@
   {
     "word": "certain",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "certain to occur",
@@ -2319,7 +2278,6 @@
   {
     "word": "chancy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -2330,7 +2288,6 @@
   {
     "word": "changeable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "such that alteration is possible",
@@ -2341,7 +2298,6 @@
   {
     "word": "charitable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "showing or motivated by sympathy and understanding and generosity",
@@ -2352,7 +2308,6 @@
   {
     "word": "charming",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "possessing or using or characteristic of or appropriate to supernatural powers",
@@ -2363,7 +2318,6 @@
   {
     "word": "cheerful",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "being full of or promoting cheer",
@@ -2374,7 +2328,6 @@
   {
     "word": "cheery",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "bright and pleasant",
@@ -2385,7 +2338,6 @@
   {
     "word": "cherished",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "characterized by feeling or showing fond affection for",
@@ -2396,7 +2348,6 @@
   {
     "word": "chipper",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "having a cheerful lively and self-confident air",
@@ -2407,7 +2358,6 @@
   {
     "word": "choice",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "of superior grade",
@@ -2418,7 +2368,6 @@
   {
     "word": "choked",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "stopped up",
@@ -2429,7 +2378,6 @@
   {
     "word": "chopped",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "prepared by cutting",
@@ -2440,7 +2388,6 @@
   {
     "word": "chronic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -2451,7 +2398,6 @@
   {
     "word": "chummy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -2462,7 +2408,6 @@
   {
     "word": "chunky",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "short and thick",
@@ -2473,7 +2418,6 @@
   {
     "word": "civil",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "of or relating to or befitting citizens as individuals",
@@ -2486,9 +2430,18 @@
     ]
   },
   {
+    "word": "civilized",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "marked by refinement in taste and manners",
+        "example": "cultivated speech"
+      }
+    ]
+  },
+  {
     "word": "clammy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "unpleasantly cool and humid",
@@ -2499,7 +2452,6 @@
   {
     "word": "clandestine",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "conducted with or marked by hidden aims or methods",
@@ -2510,7 +2462,6 @@
   {
     "word": "classic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "of a well-known type",
@@ -2521,7 +2472,6 @@
   {
     "word": "classy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -2532,7 +2482,6 @@
   {
     "word": "clean",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "free from clumsiness",
@@ -2555,7 +2504,6 @@
   {
     "word": "clear",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "readily apparent to the mind",
@@ -2578,7 +2526,6 @@
   {
     "word": "cleared",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "rid of objects or obstructions such as e.g. trees and brush",
@@ -2589,7 +2536,6 @@
   {
     "word": "clipped",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "cut or trimmed by clipping",
@@ -2600,7 +2546,6 @@
   {
     "word": "cloaked",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "covered with or as if with clothes or a wrap or cloak",
@@ -2611,7 +2556,6 @@
   {
     "word": "cloistered",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "providing privacy or seclusion",
@@ -2622,7 +2566,6 @@
   {
     "word": "close",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "marked by fidelity to an originala faithful copy of the portrait",
@@ -2641,7 +2584,6 @@
   {
     "word": "closing",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "final or ending",
@@ -2652,7 +2594,6 @@
   {
     "word": "clothed",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "wearing or provided with clothing",
@@ -2663,7 +2604,6 @@
   {
     "word": "coarse",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "lacking refinement or cultivation or taste",
@@ -2674,7 +2614,6 @@
   {
     "word": "coated",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having a coating",
@@ -2685,7 +2624,6 @@
   {
     "word": "cold",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration",
@@ -2700,7 +2638,6 @@
   {
     "word": "collected",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "in full control of your faculties",
@@ -2709,9 +2646,28 @@
     ]
   },
   {
+    "word": "color",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "having or capable of producing colors"
+      }
+    ]
+  },
+  {
+    "word": "colored",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having color or a certain color",
+        "example": "sometimes used in combination"
+      }
+    ]
+  },
+  {
     "word": "colossal",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "so great in size or force or extent as to elicit awe",
@@ -2722,7 +2678,6 @@
   {
     "word": "columned",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "",
@@ -2733,7 +2688,6 @@
   {
     "word": "comfortable",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "",
@@ -2752,7 +2706,6 @@
   {
     "word": "common",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having no special distinction or quality",
@@ -2771,7 +2724,6 @@
   {
     "word": "compact",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "having a short and solid form or stature",
@@ -2780,9 +2732,38 @@
     ]
   },
   {
+    "word": "compendious",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "briefly giving the gist of something",
+        "example": "a short and compendious book"
+      }
+    ]
+  },
+  {
+    "word": "compensable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "for which money is paid",
+        "example": "a paying job"
+      }
+    ]
+  },
+  {
+    "word": "complaisant",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "showing a cheerful willingness to do favors for othersthe obliging waiter was in no hurry for us to leave",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "complete",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having every necessary or normal part or component or step",
@@ -2797,7 +2778,6 @@
   {
     "word": "comprehensive",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "including all or everything",
@@ -2808,7 +2788,6 @@
   {
     "word": "conceited",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "characteristic of false pride",
@@ -2819,7 +2798,6 @@
   {
     "word": "concentrated",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "gathered together or made less diffuse",
@@ -2828,9 +2806,18 @@
     ]
   },
   {
+    "word": "conceptional",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "being of the nature of a notion or concept",
+        "example": "to improve notional comprehension"
+      }
+    ]
+  },
+  {
     "word": "conceptual",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "being or characterized by concepts or their formation",
@@ -2841,7 +2828,6 @@
   {
     "word": "concerned",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "feeling or showing worry or solicitude",
@@ -2856,7 +2842,6 @@
   {
     "word": "concerted",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "involving the joint activity of two or more",
@@ -2867,7 +2852,6 @@
   {
     "word": "concluding",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "occurring at or forming an end or termination",
@@ -2878,7 +2862,6 @@
   {
     "word": "concrete",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "capable of being perceived by the senses",
@@ -2889,7 +2872,6 @@
   {
     "word": "conducive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "tending to bring about",
@@ -2900,7 +2882,6 @@
   {
     "word": "confident",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "having or marked by confidence or assurance",
@@ -2911,7 +2892,6 @@
   {
     "word": "confused",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "lacking orderly continuity",
@@ -2922,7 +2902,6 @@
   {
     "word": "confusing",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "lacking clarity of meaning",
@@ -2933,7 +2912,6 @@
   {
     "word": "conjectural",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "based primarily on surmise rather than adequate evidence",
@@ -2944,7 +2922,6 @@
   {
     "word": "conscious",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "knowing and perceiving",
@@ -2955,7 +2932,6 @@
   {
     "word": "consecrated",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "made or declared or believed to be holy",
@@ -2966,7 +2942,6 @@
   {
     "word": "considerable",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "large or relatively large in number or amount or extent or degree",
@@ -2975,9 +2950,18 @@
     ]
   },
   {
+    "word": "consonantal",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "being or marked by or containing or functioning as a consonant",
+        "example": "consonantal sounds"
+      }
+    ]
+  },
+  {
     "word": "constrained",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "lacking spontaneity",
@@ -2988,7 +2972,6 @@
   {
     "word": "constructive",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "constructing or tending to construct or improve or promote development",
@@ -2999,7 +2982,6 @@
   {
     "word": "consummate",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having or revealing supreme mastery or skill",
@@ -3010,7 +2992,6 @@
   {
     "word": "contiguous",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "very close or connected in space or time",
@@ -3021,7 +3002,6 @@
   {
     "word": "continuous",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "continuing in time or space without interruption",
@@ -3032,7 +3012,6 @@
   {
     "word": "contrary",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "resistant to guidance or discipline",
@@ -3043,7 +3022,6 @@
   {
     "word": "convulsive",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "affected by involuntary jerky muscular contractions",
@@ -3054,7 +3032,6 @@
   {
     "word": "cool",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "marked by calm self-control (especially in trying circumstances)",
@@ -3077,7 +3054,6 @@
   {
     "word": "copious",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "large in number or quantity (especially of discourse)a subject of voluminous legislation",
@@ -3088,7 +3064,6 @@
   {
     "word": "correct",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "free from error",
@@ -3099,7 +3074,6 @@
   {
     "word": "corruptible",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "capable of being corrupted",
@@ -3110,7 +3084,6 @@
   {
     "word": "cosmopolitan",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "composed of people from or at home in many parts of the world",
@@ -3121,7 +3094,6 @@
   {
     "word": "costly",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having a high price",
@@ -3132,7 +3104,6 @@
   {
     "word": "counterfeit",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "not genuine",
@@ -3143,7 +3114,6 @@
   {
     "word": "countless",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "too numerous to be counted",
@@ -3154,7 +3124,6 @@
   {
     "word": "covered",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "overlaid or spread or topped with or enclosed within something",
@@ -3165,7 +3134,6 @@
   {
     "word": "covetous",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "showing extreme cupidity",
@@ -3174,9 +3142,18 @@
     ]
   },
   {
+    "word": "cozy",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having or fostering a warm or friendly and informal atmosphere",
+        "example": "had a cozy chat"
+      }
+    ]
+  },
+  {
     "word": "crafty",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "marked by skill in deception",
@@ -3187,7 +3164,6 @@
   {
     "word": "craven",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "lacking even the rudiments of courage",
@@ -3198,7 +3174,6 @@
   {
     "word": "crazy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -3213,7 +3188,6 @@
   {
     "word": "creaky",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "worn and broken down by hard use",
@@ -3224,7 +3198,6 @@
   {
     "word": "crested",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -3235,7 +3208,6 @@
   {
     "word": "crimson",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "(especially of the face) reddened or suffused with or as if with blood from emotion or exertion",
@@ -3246,7 +3218,6 @@
   {
     "word": "crisp",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "brief and to the point",
@@ -3261,7 +3232,6 @@
   {
     "word": "critical",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "",
@@ -3276,7 +3246,6 @@
   {
     "word": "crowded",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "overfilled or compacted or concentrated",
@@ -3287,7 +3256,6 @@
   {
     "word": "crowned",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "provided with or as if with a crown or a crown as specified",
@@ -3298,7 +3266,6 @@
   {
     "word": "crucial",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "of extreme importance",
@@ -3309,7 +3276,6 @@
   {
     "word": "crude",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "conspicuously and tastelessly indecent",
@@ -3324,7 +3290,6 @@
   {
     "word": "crumbly",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "easily broken into small fragments or reduced to powder",
@@ -3335,7 +3300,6 @@
   {
     "word": "crushing",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "physically or spiritually devastating",
@@ -3346,7 +3310,6 @@
   {
     "word": "crusty",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "brusque and surly and forbidding",
@@ -3357,7 +3320,6 @@
   {
     "word": "cryptic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "of an obscure nature",
@@ -3368,7 +3330,6 @@
   {
     "word": "crystalline",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "transmitting light",
@@ -3379,7 +3340,6 @@
   {
     "word": "cunning",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "attractive especially by means of smallness or prettiness or quaintness",
@@ -3390,7 +3350,6 @@
   {
     "word": "curative",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "tending to cure or restore to health",
@@ -3401,7 +3360,6 @@
   {
     "word": "cured",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "freed from illness or injury",
@@ -3412,7 +3370,6 @@
   {
     "word": "curious",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "eager to investigate and learn or learn more (sometimes about others' concerns)",
@@ -3427,7 +3384,6 @@
   {
     "word": "current",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "occurring in or belonging to the present time",
@@ -3438,7 +3394,6 @@
   {
     "word": "cursed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "deserving a curse",
@@ -3449,7 +3404,6 @@
   {
     "word": "cushy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -3460,7 +3414,6 @@
   {
     "word": "custodial",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "providing protective supervision",
@@ -3471,7 +3424,6 @@
   {
     "word": "cut",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "with parts removed",
@@ -3486,7 +3438,6 @@
   {
     "word": "cutting",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "painful as if caused by a sharp instrument",
@@ -3497,7 +3448,6 @@
   {
     "word": "dabbled",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "covered with bright patches (often used in combination)",
@@ -3508,7 +3458,6 @@
   {
     "word": "dangerous",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "causing fear or anxiety by threatening great harm",
@@ -3523,7 +3472,6 @@
   {
     "word": "dark",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "devoid of or deficient in light or brightness",
@@ -3538,7 +3486,6 @@
   {
     "word": "dazzling",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "amazingly impressive",
@@ -3549,7 +3496,6 @@
   {
     "word": "dead",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not showing characteristics of life especially the capacity to sustain life",
@@ -3564,7 +3510,6 @@
   {
     "word": "deadly",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "causing or capable of causing death",
@@ -3575,7 +3520,6 @@
   {
     "word": "debauched",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "unrestrained by convention or morality",
@@ -3586,7 +3530,6 @@
   {
     "word": "decayed",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "damaged by decay",
@@ -3597,7 +3540,6 @@
   {
     "word": "deceitful",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "intended to deceive",
@@ -3608,7 +3550,6 @@
   {
     "word": "deceptive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "designed to deceive or mislead either deliberately or inadvertently",
@@ -3619,7 +3560,6 @@
   {
     "word": "deep",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "very distant in time or space",
@@ -3638,7 +3578,6 @@
   {
     "word": "defeated",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "disappointingly unsuccessful",
@@ -3649,7 +3588,6 @@
   {
     "word": "deficient",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "inadequate in amount or degree",
@@ -3660,7 +3598,6 @@
   {
     "word": "definite",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "precise",
@@ -3671,7 +3608,6 @@
   {
     "word": "deformed",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "so badly formed or out of shape as to be ugly",
@@ -3682,7 +3618,6 @@
   {
     "word": "deft",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "skillful in physical movements",
@@ -3693,7 +3628,6 @@
   {
     "word": "delicate",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "exquisitely fine and subtle and pleasing",
@@ -3712,7 +3646,6 @@
   {
     "word": "democratic",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "representing or appealing to or adapted for the benefit of the people at large",
@@ -3723,7 +3656,6 @@
   {
     "word": "demonic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "extremely evil or cruel",
@@ -3734,7 +3666,6 @@
   {
     "word": "dense",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "slow to learn or understand",
@@ -3745,7 +3676,6 @@
   {
     "word": "dependable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "worthy of being depended on",
@@ -3756,7 +3686,6 @@
   {
     "word": "deplorable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "bad",
@@ -3767,7 +3696,6 @@
   {
     "word": "depressing",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "causing sad feelings of gloom and inadequacy",
@@ -3778,7 +3706,6 @@
   {
     "word": "derisive",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "abusing vocally",
@@ -3789,7 +3716,6 @@
   {
     "word": "deserving",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "",
@@ -3800,7 +3726,6 @@
   {
     "word": "despairing",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "arising from or marked by despair or loss of hope",
@@ -3811,7 +3736,6 @@
   {
     "word": "desperate",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "showing extreme courage",
@@ -3826,7 +3750,6 @@
   {
     "word": "despicable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "morally reprehensible",
@@ -3837,7 +3760,6 @@
   {
     "word": "detached",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "",
@@ -3852,7 +3774,6 @@
   {
     "word": "determinate",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "precisely determined or limited or defined",
@@ -3863,7 +3784,6 @@
   {
     "word": "devilish",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "showing the cunning or ingenuity or wickedness typical of a devil",
@@ -3874,7 +3794,6 @@
   {
     "word": "devious",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "indirect in departing from the accepted or proper way",
@@ -3885,7 +3804,6 @@
   {
     "word": "diagnostic",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "characteristic or indicative of a disease",
@@ -3894,9 +3812,18 @@
     ]
   },
   {
+    "word": "diametric",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "characterized by opposite extremes",
+        "example": "completely opposed"
+      }
+    ]
+  },
+  {
     "word": "diaphanous",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "so thin as to transmit light",
@@ -3907,7 +3834,6 @@
   {
     "word": "different",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "unlike in nature or quality or form or degree",
@@ -3918,7 +3844,6 @@
   {
     "word": "difficult",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not easy",
@@ -3927,9 +3852,18 @@
     ]
   },
   {
+    "word": "digressive",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(of e.g. speech and writing) tending to depart from the main point or cover a wide range of subjects",
+        "example": "amusingly digressive with satirical thrusts at women's fashions among other things"
+      }
+    ]
+  },
+  {
     "word": "dim",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "lacking clarity or distinctness",
@@ -3940,7 +3874,6 @@
   {
     "word": "direct",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "lacking compromising or mitigating elements",
@@ -3959,7 +3892,6 @@
   {
     "word": "dirty",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "soiled or likely to soil with dirt or grime",
@@ -3978,7 +3910,6 @@
   {
     "word": "disconnected",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "having been divided",
@@ -3989,7 +3920,6 @@
   {
     "word": "discriminatory",
     "pos": "adjective",
-    "length": "14",
     "meanings": [
       {
         "definition": "manifesting partiality",
@@ -4000,7 +3930,6 @@
   {
     "word": "disdainful",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having or showing arrogant superiority to and disdain of those one views as unworthy",
@@ -4011,7 +3940,6 @@
   {
     "word": "diseased",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "caused by or altered by or manifesting disease or pathology",
@@ -4022,7 +3950,6 @@
   {
     "word": "disgusted",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "having a strong distaste from surfeit",
@@ -4033,7 +3960,6 @@
   {
     "word": "disgusting",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "highly offensive",
@@ -4042,9 +3968,18 @@
     ]
   },
   {
+    "word": "disheveled",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "in disarray",
+        "example": "extremely disorderly"
+      }
+    ]
+  },
+  {
     "word": "disquieted",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "afflicted with or marked by anxious uneasiness or trouble or grief",
@@ -4055,7 +3990,6 @@
   {
     "word": "disrespectful",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "exhibiting lack of respect",
@@ -4066,7 +4000,6 @@
   {
     "word": "disruptive",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "characterized by unrest or disorder or insubordination",
@@ -4077,7 +4010,6 @@
   {
     "word": "dissimilar",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "not similar",
@@ -4088,7 +4020,6 @@
   {
     "word": "dissipated",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "preoccupied with the pursuit of pleasure and especially games of chance",
@@ -4099,7 +4030,6 @@
   {
     "word": "distant",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "separated in space or coming from or going to a distance",
@@ -4114,7 +4044,6 @@
   {
     "word": "distinct",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "easy to perceive",
@@ -4129,7 +4058,6 @@
   {
     "word": "distinguished",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "used of a person's appearance or behavior",
@@ -4140,7 +4068,6 @@
   {
     "word": "distressed",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "facing or experiencing financial trouble or difficulty",
@@ -4151,7 +4078,6 @@
   {
     "word": "distressing",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "causing distress or worry or anxiety",
@@ -4162,7 +4088,6 @@
   {
     "word": "diurnal",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -4173,7 +4098,6 @@
   {
     "word": "diversified",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "having variety of character or form or components",
@@ -4184,7 +4108,6 @@
   {
     "word": "divine",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "being of such surpassing excellence as to suggest inspiration by the gods",
@@ -4199,7 +4122,6 @@
   {
     "word": "dizzy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having or causing a whirling sensation",
@@ -4210,7 +4132,6 @@
   {
     "word": "dogged",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "stubbornly unyielding",
@@ -4221,7 +4142,6 @@
   {
     "word": "domestic",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "of or involving the home or family",
@@ -4232,7 +4152,6 @@
   {
     "word": "done",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "having finished or arrived at completion",
@@ -4243,7 +4162,6 @@
   {
     "word": "doomed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "marked by or promising bad fortune",
@@ -4254,7 +4172,6 @@
   {
     "word": "doped",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "under the influence of narcotics",
@@ -4265,7 +4182,6 @@
   {
     "word": "dormant",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -4276,7 +4192,6 @@
   {
     "word": "double",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "consisting of or involving two parts or components usually in pairs",
@@ -4287,7 +4202,6 @@
   {
     "word": "doubtful",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "open to doubt or suspicion",
@@ -4298,7 +4212,6 @@
   {
     "word": "dour",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "harshly uninviting or formidable in manner or appearance",
@@ -4309,7 +4222,6 @@
   {
     "word": "down",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "being or moving lower in position or less in some value",
@@ -4320,7 +4232,6 @@
   {
     "word": "drab",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "lacking brightness or color",
@@ -4331,7 +4242,6 @@
   {
     "word": "dramatic",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "sensational in appearance or thrilling in effect",
@@ -4342,7 +4252,6 @@
   {
     "word": "dreamy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "lacking spirit or liveliness",
@@ -4353,7 +4262,6 @@
   {
     "word": "dried",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "preserved by removing natural moisture",
@@ -4364,7 +4272,6 @@
   {
     "word": "drowsy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "half asleep",
@@ -4375,7 +4282,6 @@
   {
     "word": "dry",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "humorously sarcastic or mocking",
@@ -4394,7 +4300,6 @@
   {
     "word": "ductile",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "capable of being shaped or bent or drawn out",
@@ -4405,7 +4310,6 @@
   {
     "word": "due",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "suitable to or expected in the circumstances",
@@ -4416,7 +4320,6 @@
   {
     "word": "dull",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "lacking in liveliness or animation",
@@ -4431,7 +4334,6 @@
   {
     "word": "dying",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "in or associated with the process of passing from life or ceasing to be",
@@ -4442,7 +4344,6 @@
   {
     "word": "eager",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having or showing keen interest or intense desire or impatient expectancy",
@@ -4453,7 +4354,6 @@
   {
     "word": "earlier",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -4464,7 +4364,6 @@
   {
     "word": "early",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "being or occurring at an early stage of development",
@@ -4479,7 +4378,6 @@
   {
     "word": "earned",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "gained or acquired",
@@ -4490,7 +4388,6 @@
   {
     "word": "earthly",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "of or belonging to or characteristic of this earth as distinguished from heaven",
@@ -4501,7 +4398,6 @@
   {
     "word": "easy",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "easy money",
@@ -4520,7 +4416,6 @@
   {
     "word": "economical",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "",
@@ -4531,7 +4426,6 @@
   {
     "word": "effective",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "existing in fact",
@@ -4548,9 +4442,18 @@
     ]
   },
   {
+    "word": "eldritch",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "suggesting the operation of supernatural influences",
+        "example": "an eldritch screech"
+      }
+    ]
+  },
+  {
     "word": "electric",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "using or providing or producing or transmitting or operated by electricity",
@@ -4561,7 +4464,6 @@
   {
     "word": "elegant",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "refined and tasteful in appearance or behavior or style",
@@ -4572,7 +4474,6 @@
   {
     "word": "elementary",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "easy and not involved or complicated",
@@ -4583,7 +4484,6 @@
   {
     "word": "elongated",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "drawn out or made longer spatially",
@@ -4594,7 +4494,6 @@
   {
     "word": "emergent",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "coming into existence",
@@ -4605,7 +4504,6 @@
   {
     "word": "eminent",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "of imposing height",
@@ -4616,7 +4514,6 @@
   {
     "word": "empirical",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "derived from experiment and observation rather than theory",
@@ -4627,7 +4524,6 @@
   {
     "word": "empty",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "holding or containing nothing",
@@ -4638,7 +4534,6 @@
   {
     "word": "endless",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "tiresomely long",
@@ -4649,7 +4544,6 @@
   {
     "word": "enjoyable",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "affording satisfaction or pleasure",
@@ -4660,7 +4554,6 @@
   {
     "word": "enormous",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "extraordinarily large in size or extent or amount or power or degree",
@@ -4671,7 +4564,6 @@
   {
     "word": "entire",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "constituting the full quantity or extent",
@@ -4682,7 +4574,6 @@
   {
     "word": "ephemeral",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "lasting a very short time",
@@ -4693,7 +4584,6 @@
   {
     "word": "epic",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "very imposing or impressive",
@@ -4704,7 +4594,6 @@
   {
     "word": "epicurean",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "displaying luxury and furnishing gratification to the senses",
@@ -4715,7 +4604,6 @@
   {
     "word": "equivocal",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "open to two or more interpretations",
@@ -4726,7 +4614,6 @@
   {
     "word": "erect",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "upright in position or posture",
@@ -4737,7 +4624,6 @@
   {
     "word": "erratic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "liable to sudden unpredictable change",
@@ -4748,7 +4634,6 @@
   {
     "word": "essential",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "absolutely necessary",
@@ -4759,7 +4644,6 @@
   {
     "word": "established",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "brought about or set up or accepted",
@@ -4768,9 +4652,18 @@
     ]
   },
   {
+    "word": "estrous",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "(of lower mammals) showing or in a state of estrus"
+      }
+    ]
+  },
+  {
     "word": "ethical",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "conforming to accepted standards of social or professional behavior",
@@ -4781,7 +4674,6 @@
   {
     "word": "even",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "equal in degree or extent or amount",
@@ -4796,7 +4688,6 @@
   {
     "word": "exalted",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "of high moral or intellectual value",
@@ -4807,7 +4698,6 @@
   {
     "word": "exasperating",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "extremely annoying or displeasing",
@@ -4818,7 +4708,6 @@
   {
     "word": "exceeding",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "far beyond what is usual in magnitude or degree",
@@ -4829,7 +4718,6 @@
   {
     "word": "excellent",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "",
@@ -4840,7 +4728,6 @@
   {
     "word": "excess",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "more than is needed desired or required",
@@ -4851,7 +4738,6 @@
   {
     "word": "excessive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "beyond normal limits",
@@ -4866,7 +4752,6 @@
   {
     "word": "exhausted",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "drained of energy or effectiveness",
@@ -4877,7 +4762,6 @@
   {
     "word": "exhaustive",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "performed comprehensively and completely",
@@ -4888,7 +4772,6 @@
   {
     "word": "exorbitant",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "greatly exceeding bounds of reason or moderation",
@@ -4899,7 +4782,6 @@
   {
     "word": "expansive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "of behavior that is impressive and ambitious in scale or scope",
@@ -4910,7 +4792,6 @@
   {
     "word": "explicit",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "precisely and clearly expressed or readily observable",
@@ -4921,7 +4802,6 @@
   {
     "word": "exploratory",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "serving in or intended for exploration or discovery",
@@ -4932,7 +4812,6 @@
   {
     "word": "explosive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "serving to explode or characterized by explosion or sudden outburst",
@@ -4943,7 +4822,6 @@
   {
     "word": "extensive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "large in spatial extent or range or scope or quantity",
@@ -4954,7 +4832,6 @@
   {
     "word": "extinct",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "no longer in existence",
@@ -4965,7 +4842,6 @@
   {
     "word": "extraordinary",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "beyond what is ordinary or usual",
@@ -4976,7 +4852,6 @@
   {
     "word": "extreme",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "of the greatest possible degree or extent or intensity",
@@ -4995,7 +4870,6 @@
   {
     "word": "extrinsic",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not forming an essential part of a thing or arising or originating from the outside",
@@ -5006,7 +4880,6 @@
   {
     "word": "exuberant",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "produced or growing in extreme abundance",
@@ -5017,7 +4890,6 @@
   {
     "word": "faint",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "deficient in magnitude",
@@ -5036,7 +4908,6 @@
   {
     "word": "fair",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "free from favoritism or self-interest or bias or deception",
@@ -5047,7 +4918,6 @@
   {
     "word": "fake",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not genuine or real",
@@ -5058,7 +4928,6 @@
   {
     "word": "familiar",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "within normal everyday experience",
@@ -5069,7 +4938,6 @@
   {
     "word": "famished",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "extremely hungry",
@@ -5080,7 +4948,6 @@
   {
     "word": "fanciful",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "not based on fact",
@@ -5091,7 +4958,6 @@
   {
     "word": "fantastic",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "extraordinarily good or great",
@@ -5102,7 +4968,6 @@
   {
     "word": "far",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "located at a great distance in time or space or degree",
@@ -5113,7 +4978,6 @@
   {
     "word": "faraway",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "very far away in space or time",
@@ -5124,7 +4988,6 @@
   {
     "word": "fast",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "acting or moving or capable of acting or moving quickly",
@@ -5135,7 +4998,6 @@
   {
     "word": "fastidious",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "giving careful attention to detail",
@@ -5150,7 +5012,6 @@
   {
     "word": "fat",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "marked by great fruitfulness",
@@ -5161,7 +5022,6 @@
   {
     "word": "faultless",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "without fault or error",
@@ -5172,7 +5032,6 @@
   {
     "word": "faulty",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "characterized by errors",
@@ -5181,9 +5040,18 @@
     ]
   },
   {
+    "word": "favorable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "encouraging or approving or pleasing",
+        "example": "a favorable reply"
+      }
+    ]
+  },
+  {
     "word": "federal",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "national",
@@ -5194,7 +5062,6 @@
   {
     "word": "fetching",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "very attractive",
@@ -5205,7 +5072,6 @@
   {
     "word": "few",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "a quantifier that can be used with count nouns and is often preceded by `a'",
@@ -5216,7 +5082,6 @@
   {
     "word": "fewer",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -5227,7 +5092,6 @@
   {
     "word": "fiddling",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "",
@@ -5238,7 +5102,6 @@
   {
     "word": "fierce",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "marked by extreme intensity of emotions or convictions",
@@ -5249,7 +5112,6 @@
   {
     "word": "filled",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -5260,7 +5122,6 @@
   {
     "word": "filthy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "disgustingly dirty",
@@ -5271,7 +5132,6 @@
   {
     "word": "fine",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "characterized by elegance or refinement or accomplishment",
@@ -5286,7 +5146,6 @@
   {
     "word": "fingered",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having or resembling a finger or fingers",
@@ -5297,7 +5156,6 @@
   {
     "word": "firm",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "unwavering in devotion to friend or vow or cause",
@@ -5312,7 +5170,6 @@
   {
     "word": "first",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "preceding all others in time or space or degree",
@@ -5327,7 +5184,6 @@
   {
     "word": "fishy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -5338,7 +5194,6 @@
   {
     "word": "fit",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "meeting adequate standards for a purpose",
@@ -5349,7 +5204,6 @@
   {
     "word": "flat",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "having a surface without slope tilt in which no part is higher or lower than another",
@@ -5360,7 +5214,6 @@
   {
     "word": "fleet",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "moving very fast",
@@ -5371,7 +5224,6 @@
   {
     "word": "fleeting",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "lasting for a markedly brief time",
@@ -5382,7 +5234,6 @@
   {
     "word": "flimsy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "lacking substance or significance",
@@ -5393,7 +5244,6 @@
   {
     "word": "flying",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "hurried and brief",
@@ -5404,7 +5254,6 @@
   {
     "word": "following",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "immediately following in time or order",
@@ -5415,7 +5264,6 @@
   {
     "word": "foolhardy",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "marked by defiant disregard for danger or consequences",
@@ -5426,7 +5274,6 @@
   {
     "word": "forceful",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "characterized by or full of force or strength (often but not necessarily physical)",
@@ -5437,7 +5284,6 @@
   {
     "word": "formal",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "being in accord with established forms and conventions and requirements (as e.g. of formal dress)",
@@ -5448,7 +5294,6 @@
   {
     "word": "formidable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "extremely impressive in strength or excellence",
@@ -5459,7 +5304,6 @@
   {
     "word": "foster",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "providing or receiving nurture or parental care though not related by blood or legal ties",
@@ -5470,7 +5314,6 @@
   {
     "word": "frantic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "excessively agitated",
@@ -5481,7 +5324,6 @@
   {
     "word": "free",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "",
@@ -5496,7 +5338,6 @@
   {
     "word": "frenzied",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "affected with or marked by frenzy or mania uncontrolled by reason",
@@ -5507,7 +5348,6 @@
   {
     "word": "fresh",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "improperly forward or bold",
@@ -5518,7 +5358,6 @@
   {
     "word": "friendly",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "characteristic of or befitting a friend",
@@ -5537,7 +5376,6 @@
   {
     "word": "frigid",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "devoid of warmth and cordiality",
@@ -5548,7 +5386,6 @@
   {
     "word": "frozen",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "turned into ice",
@@ -5559,7 +5396,6 @@
   {
     "word": "full",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "containing as much or as many as is possible or normal",
@@ -5570,7 +5406,6 @@
   {
     "word": "functional",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "fit or ready for use or service",
@@ -5581,7 +5416,6 @@
   {
     "word": "fundamental",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "being or involving basic facts or principles",
@@ -5596,7 +5430,6 @@
   {
     "word": "further",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "more distant in especially degree",
@@ -5607,7 +5440,6 @@
   {
     "word": "furtive",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "marked by quiet and caution and secrecy",
@@ -5618,7 +5450,6 @@
   {
     "word": "futile",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "producing no result or effect",
@@ -5629,7 +5460,6 @@
   {
     "word": "gallant",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "having or displaying great dignity or nobility",
@@ -5640,7 +5470,6 @@
   {
     "word": "gawky",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "lacking grace in movement or posture",
@@ -5651,7 +5480,6 @@
   {
     "word": "gay",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "full of or showing high-spirited merriment",
@@ -5662,7 +5490,6 @@
   {
     "word": "general",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "applying to all or most members of a category or group",
@@ -5673,7 +5500,6 @@
   {
     "word": "gentle",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having or showing a kindly or tender nature",
@@ -5688,7 +5514,6 @@
   {
     "word": "genuine",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "not pretended",
@@ -5697,9 +5522,18 @@
     ]
   },
   {
+    "word": "geomorphologic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "\\      \\pertaining to geological structure"
+      }
+    ]
+  },
+  {
     "word": "ghastly",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "shockingly repellent",
@@ -5710,7 +5544,6 @@
   {
     "word": "gigantic",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "so exceedingly large or extensive as to suggest a giant or mammoth",
@@ -5721,7 +5554,6 @@
   {
     "word": "gilded",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "based on pretense",
@@ -5730,9 +5562,18 @@
     ]
   },
   {
+    "word": "glabrous",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "having no hair or similar growth"
+      }
+    ]
+  },
+  {
     "word": "glad",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "showing or causing joy and pleasure",
@@ -5743,7 +5584,6 @@
   {
     "word": "glassy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -5754,7 +5594,6 @@
   {
     "word": "glistening",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "reflecting light",
@@ -5765,7 +5604,6 @@
   {
     "word": "global",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "involving the entire earth",
@@ -5776,7 +5614,6 @@
   {
     "word": "gloomy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "filled with melancholy and despondency",
@@ -5787,7 +5624,6 @@
   {
     "word": "glorious",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having great beauty and splendor",
@@ -5798,7 +5634,6 @@
   {
     "word": "gluttonous",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "given to excess in consumption of especially food or drink",
@@ -5809,7 +5644,6 @@
   {
     "word": "godforsaken",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "located in a dismal or remote area",
@@ -5820,7 +5654,6 @@
   {
     "word": "gold",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "made from or covered with gold",
@@ -5831,7 +5664,6 @@
   {
     "word": "good",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "resulting favorably",
@@ -5850,7 +5682,6 @@
   {
     "word": "goodly",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "large in amount or extent or degree",
@@ -5861,7 +5692,6 @@
   {
     "word": "goofy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -5870,9 +5700,18 @@
     ]
   },
   {
+    "word": "grandiloquent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "puffed up with vanity",
+        "example": "a grandiloquent and boastful manner"
+      }
+    ]
+  },
+  {
     "word": "graphic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "evoking lifelike images within the mind",
@@ -5883,7 +5722,6 @@
   {
     "word": "grave",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "of great gravity or crucial import",
@@ -5898,7 +5736,6 @@
   {
     "word": "great",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "relatively large in size or number or extent",
@@ -5909,7 +5746,6 @@
   {
     "word": "greedy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "wanting to eat or drink more than one can reasonably consume",
@@ -5920,7 +5756,6 @@
   {
     "word": "green",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "of the color between blue and yellow in the color spectrum",
@@ -5935,7 +5770,6 @@
   {
     "word": "grievous",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "causing or marked by grief or anguish",
@@ -5946,7 +5780,6 @@
   {
     "word": "grim",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not to be placated or appeased or moved by entreaty",
@@ -5957,7 +5790,6 @@
   {
     "word": "gruff",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "deep and harsh sounding as if from shouting or illness or emotion",
@@ -5968,7 +5800,6 @@
   {
     "word": "gutsy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "marked by courage and determination in the face of difficulties or danger",
@@ -5979,7 +5810,6 @@
   {
     "word": "handy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "easy to reach",
@@ -5990,7 +5820,6 @@
   {
     "word": "haphazard",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "marked by great carelessness",
@@ -6001,7 +5830,6 @@
   {
     "word": "hapless",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "deserving or inciting pity",
@@ -6012,7 +5840,6 @@
   {
     "word": "hard",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "very strong or vigorous",
@@ -6023,7 +5850,6 @@
   {
     "word": "hardheaded",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "guided by practical experience and observation rather than theory",
@@ -6034,7 +5860,6 @@
   {
     "word": "hardy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having rugged physical strength",
@@ -6045,7 +5870,6 @@
   {
     "word": "harsh",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "unpleasantly rough or jarring to the senses",
@@ -6056,7 +5880,6 @@
   {
     "word": "hasty",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "done with very great haste and without due deliberation",
@@ -6067,7 +5890,6 @@
   {
     "word": "haunted",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "having or showing excessive or compulsive concern with something",
@@ -6078,7 +5900,6 @@
   {
     "word": "headed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having a head of a specified kind or anything that serves as a head",
@@ -6089,7 +5910,6 @@
   {
     "word": "healthful",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "conducive to good health of body or mind",
@@ -6100,7 +5920,6 @@
   {
     "word": "healthy",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "exercising or showing good judgment",
@@ -6115,7 +5934,6 @@
   {
     "word": "hearty",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "providing abundant nourishment",
@@ -6126,7 +5944,6 @@
   {
     "word": "heavy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "(of sleep) deep and complete",
@@ -6153,7 +5970,6 @@
   {
     "word": "hideous",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "grossly offensive to decency or morality",
@@ -6164,7 +5980,6 @@
   {
     "word": "high",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "(literal meaning) being at or having a relatively great or specific elevation or upward extension (sometimes used in combinations like `knee-high')",
@@ -6179,7 +5994,6 @@
   {
     "word": "historic",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "belonging to the past",
@@ -6190,7 +6004,6 @@
   {
     "word": "histrionic",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "characteristic of acting or a stage performance",
@@ -6201,7 +6014,6 @@
   {
     "word": "hollow",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "not solid",
@@ -6210,9 +6022,18 @@
     ]
   },
   {
+    "word": "honorable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "worthy of being honored",
+        "example": "entitled to honor and respect"
+      }
+    ]
+  },
+  {
     "word": "horned",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having a horn or horns or hornlike parts or horns of a particular kind",
@@ -6223,7 +6044,6 @@
   {
     "word": "hostile",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -6238,7 +6058,6 @@
   {
     "word": "hot",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "used of physical heat",
@@ -6259,9 +6078,18 @@
     ]
   },
   {
+    "word": "hotheaded",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "characterized by undue haste and lack of thought or deliberation"
+      }
+    ]
+  },
+  {
     "word": "huffy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -6272,7 +6100,6 @@
   {
     "word": "huge",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "unusually great in size or amount or degree or especially extent or scope",
@@ -6283,7 +6110,6 @@
   {
     "word": "human",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having human form or attributes as opposed to those of animals or divine beings",
@@ -6294,7 +6120,6 @@
   {
     "word": "humble",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "low or inferior in station or quality",
@@ -6305,7 +6130,6 @@
   {
     "word": "hushed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "in a softened tone",
@@ -6314,9 +6138,18 @@
     ]
   },
   {
+    "word": "hygroscopic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "absorbing moisture (as from the air)",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "hypnotic",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "attracting and holding interest as if by a spell",
@@ -6327,7 +6160,6 @@
   {
     "word": "ideal",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "constituting or existing only in the form of an idea or mental image or conception",
@@ -6338,7 +6170,6 @@
   {
     "word": "identical",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "being the exact same one",
@@ -6353,7 +6184,6 @@
   {
     "word": "ideological",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "concerned with or suggestive of ideas",
@@ -6364,7 +6194,6 @@
   {
     "word": "idle",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not in action or at work",
@@ -6375,7 +6204,6 @@
   {
     "word": "ignorant",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "uneducated in general",
@@ -6386,7 +6214,6 @@
   {
     "word": "ill",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "presaging ill fortune",
@@ -6397,7 +6224,6 @@
   {
     "word": "illegitimate",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "contrary to or forbidden by law",
@@ -6408,7 +6234,6 @@
   {
     "word": "illuminated",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "provided with artificial light",
@@ -6419,7 +6244,6 @@
   {
     "word": "imaginative",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "(used of persons or artifacts) marked by independence and creativity in thought or action",
@@ -6430,7 +6254,6 @@
   {
     "word": "immaculate",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "completely neat and clean",
@@ -6441,7 +6264,6 @@
   {
     "word": "immediate",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "performed with little or no delay",
@@ -6452,7 +6274,6 @@
   {
     "word": "impalpable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "imperceptible to the senses or the mind",
@@ -6463,7 +6284,6 @@
   {
     "word": "impassive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "having or revealing little emotion or sensibility",
@@ -6474,7 +6294,6 @@
   {
     "word": "imperfect",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not perfect",
@@ -6485,7 +6304,6 @@
   {
     "word": "imperial",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "belonging to or befitting a supreme ruler",
@@ -6496,7 +6314,6 @@
   {
     "word": "impermanent",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "not permanent",
@@ -6507,7 +6324,6 @@
   {
     "word": "imperturbable",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "not easily perturbed or excited or upset",
@@ -6518,7 +6334,6 @@
   {
     "word": "implicit",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "being without doubt or reserve",
@@ -6533,7 +6348,6 @@
   {
     "word": "impractical",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "not practical",
@@ -6544,7 +6358,6 @@
   {
     "word": "impregnable",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "immune to attack",
@@ -6555,7 +6368,6 @@
   {
     "word": "inaccessible",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "capable of being reached only with great difficulty or not at all",
@@ -6566,7 +6378,6 @@
   {
     "word": "inaccurate",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "not accuratethe thermometer is inaccurate",
@@ -6577,7 +6388,6 @@
   {
     "word": "inactive",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "lacking activity",
@@ -6588,7 +6398,6 @@
   {
     "word": "inadequate",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "of insufficient quantity to meet a need",
@@ -6599,7 +6408,6 @@
   {
     "word": "inarticulate",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "without or deprived of the use of speech or words",
@@ -6610,7 +6418,6 @@
   {
     "word": "inaugural",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "serving to set in motion",
@@ -6621,7 +6428,6 @@
   {
     "word": "incidental",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "(sometimes followed by `to') minor or casual or subordinate in significance or nature or occurring as a chance concomitant or consequence",
@@ -6632,7 +6438,6 @@
   {
     "word": "incipient",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "only partly in existence",
@@ -6643,7 +6448,6 @@
   {
     "word": "inclusive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "including much or everything",
@@ -6654,7 +6458,6 @@
   {
     "word": "incomparable",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "such that comparison is impossible",
@@ -6665,7 +6468,6 @@
   {
     "word": "incomplete",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "not complete or total",
@@ -6676,7 +6478,6 @@
   {
     "word": "inconclusive",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "not conclusive",
@@ -6687,7 +6488,6 @@
   {
     "word": "inconstant",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "likely to change frequently often without apparent or cogent reason",
@@ -6698,7 +6498,6 @@
   {
     "word": "incorrect",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not correct",
@@ -6709,7 +6508,6 @@
   {
     "word": "indecent",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "not in keeping with accepted standards of what is right or proper in polite society",
@@ -6720,7 +6518,6 @@
   {
     "word": "indefinable",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "defying expression or description",
@@ -6731,7 +6528,6 @@
   {
     "word": "indeterminate",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "not precisely determined or established",
@@ -6742,7 +6538,6 @@
   {
     "word": "indifferent",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "being neither good nor bad",
@@ -6753,7 +6548,6 @@
   {
     "word": "indignant",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "angered at something unjust or wrong",
@@ -6764,7 +6558,6 @@
   {
     "word": "indirect",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "extended senses",
@@ -6775,7 +6568,6 @@
   {
     "word": "inert",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -6786,7 +6578,6 @@
   {
     "word": "infallible",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "incapable of failure or error",
@@ -6797,7 +6588,6 @@
   {
     "word": "infinite",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "total and all-embracing",
@@ -6808,7 +6598,6 @@
   {
     "word": "iniquitous",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "characterized by iniquity",
@@ -6819,7 +6608,6 @@
   {
     "word": "insomniac",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "experiencing or accompanied by sleeplessness",
@@ -6830,7 +6618,6 @@
   {
     "word": "integral",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "constituting the undiminished entirety",
@@ -6841,7 +6628,6 @@
   {
     "word": "intellectual",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "appealing to or using the intellect",
@@ -6852,7 +6638,6 @@
   {
     "word": "intense",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "possessing or displaying a distinctive feature to a heightened degree",
@@ -6863,7 +6648,6 @@
   {
     "word": "intensive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "characterized by a high degree or intensity",
@@ -6874,7 +6658,6 @@
   {
     "word": "interested",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having or showing interest",
@@ -6885,7 +6668,6 @@
   {
     "word": "intermediate",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "lying between two extremes in time or space or state",
@@ -6896,7 +6678,6 @@
   {
     "word": "interpreted",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "understood in a certain way",
@@ -6907,7 +6688,6 @@
   {
     "word": "interstate",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "involving and relating to the mutual relations of states especially of the United States",
@@ -6918,7 +6698,6 @@
   {
     "word": "intractable",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "not tractable",
@@ -6929,7 +6708,6 @@
   {
     "word": "invisible",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "impossible or nearly impossible to see",
@@ -6940,7 +6718,6 @@
   {
     "word": "involuntary",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "",
@@ -6955,7 +6732,6 @@
   {
     "word": "involved",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "connected by participation or association or use",
@@ -6966,7 +6742,6 @@
   {
     "word": "jammed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -6977,7 +6752,6 @@
   {
     "word": "juicy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having strong sexual appeal",
@@ -6988,7 +6762,6 @@
   {
     "word": "just",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "used especially of what is legally or ethically right or proper or fitting",
@@ -6999,7 +6772,6 @@
   {
     "word": "jutting",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "extending out above or beyond a surface or boundary",
@@ -7010,7 +6782,6 @@
   {
     "word": "kind",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "having or showing a tender and considerate and helpful nature",
@@ -7021,7 +6792,6 @@
   {
     "word": "knowing",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "highly educated",
@@ -7032,7 +6802,6 @@
   {
     "word": "known",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "apprehended with certainty",
@@ -7043,7 +6812,6 @@
   {
     "word": "lamenting",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "vocally expressing grief or sorrow or resembling such expression",
@@ -7054,7 +6822,6 @@
   {
     "word": "large",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "above average in size or number or quantity or magnitude or extent",
@@ -7065,7 +6832,6 @@
   {
     "word": "larval",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "immature of its kind",
@@ -7076,7 +6842,6 @@
   {
     "word": "last",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "occurring at the time of death",
@@ -7091,7 +6856,6 @@
   {
     "word": "late",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "being or occurring at an advanced period of time or after a usual or expected time",
@@ -7102,7 +6866,6 @@
   {
     "word": "lavish",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "very generous",
@@ -7113,7 +6876,6 @@
   {
     "word": "leafed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having leaves or leaves as specified",
@@ -7124,7 +6886,6 @@
   {
     "word": "leavened",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "made light by aerating as with yeast or baking powder",
@@ -7135,7 +6896,6 @@
   {
     "word": "leftover",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "not used up",
@@ -7146,7 +6906,6 @@
   {
     "word": "lenient",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "not strict",
@@ -7157,7 +6916,6 @@
   {
     "word": "lewd",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "suggestive of or tending to moral looseness",
@@ -7168,7 +6926,6 @@
   {
     "word": "light",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having relatively few calories",
@@ -7191,7 +6948,6 @@
   {
     "word": "like",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "resembling or similar",
@@ -7206,7 +6962,6 @@
   {
     "word": "likely",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "has a good chance of being the case or of coming about",
@@ -7217,7 +6972,6 @@
   {
     "word": "lilting",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "characterized by a buoyant rhythm",
@@ -7228,7 +6982,6 @@
   {
     "word": "limpid",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -7239,7 +6992,6 @@
   {
     "word": "lineal",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "in a straight unbroken line of descent from parent to child",
@@ -7250,7 +7002,6 @@
   {
     "word": "little",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "small in a way that arouses feelings (of tenderness or its opposite depending on the context)",
@@ -7261,7 +7012,6 @@
   {
     "word": "live",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "exerting force or containing energy",
@@ -7272,7 +7022,6 @@
   {
     "word": "lively",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "full of spirit",
@@ -7283,7 +7032,6 @@
   {
     "word": "living",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -7294,7 +7042,6 @@
   {
     "word": "local",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "of or belonging to or characteristic of a particular locality or neighborhood",
@@ -7305,7 +7052,6 @@
   {
     "word": "located",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "situated in a particular spot or position",
@@ -7316,7 +7062,6 @@
   {
     "word": "lonely",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "marked by dejection from being alone",
@@ -7327,7 +7072,6 @@
   {
     "word": "long",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "having or being more than normal or necessaryin long supply",
@@ -7346,7 +7090,6 @@
   {
     "word": "looking",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "appearing to be as specified",
@@ -7357,7 +7100,6 @@
   {
     "word": "loose",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "not tense or taut",
@@ -7368,7 +7110,6 @@
   {
     "word": "lost",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "no longer in your possession or control",
@@ -7383,7 +7124,6 @@
   {
     "word": "loud",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "characterized by or producing sound of great volume or intensity",
@@ -7394,7 +7134,6 @@
   {
     "word": "low",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "literal meanings",
@@ -7405,7 +7144,6 @@
   {
     "word": "majestic",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "majestic in manner or bearing",
@@ -7416,7 +7154,6 @@
   {
     "word": "major",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "greater in scope or effect",
@@ -7427,7 +7164,6 @@
   {
     "word": "malign",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "evil or harmful in nature or influence",
@@ -7438,7 +7174,6 @@
   {
     "word": "manifold",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "many and varied",
@@ -7449,7 +7184,6 @@
   {
     "word": "many",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'",
@@ -7460,7 +7194,6 @@
   {
     "word": "marked",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having or as if having an identifying mark or a mark as specified",
@@ -7471,7 +7204,6 @@
   {
     "word": "massive",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "imposing in size or bulk or solidity",
@@ -7482,7 +7214,6 @@
   {
     "word": "matchless",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "eminent beyond or above comparison",
@@ -7493,7 +7224,6 @@
   {
     "word": "material",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "directly relevant to a matter especially a law case",
@@ -7504,7 +7234,6 @@
   {
     "word": "mathematical",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "of or pertaining to or of the nature of mathematics",
@@ -7515,7 +7244,6 @@
   {
     "word": "measly",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "contemptibly small in amount",
@@ -7526,7 +7254,6 @@
   {
     "word": "mechanical",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "relating to or concerned with machinery or tools",
@@ -7537,7 +7264,6 @@
   {
     "word": "meek",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "evidencing little spirit or courage",
@@ -7548,7 +7274,6 @@
   {
     "word": "mental",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "involving the mind or an intellectual process",
@@ -7559,7 +7284,6 @@
   {
     "word": "mercantile",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "profit oriented",
@@ -7568,9 +7292,18 @@
     ]
   },
   {
+    "word": "midwestern",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "of a region of the United States generally including Ohio",
+        "example": "Indiana"
+      }
+    ]
+  },
+  {
     "word": "mild",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "moderate in type or degree or effect or force",
@@ -7581,7 +7314,6 @@
   {
     "word": "mindful",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "bearing in mind",
@@ -7592,7 +7324,6 @@
   {
     "word": "mini",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "",
@@ -7603,7 +7334,6 @@
   {
     "word": "minimal",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "the least possible",
@@ -7614,7 +7344,6 @@
   {
     "word": "minor",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "relatively moderate limited or small",
@@ -7629,7 +7358,6 @@
   {
     "word": "miserable",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "very unhappy",
@@ -7640,7 +7368,6 @@
   {
     "word": "mobile",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "migratory",
@@ -7651,7 +7378,6 @@
   {
     "word": "moderate",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "being within reasonable or average limits",
@@ -7660,9 +7386,8 @@
     ]
   },
   {
-    "word": "Modern",
+    "word": "modern",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -7673,7 +7398,6 @@
   {
     "word": "modern",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "belonging to the modern era",
@@ -7684,7 +7408,6 @@
   {
     "word": "moral",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "concerned with principles of right and wrong or conforming to standards of behavior and character based on those principles",
@@ -7695,7 +7418,6 @@
   {
     "word": "moribund",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "being on the point of death",
@@ -7706,7 +7428,6 @@
   {
     "word": "motley",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having sections or patches colored differently and usually brightly",
@@ -7717,7 +7438,6 @@
   {
     "word": "multiple",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having or involving or consisting of more than one part or entity or individual",
@@ -7728,7 +7448,6 @@
   {
     "word": "municipal",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "relating or belonging to or characteristic of a municipality",
@@ -7739,7 +7458,6 @@
   {
     "word": "mute",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "expressed without speech",
@@ -7750,7 +7468,6 @@
   {
     "word": "mysterious",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having an import not apparent to the senses nor obvious to the intelligence",
@@ -7761,7 +7478,6 @@
   {
     "word": "naked",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "devoid of elaboration or diminution or concealment",
@@ -7772,7 +7488,6 @@
   {
     "word": "nascent",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "being born or beginning",
@@ -7783,7 +7498,6 @@
   {
     "word": "nasty",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "offensive or even (of persons) malicious",
@@ -7794,7 +7508,6 @@
   {
     "word": "national",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "concerned with or applicable to or belonging to an entire nation or country",
@@ -7805,7 +7518,6 @@
   {
     "word": "natural",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "in accordance with nature",
@@ -7828,7 +7540,6 @@
   {
     "word": "naturalistic",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "representing what is real",
@@ -7839,7 +7550,6 @@
   {
     "word": "near",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not far distant in time or space or degree or circumstances",
@@ -7850,7 +7560,6 @@
   {
     "word": "negative",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "characterized by or displaying negation or denial or opposition or resistance",
@@ -7861,7 +7570,6 @@
   {
     "word": "new",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "(often followed by `to') unfamiliarexperiences new to him",
@@ -7876,7 +7584,6 @@
   {
     "word": "nice",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "pleasant or pleasing or agreeable in nature or appearance",
@@ -7887,7 +7594,6 @@
   {
     "word": "nominal",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "insignificantly small",
@@ -7896,9 +7602,18 @@
     ]
   },
   {
+    "word": "nonspecific",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "nontechnical",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "not characteristic of or skilled in applied arts and sciences",
@@ -7909,7 +7624,6 @@
   {
     "word": "normal",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "conforming with or constituting a norm or standard or level or type or social norm",
@@ -7924,7 +7638,6 @@
   {
     "word": "northerly",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "coming from the north",
@@ -7935,7 +7648,6 @@
   {
     "word": "northwestern",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "of a region of the United States generally including Washington",
@@ -7946,7 +7658,6 @@
   {
     "word": "nosy",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "offensively curious or inquisitive",
@@ -7957,7 +7668,6 @@
   {
     "word": "noteworthy",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "worthy of attention because interesting significant or unusual",
@@ -7968,7 +7678,6 @@
   {
     "word": "nuclear",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -7979,7 +7688,6 @@
   {
     "word": "obedient",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "dutifully complying with the commands or instructions of those in authority",
@@ -7990,7 +7698,6 @@
   {
     "word": "objective",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "belonging to immediate experience of actual things or eventsan objective example",
@@ -8001,7 +7708,6 @@
   {
     "word": "obscure",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "not clearly expressed or understood",
@@ -8012,7 +7718,6 @@
   {
     "word": "oceanic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "relating to or occurring or living in or frequenting the open ocean",
@@ -8023,7 +7728,6 @@
   {
     "word": "ocular",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "relating to or using sight",
@@ -8036,9 +7740,18 @@
     ]
   },
   {
+    "word": "odoriferous",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having a natural fragrance",
+        "example": "odoriferous spices"
+      }
+    ]
+  },
+  {
     "word": "old",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "of long duration",
@@ -8049,7 +7762,6 @@
   {
     "word": "open",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not brought to a conclusion",
@@ -8060,7 +7772,6 @@
   {
     "word": "opposite",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "being directly across from each other",
@@ -8071,7 +7782,6 @@
   {
     "word": "oppressive",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "marked by unjust severity or arbitrary behavior",
@@ -8082,7 +7792,6 @@
   {
     "word": "oral",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "",
@@ -8093,7 +7802,6 @@
   {
     "word": "ordinary",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "not exceptional in any way especially in quality or ability or size or degree",
@@ -8104,7 +7812,6 @@
   {
     "word": "organic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -8115,7 +7822,6 @@
   {
     "word": "oriented",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "adjusted or located in relation to surroundings or circumstances",
@@ -8126,7 +7832,6 @@
   {
     "word": "original",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "preceding all others in time or being as first made or performed",
@@ -8141,7 +7846,6 @@
   {
     "word": "other",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "not the same one or ones already mentioned or implied",
@@ -8152,7 +7856,6 @@
   {
     "word": "outdated",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "old",
@@ -8163,7 +7866,6 @@
   {
     "word": "outstanding",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "having a quality that thrusts itself into attention",
@@ -8172,9 +7874,18 @@
     ]
   },
   {
+    "word": "overabundant",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "excessively abundant",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "overt",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "open and observable",
@@ -8185,7 +7896,6 @@
   {
     "word": "paid",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "marked by the reception of pay",
@@ -8196,7 +7906,6 @@
   {
     "word": "pale",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "(of light) lacking in intensity or brightness",
@@ -8207,7 +7916,6 @@
   {
     "word": "palpable",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "capable of being perceived",
@@ -8218,7 +7926,6 @@
   {
     "word": "panicky",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "thrown into a state of intense fear or desperation",
@@ -8229,7 +7936,6 @@
   {
     "word": "parasitic",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "of plants or persons",
@@ -8238,9 +7944,18 @@
     ]
   },
   {
+    "word": "parlous",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "fraught with danger",
+        "example": "dangerous waters"
+      }
+    ]
+  },
+  {
     "word": "partial",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "being or affecting only a part",
@@ -8249,9 +7964,18 @@
     ]
   },
   {
+    "word": "parturient",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "giving birth",
+        "example": "a parturient heifer"
+      }
+    ]
+  },
+  {
     "word": "past",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "earlier than the present time",
@@ -8260,9 +7984,18 @@
     ]
   },
   {
+    "word": "pathless",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "lacking pathwaysroadless areas",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "patient",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "enduring trying circumstances with even temper or characterized by such endurance",
@@ -8273,7 +8006,6 @@
   {
     "word": "peaceful",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "not disturbed by strife or turmoil or war",
@@ -8284,7 +8016,6 @@
   {
     "word": "penetrative",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "tending to penetrate",
@@ -8295,7 +8026,6 @@
   {
     "word": "perceptible",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "capable of being perceived by the mind or senses",
@@ -8306,7 +8036,6 @@
   {
     "word": "perfect",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "being complete of its kind and without defect or blemish",
@@ -8317,7 +8046,6 @@
   {
     "word": "persistent",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "",
@@ -8328,7 +8056,6 @@
   {
     "word": "personal",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "concerning or affecting a particular person or his or her private life and personality",
@@ -8339,7 +8066,6 @@
   {
     "word": "pivotal",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "being of crucial importance",
@@ -8350,7 +8076,6 @@
   {
     "word": "placid",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "(of a body of water) free from disturbance by heavy waves",
@@ -8361,7 +8086,6 @@
   {
     "word": "plain",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "not elaborate or elaborated",
@@ -8372,7 +8096,6 @@
   {
     "word": "playable",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "capable of or suitable for being played or played on",
@@ -8383,7 +8106,6 @@
   {
     "word": "pleasant",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "affording pleasure",
@@ -8394,7 +8116,6 @@
   {
     "word": "plentiful",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "existing in great number or quantity",
@@ -8405,7 +8126,6 @@
   {
     "word": "pointed",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "direct and obvious in meaning or reference",
@@ -8416,7 +8136,6 @@
   {
     "word": "poisonous",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "marked by deep ill will",
@@ -8427,7 +8146,6 @@
   {
     "word": "polar",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "located at or near or coming from the earth's poles",
@@ -8438,7 +8156,6 @@
   {
     "word": "politic",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "marked by artful prudence expedience and shrewdness",
@@ -8449,7 +8166,6 @@
   {
     "word": "political",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "involving or characteristic of politics or parties or politicians",
@@ -8460,7 +8176,6 @@
   {
     "word": "poor",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "lacking in quality or substances",
@@ -8471,7 +8186,6 @@
   {
     "word": "positive",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "characterized by or displaying affirmation or acceptance or certainty etc.",
@@ -8482,7 +8196,6 @@
   {
     "word": "potent",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having a strong physiological or chemical effect",
@@ -8493,7 +8206,6 @@
   {
     "word": "potted",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -8504,7 +8216,6 @@
   {
     "word": "powerful",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "having great power or force or potency or effect",
@@ -8515,7 +8226,6 @@
   {
     "word": "practical",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "concerned with actual use or practice",
@@ -8526,7 +8236,6 @@
   {
     "word": "predatory",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "living by preying on other animals especially by catching living prey",
@@ -8537,7 +8246,6 @@
   {
     "word": "pretty",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "pleasing by delicacy or grace",
@@ -8548,7 +8256,6 @@
   {
     "word": "primary",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "of first rank or importance or value",
@@ -8559,7 +8266,6 @@
   {
     "word": "private",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "confined to particular persons or groups or providing privacy",
@@ -8570,7 +8276,6 @@
   {
     "word": "profane",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "not concerned with or devoted to religion",
@@ -8581,7 +8286,6 @@
   {
     "word": "professional",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "engaged in a profession or engaging in as a profession or means of livelihood",
@@ -8592,7 +8296,6 @@
   {
     "word": "profound",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "situated at or extending to great depth",
@@ -8607,7 +8310,6 @@
   {
     "word": "propitious",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "presenting favorable circumstances",
@@ -8618,7 +8320,6 @@
   {
     "word": "prospective",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "of or concerned with or related to the future",
@@ -8629,7 +8330,6 @@
   {
     "word": "protective",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "intended or adapted to afford protection of some kind",
@@ -8640,7 +8340,6 @@
   {
     "word": "proud",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "feeling self-respect or pleasure in something by which you measure your self-worth",
@@ -8651,7 +8350,6 @@
   {
     "word": "provocative",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "serving or tending to provoke excite or stimulate",
@@ -8662,7 +8360,6 @@
   {
     "word": "prudent",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "careful and sensible",
@@ -8673,7 +8370,6 @@
   {
     "word": "public",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "not private",
@@ -8684,7 +8380,6 @@
   {
     "word": "puffy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "abnormally distended especially by fluids or gas",
@@ -8695,7 +8390,6 @@
   {
     "word": "punctual",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "acting or arriving or performed exactly at the time appointed",
@@ -8706,7 +8400,6 @@
   {
     "word": "pure",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "free of extraneous elements of any kind",
@@ -8717,7 +8410,6 @@
   {
     "word": "quaint",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "very strange or unusual",
@@ -8728,7 +8420,6 @@
   {
     "word": "quick",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "accomplished rapidly and without delay",
@@ -8739,7 +8430,6 @@
   {
     "word": "quiet",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "characterized by an absence or near absence of agitation or activity",
@@ -8750,7 +8440,6 @@
   {
     "word": "quixotic",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "not sensible about practical matters",
@@ -8761,7 +8450,6 @@
   {
     "word": "radial",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "arranged like rays or radii",
@@ -8772,7 +8460,6 @@
   {
     "word": "radical",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -8783,7 +8470,6 @@
   {
     "word": "rampant",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "(of a plant) having a lush and unchecked growth",
@@ -8794,7 +8480,6 @@
   {
     "word": "random",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "lacking any definite plan or order or purpose",
@@ -8805,7 +8490,6 @@
   {
     "word": "rank",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "growing profusely",
@@ -8816,7 +8500,6 @@
   {
     "word": "rapid",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "characterized by speed",
@@ -8827,7 +8510,6 @@
   {
     "word": "rare",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not widely distributedrare patches of green in the desert",
@@ -8842,7 +8524,6 @@
   {
     "word": "reactive",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "",
@@ -8853,7 +8534,6 @@
   {
     "word": "ready",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "completely prepared or in condition for immediate action or use or progress",
@@ -8864,7 +8544,6 @@
   {
     "word": "real",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "capable of being treated as facthis brief time as Prime Minister brought few real benefits to the poor",
@@ -8883,7 +8562,6 @@
   {
     "word": "realistic",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "aware or expressing awareness of things as they really are",
@@ -8894,7 +8572,6 @@
   {
     "word": "receptive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "able to absorb liquid (not repellent)",
@@ -8905,7 +8582,6 @@
   {
     "word": "reciprocal",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "concerning each of two or more persons or things",
@@ -8916,7 +8592,6 @@
   {
     "word": "relational",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having a relation or being related",
@@ -8927,7 +8602,6 @@
   {
     "word": "relative",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "estimated by comparison",
@@ -8938,7 +8612,6 @@
   {
     "word": "relativistic",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "",
@@ -8949,7 +8622,6 @@
   {
     "word": "religious",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "concerned with sacred matters or religion or the church",
@@ -8960,7 +8632,6 @@
   {
     "word": "repellent",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "incapable of absorbing or mixing with",
@@ -8971,7 +8642,6 @@
   {
     "word": "republican",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having the supreme power lying in the body of citizens entitled to vote for officers and representatives responsible to them or characteristic of such government",
@@ -8982,7 +8652,6 @@
   {
     "word": "residential",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "used or designed for residence or limited to residences",
@@ -8993,7 +8662,6 @@
   {
     "word": "resolute",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "firm in purpose or belief",
@@ -9004,7 +8672,6 @@
   {
     "word": "resourceful",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "having inner resources",
@@ -9015,7 +8682,6 @@
   {
     "word": "responsible",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "worthy of or requiring responsibility or trust",
@@ -9026,7 +8692,6 @@
   {
     "word": "reversible",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "",
@@ -9037,7 +8702,6 @@
   {
     "word": "rich",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "",
@@ -9048,7 +8712,6 @@
   {
     "word": "rickety",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "inclined to shake as from weakness or defect",
@@ -9059,7 +8722,6 @@
   {
     "word": "right",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "being or located on or directed toward the side of the body to the east when facing north",
@@ -9070,7 +8732,6 @@
   {
     "word": "rigid",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "incapable of or resistant to bending",
@@ -9079,9 +8740,8 @@
     ]
   },
   {
-    "word": "Roman",
+    "word": "roman",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -9092,7 +8752,6 @@
   {
     "word": "roofed",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -9101,9 +8760,18 @@
     ]
   },
   {
+    "word": "ropey",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "rough",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having or caused by an irregular surface",
@@ -9114,7 +8782,6 @@
   {
     "word": "royal",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "of or relating to or indicative of or issued or performed by a king or queen or other monarch",
@@ -9125,7 +8792,6 @@
   {
     "word": "rubber",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "",
@@ -9136,7 +8802,6 @@
   {
     "word": "rugged",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "very difficult",
@@ -9147,7 +8812,6 @@
   {
     "word": "rural",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "living in or characteristic of farming or country life",
@@ -9158,7 +8822,6 @@
   {
     "word": "sad",
     "pos": "adjective",
-    "length": "3",
     "meanings": [
       {
         "definition": "of things that make you feel sad",
@@ -9169,7 +8832,6 @@
   {
     "word": "safe",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "free from danger or the risk of harm",
@@ -9180,7 +8842,6 @@
   {
     "word": "same",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "same in identity",
@@ -9195,7 +8856,6 @@
   {
     "word": "satiny",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having a smooth gleaming surface reflecting light",
@@ -9206,7 +8866,6 @@
   {
     "word": "scarce",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "deficient in quantity or number compared with the demand",
@@ -9217,7 +8876,6 @@
   {
     "word": "seamy",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "morally degraded",
@@ -9228,7 +8886,6 @@
   {
     "word": "secondary",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "being of second rank or importance or value",
@@ -9239,7 +8896,6 @@
   {
     "word": "secondhand",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "derived from what is primary or original",
@@ -9250,7 +8906,6 @@
   {
     "word": "secret",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "not open or public",
@@ -9261,7 +8916,6 @@
   {
     "word": "sensitive",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "responsive to physical stimuli",
@@ -9272,7 +8926,6 @@
   {
     "word": "separate",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "independent",
@@ -9283,7 +8936,6 @@
   {
     "word": "serial",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "pertaining to or occurring in or producing a series",
@@ -9294,7 +8946,6 @@
   {
     "word": "serious",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "concerned with work or important matters rather than play or trivialities",
@@ -9303,9 +8954,18 @@
     ]
   },
   {
+    "word": "sessile",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "attached directly by the base"
+      }
+    ]
+  },
+  {
     "word": "settled",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "established in a desired position or place",
@@ -9316,7 +8976,6 @@
   {
     "word": "severe",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "unsparing and uncompromising in discipline or judgment",
@@ -9331,7 +8990,6 @@
   {
     "word": "sexy",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "marked by or tending to arouse sexual desire or interest",
@@ -9342,7 +9000,6 @@
   {
     "word": "shady",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "filled with shade",
@@ -9353,7 +9010,6 @@
   {
     "word": "shaky",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "vibrating slightly and irregularly",
@@ -9364,7 +9020,6 @@
   {
     "word": "shallow",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "not deep or strong",
@@ -9379,7 +9034,6 @@
   {
     "word": "shattering",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "seemingly loud enough to break something",
@@ -9390,7 +9044,6 @@
   {
     "word": "sheathed",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "enclosed in a protective covering",
@@ -9401,7 +9054,6 @@
   {
     "word": "shipshape",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "of places",
@@ -9412,7 +9064,6 @@
   {
     "word": "short",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "(primarily spatial sense) having little length or lacking in length",
@@ -9433,9 +9084,18 @@
     ]
   },
   {
+    "word": "shriveled",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "lean and wrinkled by shrinkage as from age or illness",
+        "example": "the old woman's shriveled skin"
+      }
+    ]
+  },
+  {
     "word": "significant",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "important in effect or meaning",
@@ -9446,7 +9106,6 @@
   {
     "word": "simple",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having few parts",
@@ -9457,7 +9116,6 @@
   {
     "word": "sincere",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "open and genuine",
@@ -9468,7 +9126,6 @@
   {
     "word": "single",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "existing alone or consisting of one entity or part or aspect or individual",
@@ -9479,7 +9136,6 @@
   {
     "word": "singular",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "the single one of its kind",
@@ -9490,7 +9146,6 @@
   {
     "word": "skilled",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "having or showing or requiring special skill",
@@ -9501,7 +9156,6 @@
   {
     "word": "slavish",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "abjectly submissive",
@@ -9512,7 +9166,6 @@
   {
     "word": "slow",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not moving quickly",
@@ -9523,7 +9176,6 @@
   {
     "word": "small",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "limited or below average in number or quantity or magnitude or extent",
@@ -9534,7 +9186,6 @@
   {
     "word": "smoky",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "marked by or emitting or filled with smoke",
@@ -9545,7 +9196,6 @@
   {
     "word": "smooth",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having a surface free from roughness or bumps or ridges or irregularities",
@@ -9556,7 +9206,6 @@
   {
     "word": "smothered",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "held in check with difficulty",
@@ -9567,7 +9216,6 @@
   {
     "word": "smothering",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "causing difficulty in breathing especially through lack of fresh air and presence of heat",
@@ -9578,7 +9226,6 @@
   {
     "word": "sociable",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "inclined to or conducive to companionship with others",
@@ -9589,7 +9236,6 @@
   {
     "word": "social",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "relating to human society and its members",
@@ -9600,7 +9246,6 @@
   {
     "word": "sodden",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "wet through and through",
@@ -9611,7 +9256,6 @@
   {
     "word": "soft",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "out of condition",
@@ -9622,7 +9266,6 @@
   {
     "word": "some",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "",
@@ -9633,7 +9276,6 @@
   {
     "word": "sophisticated",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "having or appealing to those having worldly knowledge and refinement and savoir-faire",
@@ -9644,7 +9286,6 @@
   {
     "word": "soprano",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "having or denoting a high range",
@@ -9655,7 +9296,6 @@
   {
     "word": "sorrowful",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "experiencing or marked by or expressing sorrow especially that associated with irreparable loss",
@@ -9666,7 +9306,6 @@
   {
     "word": "sound",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "in good condition",
@@ -9677,7 +9316,6 @@
   {
     "word": "southeastern",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "of a region of the United States generally including Alabama",
@@ -9688,7 +9326,6 @@
   {
     "word": "southerly",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "from the south",
@@ -9699,7 +9336,6 @@
   {
     "word": "southwestern",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "of a region of the United States generally including New Mexico",
@@ -9710,7 +9346,6 @@
   {
     "word": "spatial",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "pertaining to or involving or having the nature of space",
@@ -9721,7 +9356,6 @@
   {
     "word": "specific",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "",
@@ -9732,7 +9366,6 @@
   {
     "word": "spiritual",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "concerned with or affecting the spirit or soul",
@@ -9743,7 +9376,6 @@
   {
     "word": "spoken",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "uttered through the medium of speech or characterized by speech",
@@ -9754,7 +9386,6 @@
   {
     "word": "spongy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "like a sponge in being able to absorb liquids and yield it back when compressed",
@@ -9765,7 +9396,6 @@
   {
     "word": "stable",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "resistant to change of position or condition",
@@ -9776,7 +9406,6 @@
   {
     "word": "staccato",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "",
@@ -9787,7 +9416,6 @@
   {
     "word": "standard",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "conforming to or constituting a standard of measurement or value",
@@ -9798,7 +9426,6 @@
   {
     "word": "statutory",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "prescribed or authorized by or punishable under a statute",
@@ -9809,7 +9436,6 @@
   {
     "word": "steadfast",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "firm and dependable especially in loyalty",
@@ -9820,7 +9446,6 @@
   {
     "word": "steady",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "not subject to change or variation especially in behavior",
@@ -9831,7 +9456,6 @@
   {
     "word": "sterile",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "deficient in originality or creativity",
@@ -9842,7 +9466,6 @@
   {
     "word": "still",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "used of pictures",
@@ -9853,7 +9476,6 @@
   {
     "word": "stoic",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "seeming unaffected by pleasure or pain",
@@ -9864,7 +9486,6 @@
   {
     "word": "straight",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "in keeping with the factsmade sure the facts were straight in the report",
@@ -9879,7 +9500,6 @@
   {
     "word": "strange",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "being definitely out of the ordinary and unexpected",
@@ -9890,7 +9510,6 @@
   {
     "word": "streaming",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "",
@@ -9901,7 +9520,6 @@
   {
     "word": "sturdy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "substantially made or constructed",
@@ -9912,7 +9530,6 @@
   {
     "word": "substantial",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "having substance or capable of being treated as fact",
@@ -9921,9 +9538,18 @@
     ]
   },
   {
+    "word": "superabundant",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "most excessively abundant",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "superficial",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "concerned with or comprehending only what is apparent or obvious",
@@ -9934,7 +9560,6 @@
   {
     "word": "supreme",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "greatest or maximal in degree",
@@ -9945,7 +9570,6 @@
   {
     "word": "surgical",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "performed with great precision",
@@ -9956,7 +9580,6 @@
   {
     "word": "sympathetic",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "expressing or feeling or resulting from sympathy or compassion or friendly fellow feelings",
@@ -9971,7 +9594,6 @@
   {
     "word": "synchronous",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "occurring or existing at the same time or having the same period or phase",
@@ -9982,7 +9604,6 @@
   {
     "word": "takeout",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -9993,7 +9614,6 @@
   {
     "word": "tall",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "great in vertical dimension",
@@ -10004,7 +9624,6 @@
   {
     "word": "tattered",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "worn to shreds",
@@ -10015,7 +9634,6 @@
   {
     "word": "technical",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "characterizing or showing skill in or specialized knowledge of applied arts and sciences",
@@ -10026,7 +9644,6 @@
   {
     "word": "teeming",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "abundantly filled with especially living thingsthe teeming boulevard",
@@ -10037,7 +9654,6 @@
   {
     "word": "temperate",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "(of weather or climate) free from extremes",
@@ -10048,7 +9664,6 @@
   {
     "word": "temporal",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "of or relating to or limited by time",
@@ -10059,7 +9674,6 @@
   {
     "word": "tender",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "given to sympathy or gentleness or sentimentality",
@@ -10070,7 +9684,6 @@
   {
     "word": "terminal",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "being or situated at an end",
@@ -10079,9 +9692,18 @@
     ]
   },
   {
+    "word": "ternary",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having three units or components or elements",
+        "example": "a ternary operation"
+      }
+    ]
+  },
+  {
     "word": "territorial",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "",
@@ -10092,7 +9714,6 @@
   {
     "word": "thermal",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "relating to or associated with heat",
@@ -10103,7 +9724,6 @@
   {
     "word": "thick",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "aboundingthe top was thick with dust",
@@ -10130,7 +9750,6 @@
   {
     "word": "thin",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "of relatively small extent from one surface to the opposite or in cross section",
@@ -10145,7 +9764,6 @@
   {
     "word": "thirsty",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "able to take in large quantities of moisture",
@@ -10156,7 +9774,6 @@
   {
     "word": "tight",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "tight money",
@@ -10171,7 +9788,6 @@
   {
     "word": "timely",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "done or happening at the appropriate or proper time",
@@ -10182,7 +9798,6 @@
   {
     "word": "toned",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "having or characterized or distinguished by tone or a specific tone",
@@ -10193,7 +9808,6 @@
   {
     "word": "tongued",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "provided with or resembling a tongue",
@@ -10204,7 +9818,6 @@
   {
     "word": "torrential",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "pouring in abundance",
@@ -10215,7 +9828,6 @@
   {
     "word": "tragic",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "very sad",
@@ -10226,7 +9838,6 @@
   {
     "word": "trained",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "shaped or conditioned or disciplined by training",
@@ -10235,9 +9846,18 @@
     ]
   },
   {
+    "word": "transdermal",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "\\   \\   \\   \\through the unbroken skin"
+      }
+    ]
+  },
+  {
     "word": "troubled",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "characterized by or indicative of distress or affliction or danger or need",
@@ -10248,7 +9868,6 @@
   {
     "word": "typical",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "exhibiting the qualities or characteristics that identify a group or kind or category",
@@ -10259,7 +9878,6 @@
   {
     "word": "ultimate",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "furthest or highest in degree or order",
@@ -10270,7 +9888,6 @@
   {
     "word": "unable",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "(usually followed by `to') not having the necessary means or skill or know-how",
@@ -10281,7 +9898,6 @@
   {
     "word": "unabridged",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "(used of texts) not shortened",
@@ -10292,7 +9908,6 @@
   {
     "word": "unacceptable",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "not acceptablea word unacceptable in polite society",
@@ -10303,7 +9918,6 @@
   {
     "word": "unanticipated",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "not anticipated",
@@ -10314,7 +9928,6 @@
   {
     "word": "unapproachable",
     "pos": "adjective",
-    "length": "14",
     "meanings": [
       {
         "definition": "inaccessibly located or situatedan unreachable canyon",
@@ -10325,7 +9938,6 @@
   {
     "word": "unarmed",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "",
@@ -10336,7 +9948,6 @@
   {
     "word": "unaware",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "(often followed by `of') not aware",
@@ -10347,7 +9958,6 @@
   {
     "word": "uncertain",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not established beyond doubt",
@@ -10360,9 +9970,18 @@
     ]
   },
   {
+    "word": "uncharged",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "of a particle or body or system"
+      }
+    ]
+  },
+  {
     "word": "uncomfortable",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "conducive to or feeling mental discomfort",
@@ -10373,7 +9992,6 @@
   {
     "word": "uncommon",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "not common or ordinarily encountered",
@@ -10384,7 +10002,6 @@
   {
     "word": "undefined",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not precisely limited determined or distinguished",
@@ -10395,7 +10012,6 @@
   {
     "word": "undue",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -10406,7 +10022,6 @@
   {
     "word": "uneasy",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "lacking a sense of security or affording no ease or reassurance",
@@ -10417,7 +10032,6 @@
   {
     "word": "unequivocal",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "admitting of no doubt or misunderstanding",
@@ -10428,7 +10042,6 @@
   {
     "word": "uneven",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "not even or uniform as e.g. in shape or texture",
@@ -10437,9 +10050,28 @@
     ]
   },
   {
+    "word": "unexceptionable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "completely acceptabletwo unexceptionable witnesses",
+        "example": "a judge's ethics should be unexceptionable"
+      }
+    ]
+  },
+  {
+    "word": "unexpressed",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not made explicit",
+        "example": "the unexpressed terms of the agreement"
+      }
+    ]
+  },
+  {
     "word": "unfair",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "not fair",
@@ -10450,7 +10082,6 @@
   {
     "word": "unfaithful",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "not trustworthy",
@@ -10459,9 +10090,18 @@
     ]
   },
   {
+    "word": "unfavorable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not encouraging or approving or pleasing",
+        "example": "unfavorable conditions"
+      }
+    ]
+  },
+  {
     "word": "unfit",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "not in good physical or mental condition",
@@ -10472,7 +10112,6 @@
   {
     "word": "unfortunate",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "not favored by fortune",
@@ -10483,7 +10122,6 @@
   {
     "word": "unhappy",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "experiencing or marked by or causing sadness or sorrow or discontent",
@@ -10494,7 +10132,6 @@
   {
     "word": "unhurried",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "relaxed and leisurely",
@@ -10505,7 +10142,6 @@
   {
     "word": "unintentional",
     "pos": "adjective",
-    "length": "13",
     "meanings": [
       {
         "definition": "not done with purpose or intent",
@@ -10516,7 +10152,6 @@
   {
     "word": "unique",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "highly unusual or rare but not the single instance",
@@ -10527,7 +10162,6 @@
   {
     "word": "unknown",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "not known",
@@ -10538,7 +10172,6 @@
   {
     "word": "unmarried",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not married or related to the unmarried state",
@@ -10549,7 +10182,6 @@
   {
     "word": "unmitigated",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "not diminished or moderated in intensity or severity",
@@ -10560,7 +10192,6 @@
   {
     "word": "unobjectionable",
     "pos": "adjective",
-    "length": "15",
     "meanings": [
       {
         "definition": "not objectionable",
@@ -10571,7 +10202,6 @@
   {
     "word": "unplanned",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "without apparent forethought or prompting or planning",
@@ -10582,7 +10212,6 @@
   {
     "word": "unpleasant",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "offensive or disagreeable",
@@ -10593,7 +10222,6 @@
   {
     "word": "unprepared",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "without preparation",
@@ -10604,7 +10232,6 @@
   {
     "word": "unreal",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "not actually such",
@@ -10615,7 +10242,6 @@
   {
     "word": "unsatisfactory",
     "pos": "adjective",
-    "length": "14",
     "meanings": [
       {
         "definition": "not giving satisfaction",
@@ -10626,7 +10252,6 @@
   {
     "word": "unseasoned",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "not tried or tested by experience",
@@ -10637,7 +10262,6 @@
   {
     "word": "unskilled",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not having or showing or requiring special skill or proficiency",
@@ -10648,7 +10272,6 @@
   {
     "word": "unsociable",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "not inclined to society or companionship",
@@ -10659,7 +10282,6 @@
   {
     "word": "unstructured",
     "pos": "adjective",
-    "length": "12",
     "meanings": [
       {
         "definition": "lacking definite structure or organization",
@@ -10670,7 +10292,6 @@
   {
     "word": "unsuspected",
     "pos": "adjective",
-    "length": "11",
     "meanings": [
       {
         "definition": "not suspected or believed likely",
@@ -10681,7 +10302,6 @@
   {
     "word": "unusual",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "not usual or common or ordinary",
@@ -10692,7 +10312,6 @@
   {
     "word": "unwelcome",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "not welcome",
@@ -10703,7 +10322,6 @@
   {
     "word": "up",
     "pos": "adjective",
-    "length": "2",
     "meanings": [
       {
         "definition": "being or moving higher in position or greater in some value",
@@ -10714,7 +10332,6 @@
   {
     "word": "usual",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure",
@@ -10725,7 +10342,6 @@
   {
     "word": "veiled",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "having or as if having a veil or concealing cover",
@@ -10734,9 +10350,18 @@
     ]
   },
   {
+    "word": "veracious",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "precisely accurate",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "verdant",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "characterized by abundance of verdure",
@@ -10747,7 +10372,6 @@
   {
     "word": "versatile",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "",
@@ -10758,7 +10382,6 @@
   {
     "word": "vigorous",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "characterized by forceful and energetic action or activity",
@@ -10769,7 +10392,6 @@
   {
     "word": "violent",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "(of colors or sounds) intensely vivid or loud",
@@ -10784,7 +10406,6 @@
   {
     "word": "visible",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "capable of being seen",
@@ -10795,7 +10416,6 @@
   {
     "word": "vital",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "performing an essential function in the living body",
@@ -10806,7 +10426,6 @@
   {
     "word": "voluntary",
     "pos": "adjective",
-    "length": "9",
     "meanings": [
       {
         "definition": "of your own free will or design",
@@ -10817,7 +10436,6 @@
   {
     "word": "waiting",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "being and remaining ready and available for use",
@@ -10828,7 +10446,6 @@
   {
     "word": "warm",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "psychologically warm",
@@ -10843,7 +10460,6 @@
   {
     "word": "watery",
     "pos": "adjective",
-    "length": "6",
     "meanings": [
       {
         "definition": "overly diluted",
@@ -10854,7 +10470,6 @@
   {
     "word": "weightless",
     "pos": "adjective",
-    "length": "10",
     "meanings": [
       {
         "definition": "having little or no weight or apparent gravitational pull",
@@ -10865,7 +10480,6 @@
   {
     "word": "welcome",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "giving pleasure or satisfaction or received with pleasure or freely granted",
@@ -10876,7 +10490,6 @@
   {
     "word": "well",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "in good health especially after having suffered illness or injury",
@@ -10887,7 +10500,6 @@
   {
     "word": "whacking",
     "pos": "adjective",
-    "length": "8",
     "meanings": [
       {
         "definition": "",
@@ -10898,7 +10510,6 @@
   {
     "word": "whole",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "including all components without exception",
@@ -10909,7 +10520,6 @@
   {
     "word": "wide",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "not on targetthe arrow was wide of the mark",
@@ -10924,7 +10534,6 @@
   {
     "word": "wildcat",
     "pos": "adjective",
-    "length": "7",
     "meanings": [
       {
         "definition": "(of a mine or oil well) drilled speculatively in an area not known to be productive",
@@ -10939,7 +10548,6 @@
   {
     "word": "worn",
     "pos": "adjective",
-    "length": "4",
     "meanings": [
       {
         "definition": "affected by wear",
@@ -10950,7 +10558,6 @@
   {
     "word": "worse",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "",
@@ -10961,7 +10568,6 @@
   {
     "word": "woven",
     "pos": "adjective",
-    "length": "5",
     "meanings": [
       {
         "definition": "made or constructed by interlacing threads or strips of material or other elements into a whole",

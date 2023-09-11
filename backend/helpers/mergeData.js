@@ -1,4 +1,5 @@
 const fs = require("fs");
+let wordList = require("../data/hello.json");
 
 function makeThesaurus() {
   const antonyms = require("../data/JSON/antonyms.json");
@@ -42,13 +43,8 @@ function makeThesaurus() {
     };
     return mergedObject;
   }
-  fs.writeFileSync(
-    "../data/JSON/merged.json",
-    JSON.stringify(thesaurus, null, 2)
-  );
+  return thesaurus;
 }
-
-// makeThesaurus();
 
 function makeHyper() {
   const hyponyms = require("../data/JSON/hyponyms.json");
@@ -95,12 +91,131 @@ function makeHyper() {
     return mergedObject;
   }
 
-  console.log(hyperMerge);
+  return hyperMerge;
+}
 
-  fs.writeFileSync(
-    "../data/JSON/hyperMerge.json",
-    JSON.stringify(hyperMerge, null, 2)
+function mergeTypes() {
+  const nouns = require("../data/JSON/nouns.json");
+  const verbs = require("../data/JSON/verbs.json");
+  const adjectives = require("../data/JSON/adjectives.json");
+  const adverbs = require("../data/JSON/adverbs.json");
+  const combinedData = [...nouns, ...verbs, ...adjectives, ...adverbs];
+
+  return combinedData;
+}
+
+function insertTypes() {
+  const types = mergeTypes();
+  const typeWords = types.map((object) => object.word.toLowerCase().trim());
+
+  const typesInserted = [];
+
+  wordList.forEach((word) => {
+    const typeIndex = typeWords.indexOf(word.word.toLowerCase().trim());
+
+    if (typeIndex !== -1) {
+      const matchingType = types[typeIndex];
+
+      const insertedObject = {
+        word: word.word,
+        length: word.length,
+        count: word.count,
+        pos: matchingType.pos,
+        meanings: matchingType.meanings,
+      };
+      typesInserted.push(insertedObject);
+    } else {
+      typesInserted.push(word);
+    }
+  });
+  wordList = typesInserted;
+  return wordList;
+}
+
+function insertThesaurus() {
+  const thesaurus = makeThesaurus();
+  const thesaurusWords = thesaurus.map((object) =>
+    Object.keys(object)[0].toLowerCase().trim()
+  );
+
+  const thesaurusInserted = [];
+
+  wordList.forEach((word) => {
+    const thesaurusIndex = thesaurusWords.indexOf(
+      word.word.toLowerCase().trim()
+    );
+
+    if (thesaurusIndex !== -1) {
+      const matchingThesaurus = thesaurus[thesaurusIndex];
+
+      const insertedObject = {
+        word: word.word,
+        length: word.length,
+        count: word.count,
+        pos: word.pos ? word.pos : "",
+        meanings: word.meanings ? word.meanings : "",
+        antonyms: matchingThesaurus[word.word].antonyms,
+        synonyms: matchingThesaurus[word.word].synonyms,
+      };
+      thesaurusInserted.push(insertedObject);
+    } else {
+      thesaurusInserted.push(word);
+    }
+  });
+  wordList = thesaurusInserted;
+  return wordList;
+}
+
+function insertHyp() {
+  const hyp = makeHyper();
+
+  const hypWords = hyp.map((object) =>
+    Object.keys(object)[0].toLowerCase().trim()
+  );
+
+  const hypInserted = [];
+
+  wordList.forEach((word) => {
+    const hypIndex = hypWords.indexOf(word.word.toLowerCase().trim());
+
+    if (hypIndex !== -1) {
+      const matchingHyp = hyp[hypIndex];
+
+      const insertedObject = {
+        word: word.word,
+        length: word.length,
+        count: word.count,
+        pos: word.pos,
+        meanings: word.meanings,
+        antonyms: word.antonyms,
+        synonyms: word.synonyms,
+        hypernyms: matchingHyp[word.word].hypernyms,
+        hyponyms: matchingHyp[word.word].hyponyms,
+      };
+      hypInserted.push(insertedObject);
+    } else {
+      hypInserted.push(word);
+    }
+  });
+  wordList = hypInserted;
+  return wordList;
+}
+
+function mergeData() {
+  insertTypes();
+  insertThesaurus();
+  insertHyp();
+
+  console.log(wordList.length);
+
+  fs.writeFile(
+    "../data/allData.json",
+    JSON.stringify(wordList, null, 2),
+    (err) => {
+      if (err) throw err;
+      console.log("The file was saved!");
+    }
   );
 }
 
-makeHyper();
+module.exports = mergeData;
