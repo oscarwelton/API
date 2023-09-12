@@ -1,5 +1,4 @@
 const fs = require("fs");
-let wordList = require("../data/hello.json");
 
 function makeThesaurus() {
   const antonyms = require("../data/JSON/antonyms.json");
@@ -110,7 +109,7 @@ function insertTypes() {
 
   const typesInserted = [];
 
-  wordList.forEach((word) => {
+  types.forEach((word) => {
     const typeIndex = typeWords.indexOf(word.word.toLowerCase().trim());
 
     if (typeIndex !== -1) {

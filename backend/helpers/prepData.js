@@ -21,7 +21,7 @@ const {
 
 const mergeData = require("./mergeData.js");
 
-const results = [];
+// const results = [];
 
 const csvPaths = {
   adverbs: "../data/CSV/WordnetAdverbs.csv",
@@ -49,50 +49,8 @@ function dictionarySearch(word) {
   }
 }
 
-function wordList() {
-  fs.createReadStream("../data/CSV/word-list.csv")
-    .pipe(csv())
-    .on("data", async (data) => {
-      const word = data.word.toLowerCase().trim();
-      const response = await dictionarySearch(word);
-
-      if (response) {
-        results.push({
-          word: response,
-          length: response.length,
-          count: data.count,
-         });
-      } else {
-        console.log("Not a word:", word);
-      }
-    })
-    .on("end", () => {
-      fs.writeFile(
-        "../data/hello.json",
-        JSON.stringify(results, null, 2),
-        (err) => {
-          if (err) throw err;
-        }
-      );
-      console.log("Saved word-list.json");
-    });
-}
-
 function filterJSON(array, path) {
-  const words = require(`../data/hello.json`);
-  const list = words.map((object) => object.word.toLowerCase().trim());
-
-  let filterData = [];
-
-  array.filter((item) => {
-    if (item.word) {
-      const word = item.word.toLowerCase().trim();
-      const index = list.indexOf(word);
-      if (index !== -1) {
-        filterData.push(item);
-      }
-    }
-  });
+  let filterData = array;
 
   let formattedData = [];
 
@@ -137,21 +95,19 @@ function filterJSON(array, path) {
   );
 }
 
-
 function convertToJSON() {
   Object.keys(csvPaths).forEach((path) => {
     const jsonArray = [];
     fs.createReadStream(csvPaths[path])
-    .pipe(csv())
-    .on("data", async (data) => {
-      jsonArray.push(data);
-    })
-    .on("end", () => {
-      filterJSON(jsonArray, path);
-    });
+      .pipe(csv())
+      .on("data", async (data) => {
+        jsonArray.push(data);
+      })
+      .on("end", () => {
+        filterJSON(jsonArray, path);
+      });
   });
 }
 
-// wordList();
-// convertToJSON();
+convertToJSON();
 mergeData();
