@@ -10,6 +10,16 @@
     ]
   },
   {
+    "word": "abducent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "especially of muscles"
+      }
+    ]
+  },
+  {
     "word": "abhorrent",
     "pos": "adjective",
     "meanings": [
@@ -26,6 +36,16 @@
       {
         "definition": "of the most contemptible kind",
         "example": "abject cowardice"
+      }
+    ]
+  },
+  {
+    "word": "ablaze(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "lighted up by or as by fire or flame",
+        "example": "forests set ablaze (or afire) by lightning"
       }
     ]
   },
@@ -80,6 +100,16 @@
     ]
   },
   {
+    "word": "abreast(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "being up to particular standard or level especially in being up to date in knowledge",
+        "example": "kept abreast of the latest developments"
+      }
+    ]
+  },
+  {
     "word": "abridged",
     "pos": "adjective",
     "meanings": [
@@ -129,6 +159,16 @@
     "meanings": [
       {
         "definition": "capable of being absorbed or taken in through the pores of a surface",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "absorbefacient",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "inducing or promoting absorption",
         "example": ""
       }
     ]
@@ -308,12 +348,32 @@
     ]
   },
   {
+    "word": "accustomed to",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "in the habit of or adapted toI've grown accustomed to her face",
+        "example": "we are used to better service in this restaurant"
+      }
+    ]
+  },
+  {
     "word": "ace",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "",
         "example": "of the highest quality"
+      }
+    ]
+  },
+  {
+    "word": "acerb",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "harsh or corrosive in tone",
+        "example": "an acerbic tone piercing otherwise flowery prose"
       }
     ]
   },
@@ -328,11 +388,41 @@
     ]
   },
   {
+    "word": "acid-forming",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "yielding an acid in aqueous solution",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "acidic",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "of a solution having an excess of hydrogen atoms (having a pH of less than 7)",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "acid-loving",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "acidophilic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "especially of some bacteria",
         "example": ""
       }
     ]
@@ -354,6 +444,26 @@
       {
         "definition": "vigorously active",
         "example": "an acrobatic dance"
+      }
+    ]
+  },
+  {
+    "word": "acroscopic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "facing or on the side toward the apex"
+      }
+    ]
+  },
+  {
+    "word": "across-the-board",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "broad in scope or content",
+        "example": "across-the-board pay increases"
       }
     ]
   },
@@ -402,6 +512,16 @@
     ]
   },
   {
+    "word": "adducent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "especially of muscles"
+      }
+    ]
+  },
+  {
     "word": "adept",
     "pos": "adjective",
     "meanings": [
@@ -440,6 +560,16 @@
     ]
   },
   {
+    "word": "ad-lib",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "with little or no preparation or forethought",
+        "example": "his ad-lib comments showed poor judgment"
+      }
+    ]
+  },
+  {
     "word": "adolescent",
     "pos": "adjective",
     "meanings": [
@@ -460,12 +590,32 @@
     ]
   },
   {
+    "word": "adsorbable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "capable of being adsorbed or accumulated on a surface of a solid",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "adsorbent",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "having capacity or tendency to adsorb or cause to accumulate on a surface",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "adust",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "dried out by heat or excessive exposure to sunlight",
+        "example": "a vast desert all adust"
       }
     ]
   },
@@ -500,6 +650,16 @@
       {
         "definition": "",
         "example": "existing or living or growing or operating in the air"
+      }
+    ]
+  },
+  {
+    "word": "aeriform",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "characterized by lightness and insubstantiality",
+        "example": "as impalpable or intangible as air"
       }
     ]
   },
@@ -554,12 +714,32 @@
     ]
   },
   {
+    "word": "afloat(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "covered with water",
+        "example": "the main deck was afloat (or awash)"
+      }
+    ]
+  },
+  {
     "word": "afraid",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "filled with regret or concern",
         "example": "used often to soften an unpleasant statement"
+      }
+    ]
+  },
+  {
+    "word": "afraid(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "filled with fear or apprehension",
+        "example": "afraid even to turn his head"
       }
     ]
   },
@@ -600,6 +780,26 @@
       {
         "definition": "moving quickly and lightly",
         "example": "sleek and agile as a gymnast"
+      }
+    ]
+  },
+  {
+    "word": "aglitter(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having brief brilliant points or flashes of light",
+        "example": "bugle beads all aglitter"
+      }
+    ]
+  },
+  {
+    "word": "aglow(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "softly bright or radiant",
+        "example": "a house aglow with lights"
       }
     ]
   },
@@ -658,6 +858,26 @@
     ]
   },
   {
+    "word": "alive(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "possessing life",
+        "example": "the happiest person alive"
+      }
+    ]
+  },
+  {
+    "word": "alkalescent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "tending to become alkaline",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "alkaline",
     "pos": "adjective",
     "meanings": [
@@ -668,12 +888,66 @@
     ]
   },
   {
+    "word": "alkaline-loving",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(especially of plants requiring a pH above 7)",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "all in(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "very tired"
+      }
+    ]
+  },
+  {
+    "word": "all right",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "being satisfactory or in satisfactory condition"
+      }
+    ]
+  },
+  {
+    "word": "all(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(quantifier) used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
+        "example": "we sat up all night"
+      }
+    ]
+  },
+  {
     "word": "alluring",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "highly attractive and able to arouse hope or desire",
         "example": "an alluring prospect"
+      }
+    ]
+  },
+  {
+    "word": "alone(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "radically distinctive and without equal",
+        "example": "he is alone in the field of microbiology"
+      },
+      {
+        "definition": "lacking companions or companionship",
+        "example": "he was alone when we met him"
       }
     ]
   },
@@ -832,6 +1106,16 @@
     ]
   },
   {
+    "word": "animal(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "marked by the appetites and passions of the body",
+        "example": "animal instincts"
+      }
+    ]
+  },
+  {
     "word": "annoyed",
     "pos": "adjective",
     "meanings": [
@@ -856,6 +1140,26 @@
     ]
   },
   {
+    "word": "anserine",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "having or revealing stupidity"
+      }
+    ]
+  },
+  {
+    "word": "antipathetic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(usually followed by `to') strongly opposed",
+        "example": "antipathetic to new ideas"
+      }
+    ]
+  },
+  {
     "word": "anxious",
     "pos": "adjective",
     "meanings": [
@@ -866,12 +1170,72 @@
     ]
   },
   {
+    "word": "any(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "one or some or every or all without specification",
+        "example": "give me any peaches you don't want"
+      }
+    ]
+  },
+  {
+    "word": "apart(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "remote and separate physically or socially",
+        "example": "existed over the centuries as a world apart"
+      }
+    ]
+  },
+  {
+    "word": "appareled",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "dressed or clothed especially in fine attire",
+        "example": "often used in combination"
+      }
+    ]
+  },
+  {
     "word": "apparent",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "clearly revealed to the mind or the senses or judgment",
         "example": "the effects of the drought are apparent to anyone who sees the parched fields"
+      }
+    ]
+  },
+  {
+    "word": "apparent(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "appearing as such but not necessarily so",
+        "example": "for all his apparent wealth he had no money to pay the rent"
+      }
+    ]
+  },
+  {
+    "word": "apparitional",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "resembling or characteristic of a phantom",
+        "example": "a ghostly face at the window"
+      }
+    ]
+  },
+  {
+    "word": "applaudable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "worthy of high praise",
+        "example": "applaudable efforts to save the environment"
       }
     ]
   },
@@ -950,6 +1314,16 @@
     ]
   },
   {
+    "word": "argus-eyed",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "carefully observant or attentive",
+        "example": "on the lookout for possible danger"
+      }
+    ]
+  },
+  {
     "word": "arid",
     "pos": "adjective",
     "meanings": [
@@ -966,6 +1340,16 @@
       {
         "definition": "belonging to or characteristic of the nobility or aristocracy",
         "example": "an aristocratic family"
+      }
+    ]
+  },
+  {
+    "word": "arrant(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "without qualification",
+        "example": "used informally as (often pejorative) intensifiers"
       }
     ]
   },
@@ -1058,6 +1442,26 @@
     ]
   },
   {
+    "word": "at hand(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "close in time",
+        "example": "about to occur"
+      }
+    ]
+  },
+  {
+    "word": "at large(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having escaped especially from confinement",
+        "example": "a convict still at large"
+      }
+    ]
+  },
+  {
     "word": "atrocious",
     "pos": "adjective",
     "meanings": [
@@ -1136,6 +1540,16 @@
       {
         "definition": "characteristic of an absolute ruler or absolute rule",
         "example": "having absolute sovereignty"
+      }
+    ]
+  },
+  {
+    "word": "autochthonal",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "originating where it is found",
+        "example": "the autochthonal fauna of Australia includes the kangaroo"
       }
     ]
   },
@@ -1250,6 +1664,16 @@
     ]
   },
   {
+    "word": "backstair",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "secret and sly or sordid",
+        "example": "backstairs gossip"
+      }
+    ]
+  },
+  {
     "word": "bad",
     "pos": "adjective",
     "meanings": [
@@ -1316,12 +1740,42 @@
     ]
   },
   {
+    "word": "ball-hawking",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "bally(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "informal intensifiers",
+        "example": "what a bally (or blinking) nuisance"
+      }
+    ]
+  },
+  {
     "word": "banal",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "repeated too often",
         "example": "overfamiliar through overuse"
+      }
+    ]
+  },
+  {
+    "word": "bang-up",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "very good"
       }
     ]
   },
@@ -1386,6 +1840,16 @@
     ]
   },
   {
+    "word": "bare(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "apart from anything else",
+        "example": "without additions or modifications"
+      }
+    ]
+  },
+  {
     "word": "baronial",
     "pos": "adjective",
     "meanings": [
@@ -1420,6 +1884,16 @@
     ]
   },
   {
+    "word": "base-forming",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "yielding a base in aqueous solution",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "baseless",
     "pos": "adjective",
     "meanings": [
@@ -1440,6 +1914,26 @@
       {
         "definition": "serving as a base or starting point",
         "example": "a basic course in Russian"
+      }
+    ]
+  },
+  {
+    "word": "basiscopic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "facing or on the side toward the base"
+      }
+    ]
+  },
+  {
+    "word": "bathetic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "effusively or insincerely emotional",
+        "example": "a bathetic novel"
       }
     ]
   },
@@ -1514,6 +2008,16 @@
     ]
   },
   {
+    "word": "begrimed",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "thickly covered with ingrained dirt or soot",
+        "example": "a miner's begrimed face"
+      }
+    ]
+  },
+  {
     "word": "belated",
     "pos": "adjective",
     "meanings": [
@@ -1570,6 +2074,16 @@
       {
         "definition": "capturing interest as if by a spell",
         "example": "bewitching smile"
+      }
+    ]
+  },
+  {
+    "word": "bibulous",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "given to or marked by the consumption of alcohol",
+        "example": "a bibulous fellow"
       }
     ]
   },
@@ -1638,6 +2152,20 @@
       {
         "definition": "harshly ironic or sinister",
         "example": "black humor"
+      }
+    ]
+  },
+  {
+    "word": "black-and-white",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "not having or not capable of producing colors"
+      },
+      {
+        "definition": "lacking hue or shades of grey",
+        "example": "part white and part black"
       }
     ]
   },
@@ -1868,6 +2396,16 @@
     ]
   },
   {
+    "word": "bootless",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "unproductive of success",
+        "example": "a fruitless search"
+      }
+    ]
+  },
+  {
     "word": "boring",
     "pos": "adjective",
     "meanings": [
@@ -1894,6 +2432,16 @@
       {
         "definition": "elastic",
         "example": "rebounds readily"
+      }
+    ]
+  },
+  {
+    "word": "bowed down(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "heavily burdened with work or cares",
+        "example": "bowed down with troubles"
       }
     ]
   },
@@ -2044,6 +2592,16 @@
       {
         "definition": "lacking physical movement skills especially with the hands",
         "example": "a bumbling mechanic"
+      }
+    ]
+  },
+  {
+    "word": "bumpkinly",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "awkwardly simple and provincial",
+        "example": "bumpkinly country boys"
       }
     ]
   },
@@ -2266,12 +2824,46 @@
     ]
   },
   {
+    "word": "cernuous",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "having branches or flower heads that bend downward"
+      }
+    ]
+  },
+  {
     "word": "certain",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "certain to occur",
         "example": "destined or inevitable"
+      }
+    ]
+  },
+  {
+    "word": "certain(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "definite but not specified or identified",
+        "example": "set aside a certain sum each week"
+      }
+    ]
+  },
+  {
+    "word": "certain(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "established beyond doubt or question",
+        "example": "definitely known"
+      },
+      {
+        "definition": "having or feeling no doubt or uncertainty",
+        "example": "confident and assured"
       }
     ]
   },
@@ -2316,6 +2908,16 @@
     ]
   },
   {
+    "word": "cheating(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "violating accepted standards or rules",
+        "example": "a dirty fighter"
+      }
+    ]
+  },
+  {
     "word": "cheerful",
     "pos": "adjective",
     "meanings": [
@@ -2336,12 +2938,32 @@
     ]
   },
   {
+    "word": "chemisorptive",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having the capacity to adsorb by chemical as contrasted with physical forces",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "cherished",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "characterized by feeling or showing fond affection for",
         "example": "a cherished friend"
+      }
+    ]
+  },
+  {
+    "word": "chief(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "most important element",
+        "example": "the chief aim of living"
       }
     ]
   },
@@ -2436,6 +3058,16 @@
       {
         "definition": "marked by refinement in taste and manners",
         "example": "cultivated speech"
+      }
+    ]
+  },
+  {
+    "word": "clamant",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "demanding attention",
+        "example": "clamant needs"
       }
     ]
   },
@@ -2682,6 +3314,26 @@
       {
         "definition": "",
         "example": "having or resembling columns"
+      }
+    ]
+  },
+  {
+    "word": "comate",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "bearing a coma"
+      }
+    ]
+  },
+  {
+    "word": "come-at-able",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "a very getatable man",
+        "example": "both oil and coal are there but not in getatable locations"
       }
     ]
   },
@@ -3020,6 +3672,16 @@
     ]
   },
   {
+    "word": "convinced(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "persuaded of",
+        "example": "very sure"
+      }
+    ]
+  },
+  {
     "word": "convulsive",
     "pos": "adjective",
     "meanings": [
@@ -3162,6 +3824,26 @@
     ]
   },
   {
+    "word": "crapulent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "suffering from excessive eating or drinking",
+        "example": "a crapulous stomach"
+      }
+    ]
+  },
+  {
+    "word": "crapulous",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "given to gross intemperance in eating or drinking",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "craven",
     "pos": "adjective",
     "meanings": [
@@ -3244,6 +3926,16 @@
     ]
   },
   {
+    "word": "cross(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "extending or lying across",
+        "example": "in a crosswise direction"
+      }
+    ]
+  },
+  {
     "word": "crowded",
     "pos": "adjective",
     "meanings": [
@@ -3314,6 +4006,16 @@
       {
         "definition": "brusque and surly and forbidding",
         "example": "crusty remarks"
+      }
+    ]
+  },
+  {
+    "word": "crying(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "conspicuously and outrageously bad or reprehensible",
+        "example": "a crying shame"
       }
     ]
   },
@@ -3484,6 +4186,16 @@
     ]
   },
   {
+    "word": "dark-skinned",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "naturally having skin of a dark color"
+      }
+    ]
+  },
+  {
     "word": "dazzling",
     "pos": "adjective",
     "meanings": [
@@ -3514,6 +4226,16 @@
       {
         "definition": "causing or capable of causing death",
         "example": "a fatal accident"
+      }
+    ]
+  },
+  {
+    "word": "dead-on(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "a dead-on feel for characterization",
+        "example": "She avoids big scenes...preferring to rely on small gestures and dead-on dialogue- Peter S.Prescott"
       }
     ]
   },
@@ -3572,6 +4294,16 @@
       {
         "definition": "having great spatial extension or penetration downward or inward from an outer surface or backward or laterally or outward from a center",
         "example": "sometimes used in combination"
+      }
+    ]
+  },
+  {
+    "word": "deep-rooted",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(used especially of ideas or principles) deeply rooted",
+        "example": "firmly fixed or held"
       }
     ]
   },
@@ -3754,6 +4486,16 @@
       {
         "definition": "morally reprehensible",
         "example": "would do something as despicable as murder"
+      }
+    ]
+  },
+  {
+    "word": "despiteful",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "showing malicious ill will and a desire to hurt",
+        "example": "motivated by spite"
       }
     ]
   },
@@ -3978,6 +4720,16 @@
     ]
   },
   {
+    "word": "disobliging",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "intentionally unaccommodating",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "disquieted",
     "pos": "adjective",
     "meanings": [
@@ -4004,6 +4756,16 @@
       {
         "definition": "characterized by unrest or disorder or insubordination",
         "example": "effects of the struggle will be violent and disruptive"
+      }
+    ]
+  },
+  {
+    "word": "dissilient",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "bursting open with force as do some ripe seed vessels",
+        "example": ""
       }
     ]
   },
@@ -4250,6 +5012,16 @@
     ]
   },
   {
+    "word": "drawn-out",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "relatively long in duration",
+        "example": "tediously protracted"
+      }
+    ]
+  },
+  {
     "word": "dreamy",
     "pos": "adjective",
     "meanings": [
@@ -4266,6 +5038,16 @@
       {
         "definition": "preserved by removing natural moisture",
         "example": "dried beef"
+      }
+    ]
+  },
+  {
+    "word": "dried-up",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "(used especially of vegetation) having lost all moisture"
       }
     ]
   },
@@ -4420,6 +5202,16 @@
       {
         "definition": "",
         "example": "avoiding waste"
+      }
+    ]
+  },
+  {
+    "word": "edacious",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "devouring or craving food in great quantities",
+        "example": "edacious vultures"
       }
     ]
   },
@@ -4632,6 +5424,26 @@
     ]
   },
   {
+    "word": "erstwhile(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "belonging to some prior time",
+        "example": "erstwhile friend"
+      }
+    ]
+  },
+  {
+    "word": "especial(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "surpassing what is common or usual or expected",
+        "example": "he paid especial attention to her"
+      }
+    ]
+  },
+  {
     "word": "essential",
     "pos": "adjective",
     "meanings": [
@@ -4686,6 +5498,16 @@
     ]
   },
   {
+    "word": "every(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(used of count nouns) each and all of the members of a group considered singly and without exception",
+        "example": "every person is mortal"
+      }
+    ]
+  },
+  {
     "word": "exalted",
     "pos": "adjective",
     "meanings": [
@@ -4722,6 +5544,16 @@
       {
         "definition": "",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "exceptionable",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "liable to objection or debatea thoroughly unpleasant highly exceptionable piece of writing",
+        "example": "found the politician's views objectionable"
       }
     ]
   },
@@ -4888,6 +5720,16 @@
     ]
   },
   {
+    "word": "faineant",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "disinclined to work or exertion",
+        "example": "faineant kings under whose rule the country languished"
+      }
+    ]
+  },
+  {
     "word": "faint",
     "pos": "adjective",
     "meanings": [
@@ -4982,6 +5824,16 @@
       {
         "definition": "very far away in space or time",
         "example": "faraway mountains"
+      }
+    ]
+  },
+  {
+    "word": "farthermost",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "(comparatives of `far') most remote in space or time or order"
       }
     ]
   },
@@ -5144,6 +5996,16 @@
     ]
   },
   {
+    "word": "fine-looking",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "pleasing in appearance especially by reason of conformity to ideals of form and proportion",
+        "example": "a fine-looking woman"
+      }
+    ]
+  },
+  {
     "word": "fingered",
     "pos": "adjective",
     "meanings": [
@@ -5202,6 +6064,16 @@
     ]
   },
   {
+    "word": "fit(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(usually followed by `to' or `for') on the point of or strongly disposed",
+        "example": "in no fit state to continue"
+      }
+    ]
+  },
+  {
     "word": "flat",
     "pos": "adjective",
     "meanings": [
@@ -5238,6 +6110,16 @@
       {
         "definition": "lacking substance or significance",
         "example": "slight evidence"
+      }
+    ]
+  },
+  {
+    "word": "flyblown",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "foul and run-down and repulsive",
+        "example": "a flyblown bar on the edge of town"
       }
     ]
   },
@@ -5384,6 +6266,16 @@
     ]
   },
   {
+    "word": "frowsy",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "negligent of neatness especially in dress and person",
+        "example": "habitually dirty and unkempt"
+      }
+    ]
+  },
+  {
     "word": "frozen",
     "pos": "adjective",
     "meanings": [
@@ -5400,6 +6292,26 @@
       {
         "definition": "containing as much or as many as is possible or normal",
         "example": "a full glass"
+      }
+    ]
+  },
+  {
+    "word": "full-bodied",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "marked by richness and fullness of flavor",
+        "example": "a rich ruby port"
+      }
+    ]
+  },
+  {
+    "word": "full-length",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "complete",
+        "example": ""
       }
     ]
   },
@@ -5680,6 +6592,16 @@
     ]
   },
   {
+    "word": "good-for-nothing",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "without merit",
+        "example": "of little or no value or use"
+      }
+    ]
+  },
+  {
     "word": "goodly",
     "pos": "adjective",
     "meanings": [
@@ -5808,6 +6730,16 @@
     ]
   },
   {
+    "word": "half-length",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "abridged to half its original length",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "handy",
     "pos": "adjective",
     "meanings": [
@@ -5932,6 +6864,16 @@
     ]
   },
   {
+    "word": "heart-whole",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "with unconditional and enthusiastic devotion",
+        "example": "heart-whole friendship"
+      }
+    ]
+  },
+  {
     "word": "hearty",
     "pos": "adjective",
     "meanings": [
@@ -5968,6 +6910,26 @@
     ]
   },
   {
+    "word": "heedful",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "taking heed",
+        "example": "giving close and thoughtful attention"
+      }
+    ]
+  },
+  {
+    "word": "het up(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "worked up emotionally by anger or excitement"
+      }
+    ]
+  },
+  {
     "word": "hideous",
     "pos": "adjective",
     "meanings": [
@@ -5992,6 +6954,26 @@
     ]
   },
   {
+    "word": "high-fidelity",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "characterized by minimal distortion in sound reproductiona hi-fi system",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "high-octane",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "vigorously energetic or forceful",
+        "example": "a high-octane sales manager"
+      }
+    ]
+  },
+  {
     "word": "historic",
     "pos": "adjective",
     "meanings": [
@@ -6008,6 +6990,16 @@
       {
         "definition": "characteristic of acting or a stage performance",
         "example": "often affected"
+      }
+    ]
+  },
+  {
+    "word": "hoggish",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "resembling swine",
+        "example": "coarsely gluttonous or greedy"
       }
     ]
   },
@@ -6114,6 +7106,16 @@
       {
         "definition": "having human form or attributes as opposed to those of animals or divine beings",
         "example": "human beings"
+      }
+    ]
+  },
+  {
+    "word": "human-centered",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
       }
     ]
   },
@@ -6228,6 +7230,16 @@
       {
         "definition": "contrary to or forbidden by law",
         "example": "an illegitimate seizure of power"
+      }
+    ]
+  },
+  {
+    "word": "ill-timed",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "badly timed",
+        "example": "an ill-timed intervention"
       }
     ]
   },
@@ -6586,6 +7598,16 @@
     ]
   },
   {
+    "word": "infelicitous",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not appropriate in application",
+        "example": "defective"
+      }
+    ]
+  },
+  {
     "word": "infinite",
     "pos": "adjective",
     "meanings": [
@@ -6760,6 +7782,16 @@
     ]
   },
   {
+    "word": "junior-grade",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "inferior in rank or status",
+        "example": "the junior faculty"
+      }
+    ]
+  },
+  {
     "word": "just",
     "pos": "adjective",
     "meanings": [
@@ -6864,6 +7896,16 @@
     ]
   },
   {
+    "word": "late(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "of the immediate past or just previous to the present time",
+        "example": "a late development"
+      }
+    ]
+  },
+  {
     "word": "lavish",
     "pos": "adjective",
     "meanings": [
@@ -6874,12 +7916,32 @@
     ]
   },
   {
+    "word": "leading(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "indicating the most important performer or role",
+        "example": "the leading man"
+      }
+    ]
+  },
+  {
     "word": "leafed",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "having leaves or leaves as specified",
         "example": "often used in combination"
+      }
+    ]
+  },
+  {
+    "word": "least(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "the superlative of `little' that can be used with mass nouns and is usually preceded by `the'"
       }
     ]
   },
@@ -6910,6 +7972,16 @@
       {
         "definition": "not strict",
         "example": "an easy teacher"
+      }
+    ]
+  },
+  {
+    "word": "less(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "(comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree"
       }
     ]
   },
@@ -7010,6 +8082,16 @@
     ]
   },
   {
+    "word": "little(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(quantifier used with mass nouns) small in quantity or degree",
+        "example": "not much or almost none or (with `a') at least some"
+      }
+    ]
+  },
+  {
     "word": "live",
     "pos": "adjective",
     "meanings": [
@@ -7060,6 +8142,20 @@
     ]
   },
   {
+    "word": "lone(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "being the only one",
+        "example": "single and isolated from others"
+      },
+      {
+        "definition": "characterized by or preferring solitude",
+        "example": "a lone wolf"
+      }
+    ]
+  },
+  {
     "word": "lonely",
     "pos": "adjective",
     "meanings": [
@@ -7084,6 +8180,16 @@
       {
         "definition": "primarily temporal sense",
         "example": "being or indicating a relatively great or greater than average duration or passage of time or a duration as specified"
+      }
+    ]
+  },
+  {
+    "word": "long-winded",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "using or containing too many words",
+        "example": "long-winded (or windy) speakers"
       }
     ]
   },
@@ -7182,12 +8288,32 @@
     ]
   },
   {
+    "word": "man-made",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "not of natural origin"
+      }
+    ]
+  },
+  {
     "word": "many",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'",
         "example": "amounting to a large but indefinite number"
+      }
+    ]
+  },
+  {
+    "word": "many-sided",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having many aspects or qualities",
+        "example": "a many-sided subject"
       }
     ]
   },
@@ -7242,6 +8368,16 @@
     ]
   },
   {
+    "word": "meandering(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "of a path e.g.",
+        "example": "meandering streams"
+      }
+    ]
+  },
+  {
     "word": "measly",
     "pos": "adjective",
     "meanings": [
@@ -7288,6 +8424,26 @@
       {
         "definition": "profit oriented",
         "example": "a commercial book"
+      }
+    ]
+  },
+  {
+    "word": "mid(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "used in combination to denote the middle",
+        "example": "midmorning"
+      }
+    ]
+  },
+  {
+    "word": "middle atlantic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "of a region of the United States generally including Delaware",
+        "example": "Maryland"
       }
     ]
   },
@@ -7416,12 +8572,40 @@
     ]
   },
   {
+    "word": "more(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "(comparative of `much' used with mass nouns) a quantifier meaning greater in size or amount or extent or degree"
+      },
+      {
+        "definition": "",
+        "example": "(comparative of `many' used with count nouns) quantifier meaning greater in number"
+      }
+    ]
+  },
+  {
     "word": "moribund",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "being on the point of death",
         "example": "breathing your last"
+      }
+    ]
+  },
+  {
+    "word": "most(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "the superlative of `much' that can be used with mass nouns and is usually preceded by `the'"
+      },
+      {
+        "definition": "",
+        "example": "(superlative of `many' used with count nouns and often preceded by `the') quantifier meaning the greatest in number"
       }
     ]
   },
@@ -7582,6 +8766,16 @@
     ]
   },
   {
+    "word": "new(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "other than the former one(s)",
+        "example": "different"
+      }
+    ]
+  },
+  {
     "word": "nice",
     "pos": "adjective",
     "meanings": [
@@ -7592,12 +8786,42 @@
     ]
   },
   {
+    "word": "no(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(quantifier) used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of",
+        "example": "we have no bananas"
+      }
+    ]
+  },
+  {
     "word": "nominal",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "insignificantly small",
         "example": "a matter of form only (`tokenish' is informal)"
+      }
+    ]
+  },
+  {
+    "word": "nonabsorbent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not capable of absorbing or soaking up (liquids)",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "nonadsorbent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "lacking a capacity to adsorb or cause to accumulate on a surface",
+        "example": ""
       }
     ]
   },
@@ -7760,6 +8984,16 @@
     ]
   },
   {
+    "word": "one(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "(informal) very"
+      }
+    ]
+  },
+  {
     "word": "open",
     "pos": "adjective",
     "meanings": [
@@ -7854,6 +9088,26 @@
     ]
   },
   {
+    "word": "otiose",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "serving no useful purpose",
+        "example": "having no excuse for being"
+      }
+    ]
+  },
+  {
+    "word": "outback(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "inaccessible and sparsely populated",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "outdated",
     "pos": "adjective",
     "meanings": [
@@ -7884,12 +9138,32 @@
     ]
   },
   {
+    "word": "overgreedy",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "excessively gluttonous",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "overt",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "open and observable",
         "example": "not secret or hidden"
+      }
+    ]
+  },
+  {
+    "word": "own(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "belonging to or on behalf of a specified person (especially yourself)",
+        "example": "preceded by a possessive"
       }
     ]
   },
@@ -7964,6 +9238,16 @@
     ]
   },
   {
+    "word": "particular(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "unique or specific to a person or thing or category",
+        "example": "the particular demands of the job"
+      }
+    ]
+  },
+  {
     "word": "parturient",
     "pos": "adjective",
     "meanings": [
@@ -8020,6 +9304,16 @@
       {
         "definition": "tending to penetrate",
         "example": "having the power of entering or piercing"
+      }
+    ]
+  },
+  {
+    "word": "pent-up",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "characterized by or showing the suppression of impulses or emotions",
+        "example": "her severe upbringing had left her inhibited"
       }
     ]
   },
@@ -8244,6 +9538,16 @@
     ]
   },
   {
+    "word": "present(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "temporal sense",
+        "example": "intermediate between past and future"
+      }
+    ]
+  },
+  {
     "word": "pretty",
     "pos": "adjective",
     "meanings": [
@@ -8388,12 +9692,32 @@
     ]
   },
   {
+    "word": "punch-drunk",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "dazed from or as if from repeated blows"
+      }
+    ]
+  },
+  {
     "word": "punctual",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "acting or arriving or performed exactly at the time appointed",
         "example": "she expected guests to be punctual at meals"
+      }
+    ]
+  },
+  {
+    "word": "punic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "tending to betray",
+        "example": "especially having a treacherous character as attributed to the Carthaginians by the Romans"
       }
     ]
   },
@@ -8556,6 +9880,16 @@
       {
         "definition": "",
         "example": "of, relating to, or representing an amount that is corrected for inflation"
+      }
+    ]
+  },
+  {
+    "word": "real(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "no less than what is stated",
+        "example": "worthy of the name"
       }
     ]
   },
@@ -8810,6 +10144,16 @@
     ]
   },
   {
+    "word": "run-of-the-mill",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not special in any way",
+        "example": "lacking distinction"
+      }
+    ]
+  },
+  {
     "word": "rural",
     "pos": "adjective",
     "meanings": [
@@ -8840,6 +10184,16 @@
     ]
   },
   {
+    "word": "saltlike",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "resembling a compound formed by replacing hydrogen in an acid by a metal",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "same",
     "pos": "adjective",
     "meanings": [
@@ -8864,12 +10218,32 @@
     ]
   },
   {
+    "word": "scapose",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "resembling or consisting of a scape"
+      }
+    ]
+  },
+  {
     "word": "scarce",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "deficient in quantity or number compared with the demand",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "scots",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "of or relating to or characteristic of Scotland or its people or culture or its English dialect or Gaelic language",
+        "example": "Scots Gaelic"
       }
     ]
   },
@@ -8910,6 +10284,16 @@
       {
         "definition": "not open or public",
         "example": "kept private or not revealed"
+      }
+    ]
+  },
+  {
+    "word": "self-confessed(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "owned up to",
+        "example": "his admitted doubts"
       }
     ]
   },
@@ -9062,6 +10446,16 @@
     ]
   },
   {
+    "word": "shock-absorbent",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having the capacity to absorb the energy of an impact",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "short",
     "pos": "adjective",
     "meanings": [
@@ -9130,6 +10524,16 @@
       {
         "definition": "existing alone or consisting of one entity or part or aspect or individual",
         "example": "upon the hill stood a single tower"
+      }
+    ]
+  },
+  {
+    "word": "single(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not divided among or brought to bear on more than one object or objective",
+        "example": "judging a contest with a single eye"
       }
     ]
   },
@@ -9224,6 +10628,16 @@
     ]
   },
   {
+    "word": "smudgy",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "smeared with something that soils or stains",
+        "example": "these words are often used in combination"
+      }
+    ]
+  },
+  {
     "word": "sociable",
     "pos": "adjective",
     "meanings": [
@@ -9270,6 +10684,16 @@
       {
         "definition": "",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "some(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "(quantifier) used with either mass nouns or plural count nouns to indicate an unspecified number or quantity",
+        "example": "have some milk"
       }
     ]
   },
@@ -9538,6 +10962,16 @@
     ]
   },
   {
+    "word": "such(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "of so extreme a degree or extent",
+        "example": "such weeping"
+      }
+    ]
+  },
+  {
     "word": "superabundant",
     "pos": "adjective",
     "meanings": [
@@ -9574,6 +11008,16 @@
       {
         "definition": "performed with great precision",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "swingeing",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "severe"
       }
     ]
   },
@@ -9772,6 +11216,16 @@
     ]
   },
   {
+    "word": "three-dimensional",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "involving or relating to three dimensions or aspects",
+        "example": "giving the illusion of depth"
+      }
+    ]
+  },
+  {
     "word": "tight",
     "pos": "adjective",
     "meanings": [
@@ -9856,6 +11310,16 @@
     ]
   },
   {
+    "word": "trichromatic",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "having or involving three colors",
+        "example": "trichromatic vision"
+      }
+    ]
+  },
+  {
     "word": "troubled",
     "pos": "adjective",
     "meanings": [
@@ -9906,12 +11370,42 @@
     ]
   },
   {
+    "word": "unabused",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not physically abused",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "unacceptable",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "not acceptablea word unacceptable in polite society",
         "example": "an unacceptable violation of personal freedom"
+      }
+    ]
+  },
+  {
+    "word": "unaccommodating",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not accommodating",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "unaccustomed to",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "not habituated tounaccustomed to wearing suits",
+        "example": ""
       }
     ]
   },
@@ -9976,6 +11470,16 @@
       {
         "definition": "",
         "example": "of a particle or body or system"
+      }
+    ]
+  },
+  {
+    "word": "un-come-at-able",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
       }
     ]
   },
@@ -10300,6 +11804,16 @@
     ]
   },
   {
+    "word": "unused to(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "infrequently exposed to",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "unusual",
     "pos": "adjective",
     "meanings": [
@@ -10326,6 +11840,26 @@
       {
         "definition": "being or moving higher in position or greater in some value",
         "example": "being above a former position or level"
+      }
+    ]
+  },
+  {
+    "word": "up-to-date",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "in accord with the most fashionable ideas or style",
+        "example": "wears only the latest style"
+      }
+    ]
+  },
+  {
+    "word": "used to(p)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "c 07107220 n 0201 | in the habit of doing something",
+        "example": "...was wont to complain that this is a cold world- Henry David Thoreau"
       }
     ]
   },
@@ -10414,12 +11948,32 @@
     ]
   },
   {
+    "word": "visible(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "present and easily available",
+        "example": "the cash on hand is adequate for current needs"
+      }
+    ]
+  },
+  {
     "word": "vital",
     "pos": "adjective",
     "meanings": [
       {
         "definition": "performing an essential function in the living body",
         "example": "vital organs"
+      }
+    ]
+  },
+  {
+    "word": "volumed",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "\\(often used in combination) consisting of or having a given number or kind of volumes"
       }
     ]
   },
@@ -10498,6 +12052,36 @@
     ]
   },
   {
+    "word": "well-intentioned",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "marked by good intentions though often producing unfortunate results",
+        "example": "a well-intentioned but clumsy waiter"
+      }
+    ]
+  },
+  {
+    "word": "well-knit",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "strongly and firmly constructed",
+        "example": "a well-knit argument"
+      }
+    ]
+  },
+  {
+    "word": "well-known",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "widely or fully known",
+        "example": "a well-known politician"
+      }
+    ]
+  },
+  {
     "word": "whacking",
     "pos": "adjective",
     "meanings": [
@@ -10542,6 +12126,16 @@
       {
         "definition": "outside the bounds of legitimate or ethical business practices",
         "example": "wildcat currency issued by irresponsible banks"
+      }
+    ]
+  },
+  {
+    "word": "working(a)",
+    "pos": "adjective",
+    "meanings": [
+      {
+        "definition": "actively engaged in paid work",
+        "example": "the working population"
       }
     ]
   },

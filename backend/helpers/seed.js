@@ -1,8 +1,7 @@
+const fs = require("fs");
 const Mongoose = require("mongoose");
 const Word = require("../models/word");
-const Thesaurus = require("../models/thesaurus");
 const dotenv = require("dotenv");
-const fs = require("fs");
 
 dotenv.config();
 
@@ -11,8 +10,7 @@ const connect = Mongoose.connect(process.env.MONGO, {
   useUnifiedTopology: true,
 });
 
-const words = JSON.parse(fs.readFileSync("../data/word-list.json"));
-
+const words = JSON.parse(fs.readFileSync("../data/all-data.json"));
 
 connect.then(async (db) => {
   console.log("Connected correctly to server");
@@ -20,11 +18,8 @@ connect.then(async (db) => {
 
   for (let i = 0; i < words.length; i++) {
     const word = words[i];
-    const newWord = await Word.create(word);
-
+    await Word.create(word);
   }
 
-
-  console.log("Database seeded");
   Mongoose.connection.close();
 });

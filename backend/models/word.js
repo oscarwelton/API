@@ -1,4 +1,33 @@
-const mongoose = require('mongoose');
+const mongoose = require("mongoose");
+
+const letters = [
+  "A",
+  "B",
+  "C",
+  "D",
+  "E",
+  "F",
+  "G",
+  "H",
+  "I",
+  "J",
+  "K",
+  "L",
+  "M",
+  "N",
+  "O",
+  "P",
+  "Q",
+  "R",
+  "S",
+  "T",
+  "U",
+  "V",
+  "W",
+  "X",
+  "Y",
+  "Z",
+];
 
 const wordSchema = new mongoose.Schema({
   word: { type: String, required: true },
@@ -12,4 +41,4 @@ const wordSchema = new mongoose.Schema({
   hyponyms: { type: [String], required: false },
 });
 
-module.exports = mongoose.model('Word', wordSchema);
+module.exports = mongoose.model("Word", wordSchema);

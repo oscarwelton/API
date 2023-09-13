@@ -35,15 +35,11 @@ const csvPaths = {
 };
 
 function dictionarySearch(word) {
-  if (word.endsWith("s")) {
-    const singular = word.slice(0, -1);
-    if (dictionary.check(singular) || realWord.check(singular)) {
-      return singular;
-    } else if (dictionary.check(word) || realWord.check(word)) {
-      return word;
-    } else {
-      return false;
-    }
+  const isPlural = word.endsWith("s");
+  const singular = isPlural ? word.slice(0, -1) : word;
+
+  if (dictionary.check(singular) || realWord.check(singular)) {
+    return singular;
   } else if (dictionary.check(word) || realWord.check(word)) {
     return word;
   }
@@ -101,6 +97,9 @@ function convertToJSON() {
     fs.createReadStream(csvPaths[path])
       .pipe(csv())
       .on("data", async (data) => {
+
+
+
         jsonArray.push(data);
       })
       .on("end", () => {

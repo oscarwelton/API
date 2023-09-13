@@ -28,6 +28,16 @@
     ]
   },
   {
+    "word": "aberrate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "diverge or deviate from the straight path"
+      }
+    ]
+  },
+  {
     "word": "abhor",
     "pos": "verb",
     "meanings": [
@@ -204,6 +214,16 @@
     ]
   },
   {
+    "word": "acetylate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "receive substitution of an acetyl group"
+      }
+    ]
+  },
+  {
     "word": "ache",
     "pos": "verb",
     "meanings": [
@@ -270,6 +290,26 @@
       {
         "definition": "perform an action, or work out or perform (an action)",
         "example": "think before you act"
+      }
+    ]
+  },
+  {
+    "word": "act involuntarily",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "act in an uncontrolled manner",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "act up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "misbehave badly",
+        "example": "act in a silly or improper way"
       }
     ]
   },
@@ -418,12 +458,32 @@
     ]
   },
   {
+    "word": "adolesce",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become adolescent",
+        "example": "pass through adolescence"
+      }
+    ]
+  },
+  {
     "word": "adopt",
     "pos": "verb",
     "meanings": [
       {
         "definition": "choose and follow",
         "example": "as of theories, ideas, policies, strategies or plans"
+      }
+    ]
+  },
+  {
+    "word": "advect",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "convey by horizontal mass movement of a fluid",
+        "example": "energy advected from the environment"
       }
     ]
   },
@@ -486,6 +546,16 @@
     ]
   },
   {
+    "word": "affranchise",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "grant freedom to",
+        "example": "as from slavery or servitude"
+      }
+    ]
+  },
+  {
     "word": "age",
     "pos": "verb",
     "meanings": [
@@ -538,12 +608,46 @@
     ]
   },
   {
+    "word": "air out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "expose to fresh air",
+        "example": "aerate your old sneakers"
+      }
+    ]
+  },
+  {
+    "word": "air-cool",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "equip with an apparatus for controlling the humidity and temperature"
+      }
+    ]
+  },
+  {
     "word": "alarm",
     "pos": "verb",
     "meanings": [
       {
         "definition": "warn or arouse to a sense of danger or call to a state of preparedness",
         "example": "The empty house alarmed him"
+      }
+    ]
+  },
+  {
+    "word": "alcoholize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make alcoholic, as by fermenting"
+      },
+      {
+        "definition": "",
+        "example": "treat or infuse with alcohol"
       }
     ]
   },
@@ -562,12 +666,42 @@
     ]
   },
   {
+    "word": "alkalinize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make (a substance) alkaline"
+      }
+    ]
+  },
+  {
+    "word": "alkalize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "turn basic and less acidic"
+      }
+    ]
+  },
+  {
     "word": "allege",
     "pos": "verb",
     "meanings": [
       {
         "definition": "report or maintain",
         "example": "He alleged that he was the victim of a crime"
+      }
+    ]
+  },
+  {
+    "word": "allegorize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "interpret as an allegory",
+        "example": ""
       }
     ]
   },
@@ -644,6 +778,16 @@
     ]
   },
   {
+    "word": "ammonify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "treat with ammonia"
+      }
+    ]
+  },
+  {
     "word": "amputate",
     "pos": "verb",
     "meanings": [
@@ -682,6 +826,16 @@
     ]
   },
   {
+    "word": "anatomize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "analyze down to the smallest detail",
+        "example": "This writer anatomized the depth of human behavior"
+      }
+    ]
+  },
+  {
     "word": "anesthetize",
     "pos": "verb",
     "meanings": [
@@ -708,6 +862,16 @@
       {
         "definition": "give new life or energy to",
         "example": "A hot soup will revive me"
+      }
+    ]
+  },
+  {
+    "word": "ankylose",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "undergo ankylosis"
       }
     ]
   },
@@ -1088,6 +1252,16 @@
     ]
   },
   {
+    "word": "assonate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "correspond in vowel sounds",
+        "example": "rhyme in assonance"
+      }
+    ]
+  },
+  {
     "word": "assume",
     "pos": "verb",
     "meanings": [
@@ -1110,6 +1284,16 @@
       {
         "definition": "seize and take control without authority and possibly with force",
         "example": "take as one's right or possession"
+      }
+    ]
+  },
+  {
+    "word": "attach to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be present or associated with an event or entity",
+        "example": "French fries come with the hamburger"
       }
     ]
   },
@@ -1146,6 +1330,26 @@
       {
         "definition": "",
         "example": "be present at (meetings, church services, university), etc."
+      }
+    ]
+  },
+  {
+    "word": "attend c take care b look d see e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take charge of or deal with",
+        "example": "Could you see about lunch?"
+      }
+    ]
+  },
+  {
+    "word": "attend to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "get down to",
+        "example": "pay attention to"
       }
     ]
   },
@@ -1224,6 +1428,16 @@
     ]
   },
   {
+    "word": "automatize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make automatic or control or operate automatically",
+        "example": "automatize the production"
+      }
+    ]
+  },
+  {
     "word": "autopsy",
     "pos": "verb",
     "meanings": [
@@ -1278,6 +1492,16 @@
       {
         "definition": "be behind",
         "example": "approve of"
+      }
+    ]
+  },
+  {
+    "word": "back up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make a copy of (a computer file) especially for storage in another place as a security copy"
       }
     ]
   },
@@ -1376,12 +1600,32 @@
     ]
   },
   {
+    "word": "bandy about",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "discuss casually",
+        "example": "bandy about an idea"
+      }
+    ]
+  },
+  {
     "word": "bang",
     "pos": "verb",
     "meanings": [
       {
         "definition": "move noisily",
         "example": "The window banged shut"
+      }
+    ]
+  },
+  {
+    "word": "bang out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "play loudly"
       }
     ]
   },
@@ -1458,12 +1702,32 @@
     ]
   },
   {
+    "word": "barge in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "enter uninvited",
+        "example": "informal"
+      }
+    ]
+  },
+  {
     "word": "barricade",
     "pos": "verb",
     "meanings": [
       {
         "definition": "render unsuitable for passage",
         "example": "block the way"
+      }
+    ]
+  },
+  {
+    "word": "bastardize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "declare a child to be illegitimate",
+        "example": ""
       }
     ]
   },
@@ -1564,6 +1828,26 @@
     ]
   },
   {
+    "word": "be active",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be in a state of action",
+        "example": "she is always moving"
+      }
+    ]
+  },
+  {
+    "word": "be well",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be healthy",
+        "example": "feel good"
+      }
+    ]
+  },
+  {
     "word": "bead",
     "pos": "verb",
     "meanings": [
@@ -1596,6 +1880,16 @@
       {
         "definition": "have",
         "example": "bear a resemblance"
+      }
+    ]
+  },
+  {
+    "word": "bear down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "exert full strength"
       }
     ]
   },
@@ -1638,6 +1932,26 @@
     ]
   },
   {
+    "word": "beat a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music",
+        "example": "beat one's breast"
+      }
+    ]
+  },
+  {
+    "word": "beatify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "declare (a dead person) to be blessed",
+        "example": "the first step of achieving sainthood"
+      }
+    ]
+  },
+  {
     "word": "beckon",
     "pos": "verb",
     "meanings": [
@@ -1666,6 +1980,16 @@
       {
         "definition": "enhance the appearance of",
         "example": "Mourning becomes Electra"
+      }
+    ]
+  },
+  {
+    "word": "bed down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "go to bed",
+        "example": "We bedded down at midnight"
       }
     ]
   },
@@ -1814,6 +2138,16 @@
     ]
   },
   {
+    "word": "bell the cat",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take a risk",
+        "example": "perform a daring act"
+      }
+    ]
+  },
+  {
     "word": "belong",
     "pos": "verb",
     "meanings": [
@@ -1824,6 +2158,16 @@
       {
         "definition": "be in the right place or situation",
         "example": "Where do these books belong?"
+      }
+    ]
+  },
+  {
+    "word": "belong to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be a part or adjunct",
+        "example": "the uniform looks like it belonged to a museum collection"
       }
     ]
   },
@@ -1864,6 +2208,16 @@
       {
         "definition": "stake on the outcome of an issue",
         "example": "I bet  on that new horse"
+      }
+    ]
+  },
+  {
+    "word": "bet on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "place a bet on",
+        "example": "Which horse are you backing?"
       }
     ]
   },
@@ -1960,12 +2314,42 @@
     ]
   },
   {
+    "word": "bind over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "order a defendant to be placed in custody pending the outcome of a proceedings against him or her"
+      }
+    ]
+  },
+  {
+    "word": "black marketeer",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "deal on the black market"
+      }
+    ]
+  },
+  {
     "word": "blacken",
     "pos": "verb",
     "meanings": [
       {
         "definition": "make or become black",
         "example": "The smoke blackened the ceiling"
+      }
+    ]
+  },
+  {
+    "word": "blacklead",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cover with graphite",
+        "example": ""
       }
     ]
   },
@@ -2000,6 +2384,16 @@
       {
         "definition": "make a strident sound",
         "example": "She tended to blast when speaking into a microphone"
+      }
+    ]
+  },
+  {
+    "word": "blaze away",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "perform (an acting passage) brilliantly and rapidly"
       }
     ]
   },
@@ -2106,6 +2500,36 @@
     ]
   },
   {
+    "word": "blow out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "melt, break, or become otherwise unusable",
+        "example": "The lightbulbs blew out"
+      }
+    ]
+  },
+  {
+    "word": "blow up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make large"
+      }
+    ]
+  },
+  {
+    "word": "blurt out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "utter impulsively",
+        "example": "He blurted out the secret"
+      }
+    ]
+  },
+  {
     "word": "bluster",
     "pos": "verb",
     "meanings": [
@@ -2142,6 +2566,16 @@
       {
         "definition": "immerse or be immersed in a boiling liquid, often for cooking purposes",
         "example": "boil potatoes"
+      }
+    ]
+  },
+  {
+    "word": "boil down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "be cooked until very little liquid is left"
       }
     ]
   },
@@ -2216,6 +2650,16 @@
     ]
   },
   {
+    "word": "border on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come near or verge on, resemble, come nearer in quality, or character",
+        "example": "This borders on discrimination"
+      }
+    ]
+  },
+  {
     "word": "bore",
     "pos": "verb",
     "meanings": [
@@ -2232,6 +2676,16 @@
       {
         "definition": "get temporarily",
         "example": "May I borrow your lawn mower?"
+      }
+    ]
+  },
+  {
+    "word": "botanize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "collect and study plants",
+        "example": ""
       }
     ]
   },
@@ -2266,6 +2720,16 @@
       {
         "definition": "spring back",
         "example": "spring away from an impact"
+      }
+    ]
+  },
+  {
+    "word": "bounce out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "bounce a ball so that it becomes an out"
       }
     ]
   },
@@ -2374,6 +2838,120 @@
     ]
   },
   {
+    "word": "break a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "weaken or destroy in spirit or body",
+        "example": "His resistance was broken"
+      },
+      {
+        "definition": "destroy the integrity of",
+        "example": "usually by force"
+      },
+      {
+        "definition": "",
+        "example": "make a rupture in the ranks of the enemy or one's own by quitting or fleeing"
+      }
+    ]
+  },
+  {
+    "word": "break c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be broken in",
+        "example": "If the new teacher won't break, we'll add some stress"
+      }
+    ]
+  },
+  {
+    "word": "break down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "lose control of one's emotions",
+        "example": "When she heard that she had not passed the exam, she lost it completely"
+      }
+    ]
+  },
+  {
+    "word": "break e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come forth or begin from a state of latency",
+        "example": "The first winter storm broke over New York"
+      }
+    ]
+  },
+  {
+    "word": "break f",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "change directions suddenly",
+        "example": ""
+      },
+      {
+        "definition": "",
+        "example": "u        happen or take place"
+      }
+    ]
+  },
+  {
+    "word": "break in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make submissive, obedient, or useful",
+        "example": "The horse was tough to break"
+      },
+      {
+        "definition": "intrude on uninvited",
+        "example": "The nosy couple broke in on our conversation"
+      },
+      {
+        "definition": "enter someone's (virtual or real) property in an unauthorized manner, usually with the intent to steal or commit a violent act",
+        "example": "Someone broke in while I was on vacation"
+      }
+    ]
+  },
+  {
+    "word": "break into",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "change pace",
+        "example": "The dancers broke into a cha-cha"
+      },
+      {
+        "definition": "express or utter spontaneously",
+        "example": "break into a yodel"
+      }
+    ]
+  },
+  {
+    "word": "break through",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "penetrate",
+        "example": "The sun broke through the clouds"
+      }
+    ]
+  },
+  {
+    "word": "break up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to separate",
+        "example": "break up kidney stones"
+      }
+    ]
+  },
+  {
     "word": "breastfeed",
     "pos": "verb",
     "meanings": [
@@ -2408,6 +2986,16 @@
       {
         "definition": "",
         "example": "copulate with a female, used especially of horses"
+      }
+    ]
+  },
+  {
+    "word": "breeze through",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "succeed at easily",
+        "example": "She sailed through her exams"
       }
     ]
   },
@@ -2450,6 +3038,54 @@
       {
         "definition": "take something or somebody with oneself somewhere",
         "example": "Bring me the box from the other room"
+      }
+    ]
+  },
+  {
+    "word": "bring around",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "provide a cure for, make healthy again"
+      }
+    ]
+  },
+  {
+    "word": "bring in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "bring in a new person or object into a familiar environment",
+        "example": "He brought in a new judge"
+      }
+    ]
+  },
+  {
+    "word": "bring out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "direct attention to, as if by means of contrast",
+        "example": "This dress accentuates your nice figure"
+      },
+      {
+        "definition": "bring out of a specific state",
+        "example": ""
+      },
+      {
+        "definition": "make visible",
+        "example": "Summer brings out bright clothes"
+      }
+    ]
+  },
+  {
+    "word": "bring to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "return to consciousness",
+        "example": "These pictures bring back sad memories"
       }
     ]
   },
@@ -2556,12 +3192,42 @@
     ]
   },
   {
+    "word": "bubble over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "overflow with a certain feeling",
+        "example": "The children bubbled over with joy"
+      }
+    ]
+  },
+  {
+    "word": "bubble up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move upwards in bubbles, as from the effect of heating",
+        "example": "also used metaphorically"
+      }
+    ]
+  },
+  {
     "word": "bud",
     "pos": "verb",
     "meanings": [
       {
         "definition": "develop buds",
         "example": "The hibiscus is budding"
+      }
+    ]
+  },
+  {
+    "word": "budget for",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "calculate enough money for",
+        "example": "provide for in the budget"
       }
     ]
   },
@@ -2590,6 +3256,34 @@
     ]
   },
   {
+    "word": "build a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "be engaged in building"
+      }
+    ]
+  },
+  {
+    "word": "build up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "change the use of and make available or usable",
+        "example": "develop land"
+      },
+      {
+        "definition": "form or accumulate steadily",
+        "example": "Resistance to the manager's plan built up quickly"
+      },
+      {
+        "definition": "bolster or strengthen",
+        "example": "We worked up courage"
+      }
+    ]
+  },
+  {
     "word": "bulge",
     "pos": "verb",
     "meanings": [
@@ -2610,12 +3304,32 @@
     ]
   },
   {
+    "word": "bundle up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "dress warmly",
+        "example": "Mother bundled up the children for the long way to school"
+      }
+    ]
+  },
+  {
     "word": "bungle",
     "pos": "verb",
     "meanings": [
       {
         "definition": "spoil by behaving clumsily or foolishly",
         "example": "I bungled it"
+      }
+    ]
+  },
+  {
+    "word": "bunk off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u        play truant from work or school"
       }
     ]
   },
@@ -2662,12 +3376,32 @@
     ]
   },
   {
+    "word": "burn down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "burn completely",
+        "example": "be consumed or destroyed by fire"
+      }
+    ]
+  },
+  {
     "word": "burp",
     "pos": "verb",
     "meanings": [
       {
         "definition": "expel gas from the stomach",
         "example": "Please don't burp at the table"
+      }
+    ]
+  },
+  {
+    "word": "burst out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "give sudden release to an expression",
+        "example": "We burst out laughing"
       }
     ]
   },
@@ -2716,6 +3450,16 @@
     ]
   },
   {
+    "word": "buy it",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u        be killed or die"
+      }
+    ]
+  },
+  {
     "word": "buzz",
     "pos": "verb",
     "meanings": [
@@ -2726,6 +3470,16 @@
       {
         "definition": "make a buzzing sound",
         "example": "bees were buzzing around the hive"
+      }
+    ]
+  },
+  {
+    "word": "calcify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "turn into lime",
+        "example": "become calcified"
       }
     ]
   },
@@ -2788,6 +3542,80 @@
     ]
   },
   {
+    "word": "call back",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "return or repeat a telephone call",
+        "example": "I am busy right now--can you call back in an hour?"
+      }
+    ]
+  },
+  {
+    "word": "call d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "utter in a loud voice or announce",
+        "example": "He called my name"
+      }
+    ]
+  },
+  {
+    "word": "call e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "order, summon, or request for a specific duty or activity, work, role",
+        "example": "He was already called  times for jury duty"
+      }
+    ]
+  },
+  {
+    "word": "call in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make a phone call"
+      }
+    ]
+  },
+  {
+    "word": "call on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have recourse to or make an appeal or request for help or information to",
+        "example": "She called on her Representative to help her"
+      }
+    ]
+  },
+  {
+    "word": "call on the carpet",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "censure severely or angrily",
+        "example": "The mother scolded the child for entering a stranger's car"
+      }
+    ]
+  },
+  {
+    "word": "call up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "bring forward for consideration",
+        "example": "The case was called up in court"
+      },
+      {
+        "definition": "cause to become available for use, either literally or figuratively",
+        "example": "clicking on the icon calls up the program"
+      }
+    ]
+  },
+  {
     "word": "calm",
     "pos": "verb",
     "meanings": [
@@ -2838,6 +3666,16 @@
       {
         "definition": "postpone indefinitely or annul something that was scheduled",
         "example": "Call off the engagement"
+      }
+    ]
+  },
+  {
+    "word": "cancel out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "wipe out the effect of something",
+        "example": "The new tax effectively cancels out my raise"
       }
     ]
   },
@@ -2948,6 +3786,16 @@
     ]
   },
   {
+    "word": "carbonize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "unite with carbon"
+      }
+    ]
+  },
+  {
     "word": "care",
     "pos": "verb",
     "meanings": [
@@ -2958,12 +3806,42 @@
     ]
   },
   {
+    "word": "care a hang",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "show no concern or interest",
+        "example": "always used in the negative"
+      }
+    ]
+  },
+  {
     "word": "career",
     "pos": "verb",
     "meanings": [
       {
         "definition": "move headlong at high speed",
         "example": "The cars careered down the road"
+      }
+    ]
+  },
+  {
+    "word": "caress",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "touch or stroke lightly in a loving or endearing manner",
+        "example": "He caressed her face"
+      }
+    ]
+  },
+  {
+    "word": "carjack",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "take someone's car from him by force, usually with the intention of stealing it"
       }
     ]
   },
@@ -3028,12 +3906,52 @@
     ]
   },
   {
+    "word": "carry c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have or possess something abstract",
+        "example": "I carry her image in my mind's eye"
+      }
+    ]
+  },
+  {
+    "word": "carry d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have as an inherent or characteristic feature or have as a consequence",
+        "example": "This new washer carries a two year guarantee"
+      }
+    ]
+  },
+  {
+    "word": "carry through",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "put in effect",
+        "example": "carry out a task"
+      }
+    ]
+  },
+  {
     "word": "cartwheel",
     "pos": "verb",
     "meanings": [
       {
         "definition": "do cartwheels: perform an acrobatic movement using both hands and feet",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "carve out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "remove from a larger whole",
+        "example": "the new start-up company carved out a large chunk of the market within a year"
       }
     ]
   },
@@ -3054,6 +3972,16 @@
       {
         "definition": "",
         "example": "select to play,sing, or dance a part in a play, movie, musical, opera, or ballet"
+      }
+    ]
+  },
+  {
+    "word": "cast d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "deposit",
+        "example": "cast a vote"
       }
     ]
   },
@@ -3110,6 +4038,76 @@
     ]
   },
   {
+    "word": "catch c get d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "perceive by hearing",
+        "example": "I didn't catch your name"
+      }
+    ]
+  },
+  {
+    "word": "catch c get e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "apprehend and reproduce accurately",
+        "example": "She really caught the spirit of the place in her drawings"
+      }
+    ]
+  },
+  {
+    "word": "catch d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "delay or hold up",
+        "example": "prevent from proceeding on schedule or as planned"
+      }
+    ]
+  },
+  {
+    "word": "catch it",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "receive punishment",
+        "example": "be scolded or reprimanded"
+      }
+    ]
+  },
+  {
+    "word": "catch sight",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "see something for a brief time",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "catch up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "learn belatedly",
+        "example": "find out about something after it happened"
+      }
+    ]
+  },
+  {
+    "word": "cathect",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "inject with libidinal energy",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "cause",
     "pos": "verb",
     "meanings": [
@@ -3130,12 +4128,32 @@
     ]
   },
   {
+    "word": "cell phone",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "call up by using a cellular phone"
+      }
+    ]
+  },
+  {
     "word": "center",
     "pos": "verb",
     "meanings": [
       {
         "definition": "",
         "example": "^        move into the center"
+      }
+    ]
+  },
+  {
+    "word": "chandelle",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "climb suddenly and steeply"
       }
     ]
   },
@@ -3166,6 +4184,36 @@
       {
         "definition": "change clothes",
         "example": "put on different clothes"
+      }
+    ]
+  },
+  {
+    "word": "change by reversal",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "change to the contrary",
+        "example": "The trend was reversed"
+      }
+    ]
+  },
+  {
+    "word": "change state",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "undergo a transformation or a change of position or action",
+        "example": "We turned from Socialism to Capitalism"
+      }
+    ]
+  },
+  {
+    "word": "channelize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make a channel for",
+        "example": "provide with a channel"
       }
     ]
   },
@@ -3226,12 +4274,42 @@
     ]
   },
   {
+    "word": "charge b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "instruct or command with authority",
+        "example": "The teacher charged the children to memorize the poem"
+      }
+    ]
+  },
+  {
+    "word": "charge c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "set or ask for a certain price",
+        "example": "How much do you charge for lunch?"
+      }
+    ]
+  },
+  {
     "word": "chase",
     "pos": "verb",
     "meanings": [
       {
         "definition": "go after with the intent to catch",
         "example": "The policeman chased the mugger down the alley"
+      }
+    ]
+  },
+  {
+    "word": "chase away",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "force to go away",
+        "example": "used both with concrete and metaphoric meanings"
       }
     ]
   },
@@ -3246,6 +4324,16 @@
     ]
   },
   {
+    "word": "chat up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "talk or behave amorously, without serious intentions",
+        "example": "The guys always try to chat up the new secretaries"
+      }
+    ]
+  },
+  {
     "word": "cheat",
     "pos": "verb",
     "meanings": [
@@ -3256,6 +4344,16 @@
       {
         "definition": "engage in deceitful behavior",
         "example": "practice trickery or fraud"
+      }
+    ]
+  },
+  {
+    "word": "cheat on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be sexually unfaithful to one's partner in marriage",
+        "example": "She cheats on her husband"
       }
     ]
   },
@@ -3290,6 +4388,40 @@
     ]
   },
   {
+    "word": "check c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "verify by consulting a source or authority",
+        "example": "check the spelling of this word"
+      },
+      {
+        "definition": "stop in a chase especially when scent is lost",
+        "example": "The dog checked"
+      }
+    ]
+  },
+  {
+    "word": "check e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "abandon the intended prey, turn, and pursue an inferior prey"
+      }
+    ]
+  },
+  {
+    "word": "check f",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "stop for a moment, as if out of uncertainty or caution",
+        "example": "She checked for an instant and missed a step"
+      }
+    ]
+  },
+  {
     "word": "checkmate",
     "pos": "verb",
     "meanings": [
@@ -3310,6 +4442,16 @@
     ]
   },
   {
+    "word": "chew over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "reflect deeply on a subject",
+        "example": "I mulled over the events of the afternoon"
+      }
+    ]
+  },
+  {
     "word": "chime",
     "pos": "verb",
     "meanings": [
@@ -3326,6 +4468,16 @@
       {
         "definition": "break a small piece off from",
         "example": "chip the glass"
+      }
+    ]
+  },
+  {
+    "word": "chiromance",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "divine by reading someone's palms",
+        "example": "The Gypsies chiromanced"
       }
     ]
   },
@@ -3412,6 +4564,16 @@
       {
         "definition": "move in a circular path above (someone or something)",
         "example": "the plane circled, looking for a landing spot"
+      }
+    ]
+  },
+  {
+    "word": "circularize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "distribute circulars to",
+        "example": ""
       }
     ]
   },
@@ -3506,6 +4668,16 @@
     ]
   },
   {
+    "word": "clean up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make a big profit",
+        "example": "often in a short period of time"
+      }
+    ]
+  },
+  {
     "word": "cleanse",
     "pos": "verb",
     "meanings": [
@@ -3534,6 +4706,36 @@
       {
         "definition": "",
         "example": "sell"
+      }
+    ]
+  },
+  {
+    "word": "clear c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "rid of instructions or data"
+      }
+    ]
+  },
+  {
+    "word": "clear up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become clear",
+        "example": "The sky cleared after the storm"
+      }
+    ]
+  },
+  {
+    "word": "click d get through",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become clear or enter one's consciousness or emotions",
+        "example": "It dawned on him that she had betrayed him"
       }
     ]
   },
@@ -3602,6 +4804,24 @@
     ]
   },
   {
+    "word": "close up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "refuse to talk or stop talking",
+        "example": "fall silent"
+      },
+      {
+        "definition": "unite or bring into contact or bring together the edges of",
+        "example": "close the circuit"
+      },
+      {
+        "definition": "cease to operate or cause to cease operating",
+        "example": "The owners decided to move and to close the factory"
+      }
+    ]
+  },
+  {
     "word": "closure",
     "pos": "verb",
     "meanings": [
@@ -3662,6 +4882,16 @@
       {
         "definition": "put a coat on",
         "example": "cover the surface of"
+      }
+    ]
+  },
+  {
+    "word": "cocainize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "anesthetize with cocaine",
+        "example": ""
       }
     ]
   },
@@ -3788,6 +5018,16 @@
     ]
   },
   {
+    "word": "colorcast",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "broadcast in color"
+      }
+    ]
+  },
+  {
     "word": "comb",
     "pos": "verb",
     "meanings": [
@@ -3824,6 +5064,66 @@
       {
         "definition": "extend or reach",
         "example": "The water came up to my waist"
+      }
+    ]
+  },
+  {
+    "word": "come b add up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "develop into",
+        "example": "This idea will never amount to anything"
+      }
+    ]
+  },
+  {
+    "word": "come forth",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "happen or occur as a result of something",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "come in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "come into fashion"
+      }
+    ]
+  },
+  {
+    "word": "come on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "appear or become visible",
+        "example": "make a showing"
+      }
+    ]
+  },
+  {
+    "word": "come to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "return to consciousness",
+        "example": "The patient came to quickly"
+      }
+    ]
+  },
+  {
+    "word": "come to the fore",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make oneself visible",
+        "example": "take action"
       }
     ]
   },
@@ -3964,6 +5264,26 @@
     ]
   },
   {
+    "word": "comparison-shop",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "compare prices for a given item"
+      }
+    ]
+  },
+  {
+    "word": "compass",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u                 bring about"
+      }
+    ]
+  },
+  {
     "word": "compensate",
     "pos": "verb",
     "meanings": [
@@ -3998,6 +5318,16 @@
       {
         "definition": "express complaints, discontent, displeasure, or unhappiness",
         "example": "My mother complains all day"
+      }
+    ]
+  },
+  {
+    "word": "complect",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be interwoven or interconnected",
+        "example": "The bones are interconnected via the muscle"
       }
     ]
   },
@@ -4120,12 +5450,32 @@
     ]
   },
   {
+    "word": "concenter",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "concentrate",
     "pos": "verb",
     "meanings": [
       {
         "definition": "",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "concertize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "give concerts"
       }
     ]
   },
@@ -4228,6 +5578,16 @@
       {
         "definition": "",
         "example": "administer the rite of confirmation to"
+      }
+    ]
+  },
+  {
+    "word": "conflict b run afoul b infringe",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "go against, as of rules and laws",
+        "example": "He ran afoul of the law"
       }
     ]
   },
@@ -4374,6 +5734,26 @@
     ]
   },
   {
+    "word": "consonate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "sound in sympathy",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "consort c associate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "keep company with",
+        "example": "hang out with"
+      }
+    ]
+  },
+  {
     "word": "constitute",
     "pos": "verb",
     "meanings": [
@@ -4444,6 +5824,26 @@
     ]
   },
   {
+    "word": "contain e take f hold e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be capable of holding or containing",
+        "example": "This box won't take all the items"
+      }
+    ]
+  },
+  {
+    "word": "contemn",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "look down on with disdain",
+        "example": "He despises the people he has to work for"
+      }
+    ]
+  },
+  {
     "word": "contemplate",
     "pos": "verb",
     "meanings": [
@@ -4482,6 +5882,16 @@
     ]
   },
   {
+    "word": "continue c persist in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "do something repeatedly and showing no intention to stop",
+        "example": "We continued our research into the cause of the illness"
+      }
+    ]
+  },
+  {
     "word": "contract",
     "pos": "verb",
     "meanings": [
@@ -4516,6 +5926,16 @@
       {
         "definition": "",
         "example": "@           check or regulate (a scientific experiment) by conducting a parallel experiment or comparing with another standard"
+      }
+    ]
+  },
+  {
+    "word": "control b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u   @              verify by using a duplicate register for comparison"
       }
     ]
   },
@@ -4594,6 +6014,16 @@
       {
         "definition": "succeed in doing, achieving, or producing (something) with the limited or inadequate means available",
         "example": "We got by on just a gallon of gas"
+      }
+    ]
+  },
+  {
+    "word": "copolymerize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "polymerize together"
       }
     ]
   },
@@ -4760,6 +6190,36 @@
     ]
   },
   {
+    "word": "cover c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "maintain a check on",
+        "example": "especially by patrolling"
+      }
+    ]
+  },
+  {
+    "word": "cover f wrap up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "clothe, as if for protection from the elements",
+        "example": "cover your head"
+      }
+    ]
+  },
+  {
+    "word": "cozy up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "ingratiate oneself to",
+        "example": "often with insincere behavior"
+      }
+    ]
+  },
+  {
     "word": "crack",
     "pos": "verb",
     "meanings": [
@@ -4804,6 +6264,26 @@
       {
         "definition": "fall or come down violently",
         "example": "The branch crashed down on my car"
+      }
+    ]
+  },
+  {
+    "word": "crash a go down e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "stop operating",
+        "example": "My computer crashed last night"
+      }
+    ]
+  },
+  {
+    "word": "crash b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "undergo a sudden and severe downturn",
+        "example": "the economy crashed"
       }
     ]
   },
@@ -4860,6 +6340,16 @@
     ]
   },
   {
+    "word": "create d make",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "create by artistic means",
+        "example": "create a poem"
+      }
+    ]
+  },
+  {
     "word": "cripple",
     "pos": "verb",
     "meanings": [
@@ -4904,6 +6394,16 @@
     ]
   },
   {
+    "word": "crop up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "appear suddenly or unexpectedly",
+        "example": "The farm popped into view as we turned the corner"
+      }
+    ]
+  },
+  {
     "word": "croquet",
     "pos": "verb",
     "meanings": [
@@ -4939,6 +6439,30 @@
     "meanings": [
       {
         "definition": "cut using a diagonal line",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "cross-fertilize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to undergo cross-fertilization",
+        "example": "Mendel cross-fertilized different kinds of beans"
+      },
+      {
+        "definition": "undergo cross-fertilization",
+        "example": "become fertile"
+      }
+    ]
+  },
+  {
+    "word": "cross-refer",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "refer from one entry to another, as in catalogues, books, and lists",
         "example": ""
       }
     ]
@@ -5002,6 +6526,16 @@
     ]
   },
   {
+    "word": "crusade a fight a press c campaign a push a agitate a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person",
+        "example": "be an advocate for"
+      }
+    ]
+  },
+  {
     "word": "crush",
     "pos": "verb",
     "meanings": [
@@ -5046,6 +6580,16 @@
     ]
   },
   {
+    "word": "cull out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "select desirable parts from a group or list",
+        "example": "cull out the interesting letters from the poet's correspondence"
+      }
+    ]
+  },
+  {
     "word": "cultivate",
     "pos": "verb",
     "meanings": [
@@ -5066,6 +6610,16 @@
       {
         "definition": "make (substances) hard and improve their usability",
         "example": "cure resin"
+      }
+    ]
+  },
+  {
+    "word": "curl up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "shape one's body into a curl",
+        "example": "She curled farther down under the covers"
       }
     ]
   },
@@ -5130,6 +6684,76 @@
       {
         "definition": "make a recording of",
         "example": "cut the songs"
+      }
+    ]
+  },
+  {
+    "word": "cut away",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move quickly to another scene or focus when filming",
+        "example": "`cut away now' the director shouted"
+      }
+    ]
+  },
+  {
+    "word": "cut d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "fell by sawing",
+        "example": "hew"
+      }
+    ]
+  },
+  {
+    "word": "cut f",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "move (one's fist)"
+      }
+    ]
+  },
+  {
+    "word": "cut off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "remove by or as if by cutting",
+        "example": "cut off the ear"
+      }
+    ]
+  },
+  {
+    "word": "cut out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "delete or remove",
+        "example": "Cut out the extra text"
+      }
+    ]
+  },
+  {
+    "word": "cut to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move to another scene when filming",
+        "example": "The camera cut to the sky"
+      }
+    ]
+  },
+  {
+    "word": "cybernate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "control a function, process, or creation by a computer"
       }
     ]
   },
@@ -5232,6 +6856,16 @@
     ]
   },
   {
+    "word": "dash off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "write quickly"
+      }
+    ]
+  },
+  {
     "word": "date",
     "pos": "verb",
     "meanings": [
@@ -5262,6 +6896,26 @@
       {
         "definition": "amaze or bewilder, as with brilliant wit or intellect or skill",
         "example": "Her arguments dazzled everyone"
+      }
+    ]
+  },
+  {
+    "word": "de-access",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "dispose of by selling",
+        "example": "the museum sold off its collection of French impressionists to raise money"
+      }
+    ]
+  },
+  {
+    "word": "deaccession",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
       }
     ]
   },
@@ -5298,6 +6952,16 @@
     ]
   },
   {
+    "word": "deal b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "sell"
+      }
+    ]
+  },
+  {
     "word": "debar",
     "pos": "verb",
     "meanings": [
@@ -5314,6 +6978,16 @@
       {
         "definition": "argue with one another",
         "example": "We debated the question of abortion"
+      }
+    ]
+  },
+  {
+    "word": "debouch",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "pass out or emerge",
+        "example": "especially of rivers"
       }
     ]
   },
@@ -5352,6 +7026,16 @@
       {
         "definition": "",
         "example": "u           leave suddenly"
+      }
+    ]
+  },
+  {
+    "word": "decarboxylate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "lose a carboxyl group"
       }
     ]
   },
@@ -5456,6 +7140,16 @@
     ]
   },
   {
+    "word": "decussate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cross or intersect so as to form a cross",
+        "example": "this nerve decussates the other"
+      }
+    ]
+  },
+  {
     "word": "deduce",
     "pos": "verb",
     "meanings": [
@@ -5476,12 +7170,42 @@
     ]
   },
   {
+    "word": "de-energize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "deprive of energy",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "deepen",
     "pos": "verb",
     "meanings": [
       {
         "definition": "become deeper in tone",
         "example": "His voice began to change when he was  years old"
+      }
+    ]
+  },
+  {
+    "word": "deep-fat-fry",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "fry in deep fat"
+      }
+    ]
+  },
+  {
+    "word": "deep-six",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "toss out",
+        "example": "get rid of"
       }
     ]
   },
@@ -5526,6 +7250,16 @@
       {
         "definition": "show the form or outline of",
         "example": "The tree was clearly defined by the light"
+      }
+    ]
+  },
+  {
+    "word": "deflagrate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to burn rapidly and with great intensity",
+        "example": "care must be exercised when this substance is to be deflagrated"
       }
     ]
   },
@@ -5584,6 +7318,16 @@
     ]
   },
   {
+    "word": "demagnetize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make nonmagnetic"
+      }
+    ]
+  },
+  {
     "word": "demand",
     "pos": "verb",
     "meanings": [
@@ -5598,6 +7342,16 @@
       {
         "definition": "ask to be informed of",
         "example": "I demand an explanation"
+      }
+    ]
+  },
+  {
+    "word": "demineralize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "remove the minerals or salts from"
       }
     ]
   },
@@ -5642,6 +7396,36 @@
     ]
   },
   {
+    "word": "demythologize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "remove the mythical element from (writings)"
+      }
+    ]
+  },
+  {
+    "word": "denazify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "free from Nazi ideology or detach from Nazi allegiance",
+        "example": "Germany was denazified after WW II"
+      }
+    ]
+  },
+  {
+    "word": "denitrify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "remove nitrogen from"
+      }
+    ]
+  },
+  {
     "word": "deny",
     "pos": "verb",
     "meanings": [
@@ -5668,6 +7452,30 @@
       {
         "definition": "refuse to grant, as of a petition or request",
         "example": "The dean denied the students' request for more physics courses"
+      }
+    ]
+  },
+  {
+    "word": "depend on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "put trust in with confidence",
+        "example": "she is someone you can really rely on when times get rough"
+      },
+      {
+        "definition": "be contingent on",
+        "example": "The outcomes rides on the results of the election"
+      }
+    ]
+  },
+  {
+    "word": "depersonalize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make impersonal or present as an object",
+        "example": "Will computers depersonalize human interactions?"
       }
     ]
   },
@@ -5790,6 +7598,16 @@
     ]
   },
   {
+    "word": "desquamate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "peel off in scales",
+        "example": "dry skin desquamates"
+      }
+    ]
+  },
+  {
     "word": "destroy",
     "pos": "verb",
     "meanings": [
@@ -5834,6 +7652,16 @@
       {
         "definition": "try to prevent",
         "example": "show opposition to"
+      }
+    ]
+  },
+  {
+    "word": "deterge",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "wipe away",
+        "example": "to wash off or out, cleanse"
       }
     ]
   },
@@ -5928,6 +7756,26 @@
       {
         "definition": "",
         "example": "c"
+      }
+    ]
+  },
+  {
+    "word": "develop a grow a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "grow emotionally or mature",
+        "example": "The child developed beautifully in her new kindergarten"
+      }
+    ]
+  },
+  {
+    "word": "develop c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "expand in the form of a series"
       }
     ]
   },
@@ -6116,6 +7964,16 @@
     ]
   },
   {
+    "word": "dip into",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "read selectively",
+        "example": "read only certain passages from a text"
+      }
+    ]
+  },
+  {
     "word": "direct",
     "pos": "verb",
     "meanings": [
@@ -6176,6 +8034,26 @@
       {
         "definition": "refuse to acknowledge",
         "example": "disclaim knowledge of"
+      }
+    ]
+  },
+  {
+    "word": "disbar",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "remove from the bar"
+      }
+    ]
+  },
+  {
+    "word": "discerp",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cut off from a whole",
+        "example": "His head was severed from his body"
       }
     ]
   },
@@ -6254,6 +8132,16 @@
       {
         "definition": "cause aversion in",
         "example": "offend the moral sense of"
+      }
+    ]
+  },
+  {
+    "word": "dish the dirt",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "wag one's tongue",
+        "example": "speak about others and reveal secrets or intimacies"
       }
     ]
   },
@@ -6372,6 +8260,36 @@
     ]
   },
   {
+    "word": "diss",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "treat, mention, or speak to rudely",
+        "example": "He insulted her with his rude remarks"
+      }
+    ]
+  },
+  {
+    "word": "dissimilate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "become dissimilar by changing the sound qualities"
+      }
+    ]
+  },
+  {
+    "word": "dissociate a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "to undergo a reversible or temporary breakdown of a molecule into simpler molecules or atoms"
+      }
+    ]
+  },
+  {
     "word": "dissolve",
     "pos": "verb",
     "meanings": [
@@ -6446,6 +8364,16 @@
       {
         "definition": "move deeply",
         "example": "This book upset me"
+      }
+    ]
+  },
+  {
+    "word": "disunify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "break up or separate",
+        "example": "The country is disunifying"
       }
     ]
   },
@@ -6546,6 +8474,16 @@
     ]
   },
   {
+    "word": "do a job on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "destroy completely or make ugly or useless",
+        "example": "The dog did a job on my pillow"
+      }
+    ]
+  },
+  {
     "word": "docket",
     "pos": "verb",
     "meanings": [
@@ -6618,6 +8556,16 @@
     ]
   },
   {
+    "word": "doss",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "sleep in a convenient place",
+        "example": "You can crash here, though it's not very comfortable"
+      }
+    ]
+  },
+  {
     "word": "dote",
     "pos": "verb",
     "meanings": [
@@ -6638,6 +8586,16 @@
       {
         "definition": "do double duty",
         "example": "serve two purposes or have two functions"
+      }
+    ]
+  },
+  {
+    "word": "double tongue",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
       }
     ]
   },
@@ -6696,6 +8654,26 @@
     ]
   },
   {
+    "word": "drag a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "use a computer mouse to move icons on the screen and select commands from a menu",
+        "example": "drag this icon to the lower right hand corner of the screen"
+      }
+    ]
+  },
+  {
+    "word": "drag up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "mention something unpleasant from the past",
+        "example": "Drag up old stories"
+      }
+    ]
+  },
+  {
     "word": "drain",
     "pos": "verb",
     "meanings": [
@@ -6746,6 +8724,60 @@
       {
         "definition": "bring, take, or pull out of a container or from under a cover",
         "example": "draw a weapon"
+      }
+    ]
+  },
+  {
+    "word": "draw e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "bring or lead someone to a certain action or condition",
+        "example": "She was drawn to despair"
+      }
+    ]
+  },
+  {
+    "word": "draw f",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "steep",
+        "example": "pass through a strainer"
+      }
+    ]
+  },
+  {
+    "word": "draw in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "pull inward or towards a center",
+        "example": "The pilot drew in the landing gear"
+      }
+    ]
+  },
+  {
+    "word": "draw off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "remove by drawing or pulling",
+        "example": "She placed the tray down and drew off the cloth"
+      }
+    ]
+  },
+  {
+    "word": "draw up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "come to a halt after driving somewhere"
+      },
+      {
+        "definition": "",
+        "example": "cause (a vehicle) to stop"
       }
     ]
   },
@@ -6810,6 +8842,16 @@
     ]
   },
   {
+    "word": "dress up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make something appear superficially attractive",
+        "example": "The researcher tried to dress up the uninteresting data"
+      }
+    ]
+  },
+  {
     "word": "dribble",
     "pos": "verb",
     "meanings": [
@@ -6850,6 +8892,16 @@
       {
         "definition": "drink excessive amounts of alcohol",
         "example": "be an alcoholic"
+      }
+    ]
+  },
+  {
+    "word": "drink in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be fascinated or spell-bound by",
+        "example": "pay close attention to"
       }
     ]
   },
@@ -6904,6 +8956,56 @@
     ]
   },
   {
+    "word": "drive b take b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "proceed along in a vehicle"
+      }
+    ]
+  },
+  {
+    "word": "drive d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "work as a driver",
+        "example": "He drives a bread truck"
+      }
+    ]
+  },
+  {
+    "word": "drive home",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make clear by special emphasis and try to convince somebody of something",
+        "example": "drive home a point or an argument"
+      }
+    ]
+  },
+  {
+    "word": "drive in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "cause a run or runner to be scored"
+      }
+    ]
+  },
+  {
+    "word": "drive up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "approach while driving"
+      }
+    ]
+  },
+  {
     "word": "drop",
     "pos": "verb",
     "meanings": [
@@ -6930,12 +9032,42 @@
     ]
   },
   {
+    "word": "drop open",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "open involuntarily",
+        "example": "His mouth dropped open"
+      }
+    ]
+  },
+  {
+    "word": "drop out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "give up in the face of defeat of lacking hope",
+        "example": "admit defeat"
+      }
+    ]
+  },
+  {
     "word": "drown",
     "pos": "verb",
     "meanings": [
       {
         "definition": "die from being submerged in water, getting water into the lungs, and asphyxiating",
         "example": "The child drowned in the lake"
+      }
+    ]
+  },
+  {
+    "word": "drowse",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be on the verge of sleeping",
+        "example": "The students were drowsing in the  AM class"
       }
     ]
   },
@@ -7042,6 +9174,16 @@
     ]
   },
   {
+    "word": "eat into",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "gnaw into",
+        "example": "make resentful or angry"
+      }
+    ]
+  },
+  {
     "word": "eclipse",
     "pos": "verb",
     "meanings": [
@@ -7100,6 +9242,16 @@
     ]
   },
   {
+    "word": "eke out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "supplement what is thought to be deficient",
+        "example": "He eked out his meager pay by giving private lessons"
+      }
+    ]
+  },
+  {
     "word": "elaborate",
     "pos": "verb",
     "meanings": [
@@ -7148,6 +9300,16 @@
     ]
   },
   {
+    "word": "e-mail",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "communicate electronically on the computer"
+      }
+    ]
+  },
+  {
     "word": "embody",
     "pos": "verb",
     "meanings": [
@@ -7188,6 +9350,16 @@
       {
         "definition": "give off, send forth, or discharge",
         "example": "as of light, heat, or radiation, vapor, etc."
+      }
+    ]
+  },
+  {
+    "word": "empanel",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "select from a list",
+        "example": "empanel prospective jurors"
       }
     ]
   },
@@ -7372,6 +9544,16 @@
     ]
   },
   {
+    "word": "enthrone",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "put a monarch on the throne",
+        "example": "The Queen was enthroned more than  years ago"
+      }
+    ]
+  },
+  {
     "word": "entrance",
     "pos": "verb",
     "meanings": [
@@ -7488,6 +9670,16 @@
     ]
   },
   {
+    "word": "estivate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "sleep during summer",
+        "example": "certain animals estivate"
+      }
+    ]
+  },
+  {
     "word": "etch",
     "pos": "verb",
     "meanings": [
@@ -7498,6 +9690,36 @@
       {
         "definition": "cause to stand out or be clearly defined or visible",
         "example": "a face etched with pain"
+      }
+    ]
+  },
+  {
+    "word": "etherify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "change into an ether"
+      }
+    ]
+  },
+  {
+    "word": "etherize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "anesthetize with ether",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "etymologize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "give the etymology or derivation or suggest an etymology (for a word)",
+        "example": "The linguist probably etymologized the words incorrectly"
       }
     ]
   },
@@ -7666,6 +9888,16 @@
     ]
   },
   {
+    "word": "exhilarate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "fill with sublime emotion",
+        "example": "The children were thrilled at the prospect of going to the movies"
+      }
+    ]
+  },
+  {
     "word": "exist",
     "pos": "verb",
     "meanings": [
@@ -7702,6 +9934,16 @@
       {
         "definition": "look forward to the probable occurrence of",
         "example": "We were expecting a visit from our relatives"
+      }
+    ]
+  },
+  {
+    "word": "expectorate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "discharge (phlegm or sputum) from the lungs and out of the mouth",
+        "example": ""
       }
     ]
   },
@@ -7830,12 +10072,42 @@
     ]
   },
   {
+    "word": "exsert",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "thrust or extend out",
+        "example": "He held out his hand"
+      }
+    ]
+  },
+  {
     "word": "extend",
     "pos": "verb",
     "meanings": [
       {
         "definition": "make available",
         "example": "provide"
+      }
+    ]
+  },
+  {
+    "word": "extend a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "open or straighten out",
+        "example": "unbend"
+      }
+    ]
+  },
+  {
+    "word": "extend c stretch d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "increase in quantity or bulk by adding a cheaper substance",
+        "example": "stretch the soup by adding some more cream"
       }
     ]
   },
@@ -7988,6 +10260,16 @@
     ]
   },
   {
+    "word": "fail c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "fall short in what is expected",
+        "example": "She failed in her obligations as a good daughter-in-law"
+      }
+    ]
+  },
+  {
     "word": "faint",
     "pos": "verb",
     "meanings": [
@@ -8044,6 +10326,120 @@
       {
         "definition": "come under, be classified or included",
         "example": "fall into a category"
+      }
+    ]
+  },
+  {
+    "word": "fall a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come out",
+        "example": "issue"
+      }
+    ]
+  },
+  {
+    "word": "fall asleep",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "change from a waking to a sleeping state",
+        "example": "he always falls asleep during lectures"
+      }
+    ]
+  },
+  {
+    "word": "fall b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "assume a disappointed or sad expression",
+        "example": "Her face fell when she heard that she would be laid off"
+      }
+    ]
+  },
+  {
+    "word": "fall d descend d settle d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come as if by falling",
+        "example": "Night fell"
+      }
+    ]
+  },
+  {
+    "word": "fall d return d pass d devolve d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be inherited by",
+        "example": "The estate fell to my sister"
+      }
+    ]
+  },
+  {
+    "word": "fall e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "drop oneself to a lower or less erect position",
+        "example": "She fell back in her chair"
+      }
+    ]
+  },
+  {
+    "word": "fall f fall down f",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "lose an upright position suddenly",
+        "example": "The vase fell over and the water spilled onto the table"
+      }
+    ]
+  },
+  {
+    "word": "fall for",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "fall in love with",
+        "example": "become infatuated with"
+      },
+      {
+        "definition": "be deceived, duped, or entrapped by",
+        "example": "He fell for her charms"
+      }
+    ]
+  },
+  {
+    "word": "fall over backwards",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "try very hard to please someone",
+        "example": "She falls over backwards when she sees her mother-in-law"
+      }
+    ]
+  },
+  {
+    "word": "fall through",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "fail utterly",
+        "example": "collapse"
+      }
+    ]
+  },
+  {
+    "word": "fall upon d strike",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "find unexpectedly",
+        "example": "the archeologists chanced upon an old tomb"
       }
     ]
   },
@@ -8158,6 +10554,36 @@
     ]
   },
   {
+    "word": "feel a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "grope or feel in search of something",
+        "example": "He felt for his wallet"
+      }
+    ]
+  },
+  {
+    "word": "feel b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u              pass one's hands over the sexual organs of"
+      }
+    ]
+  },
+  {
+    "word": "feel like",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have an inclination for something or some activity",
+        "example": "I feel like staying in bed all day"
+      }
+    ]
+  },
+  {
     "word": "feign",
     "pos": "verb",
     "meanings": [
@@ -8240,6 +10666,16 @@
     ]
   },
   {
+    "word": "fibrillate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make fine, irregular, rapid twitching movements",
+        "example": "His heart fibrillated and he died"
+      }
+    ]
+  },
+  {
     "word": "fiddle",
     "pos": "verb",
     "meanings": [
@@ -8288,12 +10724,32 @@
     ]
   },
   {
+    "word": "figure skate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "dance on skates"
+      }
+    ]
+  },
+  {
     "word": "file",
     "pos": "verb",
     "meanings": [
       {
         "definition": "",
         "example": "record in a public office or in a court of law"
+      }
+    ]
+  },
+  {
+    "word": "filiate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "fix the paternity of"
       }
     ]
   },
@@ -8340,6 +10796,16 @@
     ]
   },
   {
+    "word": "film over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become glassy",
+        "example": "lose clear vision"
+      }
+    ]
+  },
+  {
     "word": "finalize",
     "pos": "verb",
     "meanings": [
@@ -8372,6 +10838,36 @@
     ]
   },
   {
+    "word": "find a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "succeed in reaching",
+        "example": "arrive at"
+      }
+    ]
+  },
+  {
+    "word": "find a feel",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come to believe on the basis of emotion, intuitions, or indefinite grounds",
+        "example": "I feel that he doesn't like me"
+      }
+    ]
+  },
+  {
+    "word": "find out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "trap",
+        "example": "especially in an error or in a reprehensible act"
+      }
+    ]
+  },
+  {
     "word": "finger",
     "pos": "verb",
     "meanings": [
@@ -8388,6 +10884,16 @@
       {
         "definition": "provide with a finish",
         "example": "The carpenter finished the table beautifully"
+      }
+    ]
+  },
+  {
+    "word": "finish up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "finally be or do something",
+        "example": "He ended up marrying his high school sweetheart"
       }
     ]
   },
@@ -8464,6 +10970,16 @@
     ]
   },
   {
+    "word": "flag down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "signal to stop",
+        "example": "Let's flag down a cab--it's starting to rain"
+      }
+    ]
+  },
+  {
     "word": "flail",
     "pos": "verb",
     "meanings": [
@@ -8508,6 +11024,16 @@
     ]
   },
   {
+    "word": "flick a flip a thumb a riffle a leaf a riff a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "look through a book or other written material",
+        "example": "He thumbed through the report"
+      }
+    ]
+  },
+  {
     "word": "flip",
     "pos": "verb",
     "meanings": [
@@ -8518,6 +11044,16 @@
       {
         "definition": "throw or toss with a light motion",
         "example": "flip me the beachball"
+      }
+    ]
+  },
+  {
+    "word": "flip one's lid",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "get very angry and fly into a rage",
+        "example": "The professor combusted when the student didn't know the answer to a very elementary question"
       }
     ]
   },
@@ -8554,6 +11090,20 @@
       {
         "definition": "circulate or discuss tentatively",
         "example": "test the waters with"
+      }
+    ]
+  },
+  {
+    "word": "flocculate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "form into an aggregated lumpy or fluffy mass",
+        "example": "the protoplasms flocculated"
+      },
+      {
+        "definition": "cause to become a fluffy or lumpy aggregate",
+        "example": "The chemist flocculated the suspended material"
       }
     ]
   },
@@ -8598,6 +11148,16 @@
       {
         "definition": "",
         "example": "cover with flour"
+      }
+    ]
+  },
+  {
+    "word": "fluoridate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "subject to fluoridation",
+        "example": "treat with fluoride"
       }
     ]
   },
@@ -8648,6 +11208,26 @@
     ]
   },
   {
+    "word": "focus on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "center upon",
+        "example": "Her entire attention centered on her children"
+      }
+    ]
+  },
+  {
+    "word": "fog up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "get foggy",
+        "example": "The windshield fogged up"
+      }
+    ]
+  },
+  {
     "word": "foist",
     "pos": "verb",
     "meanings": [
@@ -8658,12 +11238,32 @@
     ]
   },
   {
+    "word": "foist off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "fold",
     "pos": "verb",
     "meanings": [
       {
         "definition": "bend or lay so that one part covers the other",
         "example": "fold up the newspaper"
+      }
+    ]
+  },
+  {
+    "word": "fold a fold up a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become folded or folded up",
+        "example": "The bed folds in a jiffy"
       }
     ]
   },
@@ -8690,6 +11290,50 @@
       {
         "definition": "to bring something about at a later time than",
         "example": "She followed dinner with a brandy"
+      }
+    ]
+  },
+  {
+    "word": "follow a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "accept and follow the leadership or command or guidance of",
+        "example": "Let's follow our great helmsman"
+      }
+    ]
+  },
+  {
+    "word": "follow e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "grasp the meaning",
+        "example": "Can you follow her argument?"
+      }
+    ]
+  },
+  {
+    "word": "follow through",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "pursue to a conclusion or bring to a successful issue",
+        "example": "Did he go through with the treatment?"
+      },
+      {
+        "definition": "",
+        "example": "carry a stroke to natural completion after hitting or releasing a ball"
+      }
+    ]
+  },
+  {
+    "word": "follow up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "increase the effectiveness or success of by further action",
+        "example": "The doctor followed up the surgery with radiation"
       }
     ]
   },
@@ -8732,6 +11376,26 @@
       {
         "definition": "force into or from an action or state, either physically or metaphorically",
         "example": "She rammed her mind into focus"
+      }
+    ]
+  },
+  {
+    "word": "force out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "emit or cause to move with force of effort",
+        "example": "force out the air"
+      }
+    ]
+  },
+  {
+    "word": "foreswear",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "turn away from",
+        "example": "give up"
       }
     ]
   },
@@ -8836,6 +11500,16 @@
     ]
   },
   {
+    "word": "foul out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "baseball: hit a ball such that it is caught from an out in foul territory",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "fracture",
     "pos": "verb",
     "meanings": [
@@ -8866,6 +11540,16 @@
     ]
   },
   {
+    "word": "free-associate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "associate freely"
+      }
+    ]
+  },
+  {
     "word": "freeze",
     "pos": "verb",
     "meanings": [
@@ -8884,6 +11568,16 @@
       {
         "definition": "",
         "example": "change from a liquid to a solid when cold"
+      }
+    ]
+  },
+  {
+    "word": "french-fry",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "cook by immersing in fat"
       }
     ]
   },
@@ -8982,6 +11676,16 @@
       {
         "definition": "",
         "example": "decorate with frosting"
+      }
+    ]
+  },
+  {
+    "word": "fructify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "bear fruit",
+        "example": "the apple trees fructify"
       }
     ]
   },
@@ -9140,6 +11844,24 @@
     ]
   },
   {
+    "word": "gelatinize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "convert into gelatinous form or jelly",
+        "example": "hot water will gelatinize starch"
+      },
+      {
+        "definition": "become gelatinous or change into a jelly",
+        "example": "the starch gelatinized when it was heated"
+      },
+      {
+        "definition": "coat with gelatin",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "generate",
     "pos": "verb",
     "meanings": [
@@ -9150,6 +11872,16 @@
       {
         "definition": "produce (energy)",
         "example": "We can't generate enough power for the entire city"
+      }
+    ]
+  },
+  {
+    "word": "gentrify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "renovate so as to make it conform to middle-class aspirations",
+        "example": "gentrify a row of old houses"
       }
     ]
   },
@@ -9192,6 +11924,140 @@
       {
         "definition": "come into the possession of something concrete or abstract",
         "example": "She got a lot of paintings from her uncle"
+      }
+    ]
+  },
+  {
+    "word": "get a catch d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "reach with a blow or hit in a particular spot",
+        "example": "the rock caught her in the back of the head"
+      }
+    ]
+  },
+  {
+    "word": "get across",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "communicate successfully",
+        "example": "I couldn't get across the message"
+      }
+    ]
+  },
+  {
+    "word": "get around",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move around",
+        "example": "move from place to place"
+      }
+    ]
+  },
+  {
+    "word": "get c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "overcome or destroy",
+        "example": "The ice storm got my hibiscus"
+      }
+    ]
+  },
+  {
+    "word": "get c get under one's skin",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "irritate",
+        "example": "Her childish behavior really get to me"
+      }
+    ]
+  },
+  {
+    "word": "get d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "purchase"
+      }
+    ]
+  },
+  {
+    "word": "get down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take the first step or steps in carrying out an action",
+        "example": "We began working at dawn"
+      }
+    ]
+  },
+  {
+    "word": "get e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "acquire as a result of some effort or action",
+        "example": "You cannot get water out of a stone"
+      }
+    ]
+  },
+  {
+    "word": "get off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "escape potentially unpleasant consequences",
+        "example": "get away with a forbidden action"
+      },
+      {
+        "definition": "",
+        "example": "cause to be acquitted"
+      }
+    ]
+  },
+  {
+    "word": "get over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "to bring (a necessary but unpleasant task) to an end",
+        "example": "Let's get this job over with"
+      }
+    ]
+  },
+  {
+    "word": "get rid of",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "dispose of",
+        "example": "Get rid of these old shoes"
+      }
+    ]
+  },
+  {
+    "word": "get the better of",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "win a victory over",
+        "example": "You must overcome all difficulties"
+      }
+    ]
+  },
+  {
+    "word": "get up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "get up and out of bed",
+        "example": "I get up at  A.M. every day"
       }
     ]
   },
@@ -9294,6 +12160,96 @@
     ]
   },
   {
+    "word": "give a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "inflict as a punishment",
+        "example": "She gave the boy a good spanking"
+      }
+    ]
+  },
+  {
+    "word": "give b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "accord by verdict"
+      }
+    ]
+  },
+  {
+    "word": "give c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "perform for an audience"
+      }
+    ]
+  },
+  {
+    "word": "give d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u        occur"
+      }
+    ]
+  },
+  {
+    "word": "give e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "submit for consideration, judgment, or use",
+        "example": "give one's opinion"
+      }
+    ]
+  },
+  {
+    "word": "give e apply",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "give or convey physically",
+        "example": "She gave him First Aid"
+      }
+    ]
+  },
+  {
+    "word": "give it a whirl",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u        try"
+      }
+    ]
+  },
+  {
+    "word": "give the glad eye",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "look seductively at someone",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "glaciate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cover with ice or snow or a glacier",
+        "example": "the entire area was glaciated"
+      }
+    ]
+  },
+  {
     "word": "glance",
     "pos": "verb",
     "meanings": [
@@ -9360,6 +12316,76 @@
       {
         "definition": "lead, extend, or afford access",
         "example": "This door goes to the basement"
+      }
+    ]
+  },
+  {
+    "word": "go around",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become widely known and passed on",
+        "example": "the rumor spread"
+      }
+    ]
+  },
+  {
+    "word": "go by",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be called",
+        "example": "go by a certain name"
+      }
+    ]
+  },
+  {
+    "word": "go down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be ingested",
+        "example": "This wine sure goes down well"
+      }
+    ]
+  },
+  {
+    "word": "go on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "start running, functioning, or operating",
+        "example": "the lights went on"
+      }
+    ]
+  },
+  {
+    "word": "go out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "go out of fashion"
+      }
+    ]
+  },
+  {
+    "word": "go steady",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "date regularly",
+        "example": "have a steady relationship with"
+      }
+    ]
+  },
+  {
+    "word": "go to bed",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "prepare for sleep",
+        "example": "I usually turn in at midnight"
       }
     ]
   },
@@ -9508,6 +12534,16 @@
     ]
   },
   {
+    "word": "groak",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "look or stare at longingly",
+        "example": "The dog was groaking his master who was eating a sausage"
+      }
+    ]
+  },
+  {
     "word": "groan",
     "pos": "verb",
     "meanings": [
@@ -9544,6 +12580,36 @@
       {
         "definition": "show one's unhappiness or critical attitude",
         "example": "He scolded about anything that he thought was wrong"
+      }
+    ]
+  },
+  {
+    "word": "ground a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "hit onto the ground"
+      }
+    ]
+  },
+  {
+    "word": "ground b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "hit a groundball"
+      }
+    ]
+  },
+  {
+    "word": "ground c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "throw to the ground in order to stop play and avoid being tackled behind the line of scrimmage"
       }
     ]
   },
@@ -9604,6 +12670,20 @@
       {
         "definition": "take precautions in order to avoid some unwanted consequence",
         "example": "guard against becoming too friendly with the staff"
+      }
+    ]
+  },
+  {
+    "word": "guess",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "guess correctly",
+        "example": "solve by guessing"
+      },
+      {
+        "definition": "put forward, of a guess, in spite of possible refutation",
+        "example": "I am guessing that the price of real estate will rise again"
       }
     ]
   },
@@ -9712,6 +12792,26 @@
     ]
   },
   {
+    "word": "hand over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "to surrender someone or something to another",
+        "example": "the guard delivered the criminal to the police"
+      }
+    ]
+  },
+  {
+    "word": "handcolor",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "color by hand"
+      }
+    ]
+  },
+  {
     "word": "hang",
     "pos": "verb",
     "meanings": [
@@ -9722,6 +12822,16 @@
       {
         "definition": "be menacing, burdensome, or oppressive",
         "example": "This worry hangs on my mind"
+      }
+    ]
+  },
+  {
+    "word": "hang on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "hold the phone line open"
       }
     ]
   },
@@ -9802,6 +12912,16 @@
     ]
   },
   {
+    "word": "hash out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "speak with others about (something)",
+        "example": "talk (something) over in detail"
+      }
+    ]
+  },
+  {
     "word": "hat",
     "pos": "verb",
     "meanings": [
@@ -9872,6 +12992,26 @@
       {
         "definition": "have a personal or business relationship with someone",
         "example": "have a postdoc"
+      }
+    ]
+  },
+  {
+    "word": "have a bun in the oven",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be pregnant with",
+        "example": "She is bearing his child"
+      }
+    ]
+  },
+  {
+    "word": "have c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be confronted with",
+        "example": "What do we have here?"
       }
     ]
   },
@@ -9998,6 +13138,36 @@
     ]
   },
   {
+    "word": "help d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "improve",
+        "example": "change for the better"
+      }
+    ]
+  },
+  {
+    "word": "help oneself",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "abstain from doing",
+        "example": "always used with a negative"
+      }
+    ]
+  },
+  {
+    "word": "hem and haw",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "utter `hems' and `haws'",
+        "example": "indicated hesitation"
+      }
+    ]
+  },
+  {
     "word": "hesitate",
     "pos": "verb",
     "meanings": [
@@ -10068,6 +13238,16 @@
     ]
   },
   {
+    "word": "hire out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "grant the services of or the temporary use of, for a fee",
+        "example": "We rent out our apartment to tourists every year"
+      }
+    ]
+  },
+  {
     "word": "hit",
     "pos": "verb",
     "meanings": [
@@ -10090,6 +13270,16 @@
       {
         "definition": "cause to experience suddenly",
         "example": "Panic struck me"
+      }
+    ]
+  },
+  {
+    "word": "hit home",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "refer to or be relevant or familiar to",
+        "example": "I hope this message hits home"
       }
     ]
   },
@@ -10166,6 +13356,66 @@
     ]
   },
   {
+    "word": "hold c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "stop dealing with",
+        "example": "hold all calls to the President's office while he is in a meeting"
+      }
+    ]
+  },
+  {
+    "word": "hold d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "keep from departing",
+        "example": "Hold the taxi"
+      }
+    ]
+  },
+  {
+    "word": "hold d bear e carry",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "contain or hold",
+        "example": "have within"
+      }
+    ]
+  },
+  {
+    "word": "hold out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "wait uncompromisingly for something desirable",
+        "example": "He held out for the dessert and did not touch the cheeses"
+      }
+    ]
+  },
+  {
+    "word": "hold over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "continue a term of office past the normal period of time",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "homologize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be homologous",
+        "example": "A person's arms homologize with a quadruped's forelimbs"
+      }
+    ]
+  },
+  {
     "word": "honk",
     "pos": "verb",
     "meanings": [
@@ -10214,6 +13464,16 @@
     ]
   },
   {
+    "word": "hook up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "connect or link",
+        "example": "hook up the houses to the gas supply line"
+      }
+    ]
+  },
+  {
     "word": "hop",
     "pos": "verb",
     "meanings": [
@@ -10234,6 +13494,26 @@
       {
         "definition": "expect and wish",
         "example": "I trust you will behave better from now on"
+      }
+    ]
+  },
+  {
+    "word": "horse around",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "indulge in horseplay",
+        "example": "Enough horsing around--let's get back to work"
+      }
+    ]
+  },
+  {
+    "word": "hot-dog",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "perform intricate maneuvers while skiing",
+        "example": ""
       }
     ]
   },
@@ -10354,6 +13634,16 @@
     ]
   },
   {
+    "word": "hydrolize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make a compound react with water and undergo hydrolysis",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "hydrolyze",
     "pos": "verb",
     "meanings": [
@@ -10384,6 +13674,26 @@
       {
         "definition": "induce hypnosis in",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "ice skate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "move along on ice skates"
+      }
+    ]
+  },
+  {
+    "word": "ice up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become covered with a layer of ice",
+        "example": "of a surface such as a window"
       }
     ]
   },
@@ -10488,6 +13798,16 @@
       {
         "definition": "",
         "example": "assume or act the character of"
+      }
+    ]
+  },
+  {
+    "word": "impinge a encroach a entrench",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "impinge or infringe upon",
+        "example": "This impinges on my rights as an individual"
       }
     ]
   },
@@ -10676,6 +13996,16 @@
     ]
   },
   {
+    "word": "infatuate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "arouse unreasoning love or passion in and cause to behave in an irrational way",
+        "example": "His new car has infatuated him"
+      }
+    ]
+  },
+  {
     "word": "inflame",
     "pos": "verb",
     "meanings": [
@@ -10812,6 +14142,16 @@
     ]
   },
   {
+    "word": "inspan",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "attach a yoke or harness to"
+      }
+    ]
+  },
+  {
     "word": "inspect",
     "pos": "verb",
     "meanings": [
@@ -10858,6 +14198,16 @@
       {
         "definition": "give instructions or directions for some task",
         "example": "She instructed the students to work on their pronunciation"
+      }
+    ]
+  },
+  {
+    "word": "insufflate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "blow or breathe hard on or into",
+        "example": ""
       }
     ]
   },
@@ -11012,12 +14362,32 @@
     ]
   },
   {
+    "word": "intrude on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "to intrude upon, infringe, encroach on, violate",
+        "example": "This new colleague invades my territory"
+      }
+    ]
+  },
+  {
     "word": "inure",
     "pos": "verb",
     "meanings": [
       {
         "definition": "cause to accept or become hardened to",
         "example": "habituate"
+      }
+    ]
+  },
+  {
+    "word": "invaginate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "sheathe"
       }
     ]
   },
@@ -11072,6 +14442,16 @@
     ]
   },
   {
+    "word": "iodize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "treat with iodine"
+      }
+    ]
+  },
+  {
     "word": "iron",
     "pos": "verb",
     "meanings": [
@@ -11116,6 +14496,16 @@
     ]
   },
   {
+    "word": "issue forth",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come forth",
+        "example": "A scream came from the woman's mouth"
+      }
+    ]
+  },
+  {
     "word": "itch",
     "pos": "verb",
     "meanings": [
@@ -11132,6 +14522,16 @@
       {
         "definition": "",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "itinerate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "travel from place to place, as for work",
+        "example": "an itinerating merchant"
       }
     ]
   },
@@ -11162,6 +14562,16 @@
       {
         "definition": "affect in a disagreeable way",
         "example": "This play jarred the audience"
+      }
+    ]
+  },
+  {
+    "word": "jazz up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make more interesting or lively",
+        "example": "juice up a party"
       }
     ]
   },
@@ -11296,6 +14706,16 @@
     ]
   },
   {
+    "word": "jump b leap b jump off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "jump down from an elevated point",
+        "example": "the parachutist didn't want to jump"
+      }
+    ]
+  },
+  {
     "word": "justify",
     "pos": "verb",
     "meanings": [
@@ -11346,6 +14766,84 @@
     ]
   },
   {
+    "word": "keep a maintain a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "maintain for use and service",
+        "example": "I keep a car in the countryside"
+      }
+    ]
+  },
+  {
+    "word": "keep c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have as a supply",
+        "example": "I always keep batteries in the freezer"
+      },
+      {
+        "definition": "raise",
+        "example": "She keeps a few chickens in the yard"
+      }
+    ]
+  },
+  {
+    "word": "keep off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "refrain from entering or walking onto",
+        "example": "keep off the grass"
+      },
+      {
+        "definition": "refrain from certain foods or beverages",
+        "example": "I keep off drugs"
+      }
+    ]
+  },
+  {
+    "word": "keep one's eyes peeled",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u           pay attention"
+      }
+    ]
+  },
+  {
+    "word": "keep open",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "retain rights to",
+        "example": "keep my job for me while I give birth"
+      }
+    ]
+  },
+  {
+    "word": "keep quiet",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "refrain from divulging sensitive information",
+        "example": "keep quiet about confidential information"
+      }
+    ]
+  },
+  {
+    "word": "keep up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "prevent from going to bed at night",
+        "example": "The anticipation of the trip kept the children up all night"
+      }
+    ]
+  },
+  {
     "word": "kick",
     "pos": "verb",
     "meanings": [
@@ -11364,6 +14862,40 @@
       {
         "definition": "thrash about or strike out with the feet",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "kick around",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "treat badly",
+        "example": "abuse"
+      },
+      {
+        "definition": "be around",
+        "example": "be alive or active"
+      }
+    ]
+  },
+  {
+    "word": "kick back",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "pay a kickback"
+      }
+    ]
+  },
+  {
+    "word": "kick one's heels",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "wait or pass the time aimlessly or futilely",
+        "example": "be kept waiting"
       }
     ]
   },
@@ -11462,6 +14994,16 @@
     ]
   },
   {
+    "word": "knock cold",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "knock unconscious or senseless",
+        "example": "the boxing champion knocked out his opponent in a few seconds"
+      }
+    ]
+  },
+  {
     "word": "knot",
     "pos": "verb",
     "meanings": [
@@ -11494,6 +15036,16 @@
       {
         "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
         "example": "I know the feeling"
+      }
+    ]
+  },
+  {
+    "word": "know f",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have fixed in the mind",
+        "example": "I know Latin"
       }
     ]
   },
@@ -11562,6 +15114,16 @@
     ]
   },
   {
+    "word": "land up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "block with earth, as after a landslide",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "landscape",
     "pos": "verb",
     "meanings": [
@@ -11606,6 +15168,16 @@
       {
         "definition": "",
         "example": "prepare or cook with lard"
+      }
+    ]
+  },
+  {
+    "word": "lateralize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move or displace to one side so as to make lateral",
+        "example": ""
       }
     ]
   },
@@ -11658,6 +15230,16 @@
       {
         "definition": "prepare or position for action or operation",
         "example": "lay a fire"
+      }
+    ]
+  },
+  {
+    "word": "lay out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "spend or invest",
+        "example": "lay out thousands on gold"
       }
     ]
   },
@@ -11780,6 +15362,36 @@
     ]
   },
   {
+    "word": "leave no stone unturned",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "search thoroughly and exhaustively",
+        "example": "The police left no stone unturned in looking for the President's murderer"
+      }
+    ]
+  },
+  {
+    "word": "leave off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come to an end, stop or cease",
+        "example": "the road leaves off at the edge of the forest"
+      }
+    ]
+  },
+  {
+    "word": "leave office",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "give up or retire from a position",
+        "example": "The Secretary of the Navy will leave office next month"
+      }
+    ]
+  },
+  {
     "word": "lecture",
     "pos": "verb",
     "meanings": [
@@ -11838,12 +15450,32 @@
     ]
   },
   {
+    "word": "lend oneself",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be applicable to",
+        "example": "as to an analysis"
+      }
+    ]
+  },
+  {
     "word": "let",
     "pos": "verb",
     "meanings": [
       {
         "definition": "make it possible through a specific action or lack of action for something to happen",
         "example": "This permits the water to rush in"
+      }
+    ]
+  },
+  {
+    "word": "let go of",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "release, as from one's grip",
+        "example": "Let go of the door handle, please"
       }
     ]
   },
@@ -11872,6 +15504,16 @@
       {
         "definition": "have a place in relation to something else",
         "example": "The fate of Bosnia lies in the hands of the West"
+      }
+    ]
+  },
+  {
+    "word": "lie low",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "to try to avoid detection especially by police",
+        "example": "After we knock off that liquor store we'll have to lay low for a while"
       }
     ]
   },
@@ -11962,6 +15604,26 @@
     ]
   },
   {
+    "word": "line up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "get something or somebody for a specific purpose",
+        "example": "I found this gadget that will serve as a bottle opener"
+      }
+    ]
+  },
+  {
+    "word": "lionize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "assign great social importance to",
+        "example": "The film director was celebrated all over Hollywood"
+      }
+    ]
+  },
+  {
     "word": "liquefy",
     "pos": "verb",
     "meanings": [
@@ -12000,6 +15662,16 @@
     ]
   },
   {
+    "word": "literalize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make literal",
+        "example": "literalize metaphors"
+      }
+    ]
+  },
+  {
     "word": "live",
     "pos": "verb",
     "meanings": [
@@ -12024,12 +15696,32 @@
     ]
   },
   {
+    "word": "load c adulterate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "corrupt, debase, or make impure by adding a foreign or inferior substance",
+        "example": "often by replacing valuable ingredients with inferior ones"
+      }
+    ]
+  },
+  {
     "word": "locate",
     "pos": "verb",
     "meanings": [
       {
         "definition": "discover the location of",
         "example": "determine the place of"
+      }
+    ]
+  },
+  {
+    "word": "lock in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "place in a place where something cannot be removed or someone cannot escape",
+        "example": "The parents locked her daughter up for the weekend"
       }
     ]
   },
@@ -12072,6 +15764,36 @@
       {
         "definition": "give a certain impression or have a certain outward aspect",
         "example": "She seems to be sleeping"
+      }
+    ]
+  },
+  {
+    "word": "look back",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "look towards one's back",
+        "example": "don't look back while you walk"
+      }
+    ]
+  },
+  {
+    "word": "look out on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be oriented in a certain direction",
+        "example": "The house looks out on a tennis court"
+      }
+    ]
+  },
+  {
+    "word": "look to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "turn one's interests or expectations towards",
+        "example": "look to the future"
       }
     ]
   },
@@ -12150,6 +15872,16 @@
     ]
   },
   {
+    "word": "lose sight of",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be no longer able to see",
+        "example": "We lost sight of the tower as pulled out of the harbor"
+      }
+    ]
+  },
+  {
     "word": "love",
     "pos": "verb",
     "meanings": [
@@ -12166,6 +15898,26 @@
       {
         "definition": "set lower",
         "example": "lower a rating"
+      }
+    ]
+  },
+  {
+    "word": "macerate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "soften, usually by steeping in liquid, and cause to disintegrate as a result",
+        "example": "macerate peaches"
+      }
+    ]
+  },
+  {
+    "word": "machicolate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "supply with projecting galleries"
       }
     ]
   },
@@ -12240,6 +15992,118 @@
     ]
   },
   {
+    "word": "make a clean breast of",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "admit or acknowledge a wrongdoing or error",
+        "example": "the writer of the anonymous letter owned up after they identified his handwriting"
+      }
+    ]
+  },
+  {
+    "word": "make a work",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "proceed along a path",
+        "example": "work one's way through the crowd"
+      }
+    ]
+  },
+  {
+    "word": "make b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make by shaping or bringing together constituents",
+        "example": "make a dress"
+      }
+    ]
+  },
+  {
+    "word": "make bold",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take upon oneself",
+        "example": "act presumptuously, without permission"
+      }
+    ]
+  },
+  {
+    "word": "make c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "perform or carry out",
+        "example": "make a decision"
+      },
+      {
+        "definition": "appear to begin an activity",
+        "example": "He made to speak but said nothing in the end"
+      },
+      {
+        "definition": "",
+        "example": "add up to"
+      }
+    ]
+  },
+  {
+    "word": "make d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "carry out or commit",
+        "example": "make a mistake"
+      }
+    ]
+  },
+  {
+    "word": "make f",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "change from one form into another",
+        "example": "make water into wine"
+      },
+      {
+        "definition": "compel or make somebody or something to act in a certain way",
+        "example": "People cannot be made to integrate just by passing a law"
+      }
+    ]
+  },
+  {
+    "word": "make no bones about",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "acknowledge freely and openly",
+        "example": "He makes no bones about the fact that he is gay"
+      }
+    ]
+  },
+  {
+    "word": "make out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "comprehend",
+        "example": "I cannot make out what this politician is saying"
+      }
+    ]
+  },
+  {
+    "word": "make up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make up work that was missed due to absence at a later point",
+        "example": "I have to make up a French exam"
+      }
+    ]
+  },
+  {
     "word": "man",
     "pos": "verb",
     "meanings": [
@@ -12304,6 +16168,16 @@
     ]
   },
   {
+    "word": "mapquest",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "search for a location and directions by means of the MapQuest program"
+      }
+    ]
+  },
+  {
     "word": "marble",
     "pos": "verb",
     "meanings": [
@@ -12364,6 +16238,20 @@
       {
         "definition": "perform a marriage ceremony",
         "example": "The minister married us on Saturday"
+      }
+    ]
+  },
+  {
+    "word": "masculinize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "produce virilism in or cause to assume masculine characteristics, as through a hormonal imbalance or hormone therapy",
+        "example": "the drugs masculinized the teenage girl"
+      },
+      {
+        "definition": "give a masculine appearance or character to",
+        "example": "Fashion designers have masculinized women's looks in the s"
       }
     ]
   },
@@ -12524,6 +16412,16 @@
     ]
   },
   {
+    "word": "melt a disappear a evaporate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become less intense and fade away gradually",
+        "example": "her resistance melted under his charm"
+      }
+    ]
+  },
+  {
     "word": "memorize",
     "pos": "verb",
     "meanings": [
@@ -12570,6 +16468,16 @@
       {
         "definition": "change completely the nature or appearance of",
         "example": "In Kafka's story, a person metamorphoses into a bug"
+      }
+    ]
+  },
+  {
+    "word": "metrify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "compose in poetic meter"
       }
     ]
   },
@@ -12628,6 +16536,16 @@
     ]
   },
   {
+    "word": "miniate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "decorate (manuscripts) with letters painted red"
+      }
+    ]
+  },
+  {
     "word": "minimize",
     "pos": "verb",
     "meanings": [
@@ -12644,6 +16562,26 @@
       {
         "definition": "form by stamping, punching, or printing",
         "example": "strike coins"
+      }
+    ]
+  },
+  {
+    "word": "misally",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make a bad alliance",
+        "example": "ally inappropriately"
+      }
+    ]
+  },
+  {
+    "word": "misapply",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "apply to a wrong thing or person",
+        "example": "apply badly or incorrectly"
       }
     ]
   },
@@ -12668,6 +16606,26 @@
     ]
   },
   {
+    "word": "misdeal",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "deal cards wrongly"
+      }
+    ]
+  },
+  {
+    "word": "misname",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "assign in incorrect name to",
+        "example": "These misnamed philanthropists"
+      }
+    ]
+  },
+  {
     "word": "misplace",
     "pos": "verb",
     "meanings": [
@@ -12684,6 +16642,24 @@
       {
         "definition": "interpret wrongly",
         "example": "I misread Hamlet all my life"
+      }
+    ]
+  },
+  {
+    "word": "miss",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "fail to perceive or to catch with the senses or the mind",
+        "example": "I missed that remark"
+      },
+      {
+        "definition": "fail to attend an event or activity",
+        "example": "I missed the concert"
+      },
+      {
+        "definition": "be without",
+        "example": "This soup lacks salt"
       }
     ]
   },
@@ -12848,6 +16824,26 @@
     ]
   },
   {
+    "word": "move involuntarily",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move in an uncontrolled manner",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "move over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move in order to make room for someone for something",
+        "example": "The park gave way to a supermarket"
+      }
+    ]
+  },
+  {
     "word": "mug",
     "pos": "verb",
     "meanings": [
@@ -12898,6 +16894,16 @@
     ]
   },
   {
+    "word": "mythicize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "interpret as a myth or in terms of mythology",
+        "example": "mythicize the ancient stories"
+      }
+    ]
+  },
+  {
     "word": "nab",
     "pos": "verb",
     "meanings": [
@@ -12936,6 +16942,16 @@
     ]
   },
   {
+    "word": "namedrop",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "refer to people that one assumes one's interlocutors admire in order to try to impress them",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "nap",
     "pos": "verb",
     "meanings": [
@@ -12966,6 +16982,16 @@
     ]
   },
   {
+    "word": "nazify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause or force to adopt Nazism or a Nazi character",
+        "example": "Hitler nazified Germany in the 's"
+      }
+    ]
+  },
+  {
     "word": "necessitate",
     "pos": "verb",
     "meanings": [
@@ -12992,6 +17018,16 @@
       {
         "definition": "leave undone or leave out",
         "example": "How could I miss that typo?"
+      }
+    ]
+  },
+  {
+    "word": "negociate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "sell or discount"
       }
     ]
   },
@@ -13036,6 +17072,16 @@
       {
         "definition": "mate successfully",
         "example": "of livestock"
+      }
+    ]
+  },
+  {
+    "word": "nitrate a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "treat with nitric acid, so as to change an organic compound into a nitrate"
       }
     ]
   },
@@ -13284,6 +17330,16 @@
     ]
   },
   {
+    "word": "opalesce",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "reflect light or colors like an opal",
+        "example": "Distant clouds opalesce like pale brocade"
+      }
+    ]
+  },
+  {
     "word": "open",
     "pos": "verb",
     "meanings": [
@@ -13304,6 +17360,16 @@
       {
         "definition": "direct or control",
         "example": "projects, businesses, etc."
+      }
+    ]
+  },
+  {
+    "word": "operate on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "perform surgery on"
       }
     ]
   },
@@ -13418,6 +17484,16 @@
     ]
   },
   {
+    "word": "osculate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "have at least three points in common with"
+      }
+    ]
+  },
+  {
     "word": "out",
     "pos": "verb",
     "meanings": [
@@ -13438,6 +17514,16 @@
       {
         "definition": "",
         "example": "cause to appear in a lower class"
+      }
+    ]
+  },
+  {
+    "word": "outfight",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "to fight better than",
+        "example": "get the better of"
       }
     ]
   },
@@ -13472,12 +17558,32 @@
     ]
   },
   {
+    "word": "outride",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "ride better, faster, or further than"
+      }
+    ]
+  },
+  {
     "word": "outsource",
     "pos": "verb",
     "meanings": [
       {
         "definition": "obtain goods or services from an outside supplier",
         "example": "to contract work out"
+      }
+    ]
+  },
+  {
+    "word": "outspan",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "remove the yoke or harness from"
       }
     ]
   },
@@ -13492,12 +17598,52 @@
     ]
   },
   {
+    "word": "ovenbake",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "bake in an oven"
+      }
+    ]
+  },
+  {
+    "word": "overarch",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be central or dominant",
+        "example": "This scene overarches the entire first act"
+      }
+    ]
+  },
+  {
+    "word": "overboil",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "boil excessively"
+      }
+    ]
+  },
+  {
     "word": "overcast",
     "pos": "verb",
     "meanings": [
       {
         "definition": "make overcast or cloudy",
         "example": "Fall weather often overcasts our beaches"
+      }
+    ]
+  },
+  {
+    "word": "overcloud",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become covered with clouds",
+        "example": "The sky clouded over"
       }
     ]
   },
@@ -13512,12 +17658,46 @@
     ]
   },
   {
+    "word": "overcrop",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "to exhaust by excessive cultivation"
+      }
+    ]
+  },
+  {
+    "word": "overdress",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "put on special clothes to appear particularly appealing and attractive",
+        "example": "She never dresses up, even when she goes to the opera"
+      }
+    ]
+  },
+  {
     "word": "overdrive",
     "pos": "verb",
     "meanings": [
       {
         "definition": "drive or work too hard",
         "example": "The teacher is overworking his students"
+      }
+    ]
+  },
+  {
+    "word": "overexpose",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "expose excessively"
+      },
+      {
+        "definition": "",
+        "example": "expose to too much light"
       }
     ]
   },
@@ -13740,12 +17920,42 @@
     ]
   },
   {
+    "word": "palpebrate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "wink or blink, especially repeatedly",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "pamper",
     "pos": "verb",
     "meanings": [
       {
         "definition": "treat with excessive indulgence",
         "example": "grandparents often pamper the children"
+      }
+    ]
+  },
+  {
+    "word": "pan roast",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "roast in a pan"
+      }
+    ]
+  },
+  {
+    "word": "pan-fry",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "fry in a pan"
       }
     ]
   },
@@ -13824,6 +18034,48 @@
     ]
   },
   {
+    "word": "pass",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "go across or through",
+        "example": "We passed the point where the police car had parked"
+      },
+      {
+        "definition": "transfer to another",
+        "example": "of rights or property"
+      },
+      {
+        "definition": "place into the hands or custody of",
+        "example": "hand me the spoon, please"
+      },
+      {
+        "definition": "go unchallenged",
+        "example": "be approved"
+      }
+    ]
+  },
+  {
+    "word": "pass off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to be circulated and accepted in a false character or identity",
+        "example": "She passed the glass off as diamonds"
+      }
+    ]
+  },
+  {
+    "word": "pass over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "fly over"
+      }
+    ]
+  },
+  {
     "word": "paste",
     "pos": "verb",
     "meanings": [
@@ -13896,6 +18148,26 @@
     ]
   },
   {
+    "word": "pay back",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take vengeance on or get even",
+        "example": "We'll get them"
+      }
+    ]
+  },
+  {
+    "word": "pay e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "discharge or settle",
+        "example": "pay a debt"
+      }
+    ]
+  },
+  {
     "word": "peal",
     "pos": "verb",
     "meanings": [
@@ -13926,6 +18198,20 @@
     ]
   },
   {
+    "word": "perambulate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "walk with no particular goal",
+        "example": "we were walking around in the garden"
+      },
+      {
+        "definition": "make an official inspection on foot of (the bounds of a property)",
+        "example": "Selectmen are required by law to perambulate the bounds every five years"
+      }
+    ]
+  },
+  {
     "word": "perform",
     "pos": "verb",
     "meanings": [
@@ -13936,6 +18222,16 @@
       {
         "definition": "",
         "example": "give a performance (of something)"
+      }
+    ]
+  },
+  {
+    "word": "perk up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "gain or regain energy",
+        "example": "I picked up after a nap"
       }
     ]
   },
@@ -14060,6 +18356,24 @@
       {
         "definition": "look for and gather",
         "example": "pick mushrooms"
+      }
+    ]
+  },
+  {
+    "word": "pick up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "lift out or reflect from a background",
+        "example": "The scarf picks up the color of the skirt"
+      },
+      {
+        "definition": "take up by hand",
+        "example": "He picked up the book and started to read"
+      },
+      {
+        "definition": "",
+        "example": "buy casually or spontaneously"
       }
     ]
   },
@@ -14270,6 +18584,16 @@
     ]
   },
   {
+    "word": "plaster b beplaster",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cover conspicuously or thickly, as by pasting something on",
+        "example": "The demonstrators plastered the hallways with posters"
+      }
+    ]
+  },
+  {
     "word": "play",
     "pos": "verb",
     "meanings": [
@@ -14340,6 +18664,60 @@
     ]
   },
   {
+    "word": "play along",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "perform an accompaniment to"
+      }
+    ]
+  },
+  {
+    "word": "play b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "emit recorded sound",
+        "example": "The tape was playing for hours"
+      }
+    ]
+  },
+  {
+    "word": "play c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "play on an instrument"
+      },
+      {
+        "definition": "act or have an effect in a specified way or with a specific effect or outcome",
+        "example": "This factor played only a minor part in his decision"
+      }
+    ]
+  },
+  {
+    "word": "play out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "play to a finish"
+      }
+    ]
+  },
+  {
+    "word": "plea-bargain",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "agree to plead guilty in return for a lesser charge"
+      }
+    ]
+  },
+  {
     "word": "plead",
     "pos": "verb",
     "meanings": [
@@ -14394,6 +18772,16 @@
     ]
   },
   {
+    "word": "plug in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "plug into an outlet",
+        "example": "Please plug in the toaster"
+      }
+    ]
+  },
+  {
     "word": "plumb",
     "pos": "verb",
     "meanings": [
@@ -14424,12 +18812,32 @@
     ]
   },
   {
+    "word": "plunge a launch a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "begin with vigor",
+        "example": "He launched into a long diatribe"
+      }
+    ]
+  },
+  {
     "word": "podcast",
     "pos": "verb",
     "meanings": [
       {
         "definition": "distribute (multimedia files) over the internet for playback on a mobile device or a personal computer",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "point the way",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "indicate the right path or direction",
+        "example": "The sign pointed the way to London"
       }
     ]
   },
@@ -14560,6 +18968,26 @@
     ]
   },
   {
+    "word": "pose d impersonate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "pretend to be someone you are not",
+        "example": "sometimes with fraudulent intentions"
+      }
+    ]
+  },
+  {
+    "word": "possess",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "enter into and control, as of emotions or ideas",
+        "example": "What possessed you to buy this house?"
+      }
+    ]
+  },
+  {
     "word": "post",
     "pos": "verb",
     "meanings": [
@@ -14658,6 +19086,16 @@
     ]
   },
   {
+    "word": "power-dive",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make a power dive"
+      }
+    ]
+  },
+  {
     "word": "practice",
     "pos": "verb",
     "meanings": [
@@ -14716,6 +19154,16 @@
     ]
   },
   {
+    "word": "precess",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move in a gyrating fashion",
+        "example": "the poles of the Earth precess at a right angle to the force that is applied"
+      }
+    ]
+  },
+  {
     "word": "precipitate",
     "pos": "verb",
     "meanings": [
@@ -14726,12 +19174,32 @@
     ]
   },
   {
+    "word": "precook",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "cook beforehand so that the actual preparation won't take long"
+      }
+    ]
+  },
+  {
     "word": "predate",
     "pos": "verb",
     "meanings": [
       {
         "definition": "be earlier in time",
         "example": "go back further"
+      }
+    ]
+  },
+  {
+    "word": "predecease",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "die before",
+        "example": "die earlier than"
       }
     ]
   },
@@ -14936,6 +19404,16 @@
       {
         "definition": "insert a primer into (a gun, mine, or charge) preparatory to detonation or firing",
         "example": "prime a cannon"
+      }
+    ]
+  },
+  {
+    "word": "prink",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "dress very carefully and in a finicky manner",
+        "example": ""
       }
     ]
   },
@@ -15212,6 +19690,20 @@
     ]
   },
   {
+    "word": "protuberate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "form a rounded prominence",
+        "example": "The starved child's belly protuberated"
+      },
+      {
+        "definition": "cause to bulge out or project",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "prove",
     "pos": "verb",
     "meanings": [
@@ -15326,6 +19818,76 @@
       {
         "definition": "steer into a certain direction",
         "example": "pull one's horse to a stand"
+      }
+    ]
+  },
+  {
+    "word": "pull back",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move to a rearward position",
+        "example": "pull towards the back"
+      }
+    ]
+  },
+  {
+    "word": "pull d draw b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to move in a certain direction by exerting a force upon, either physically or in an abstract sense",
+        "example": "A declining dollar pulled down the export figures for the last quarter"
+      }
+    ]
+  },
+  {
+    "word": "pull d root for",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take sides with",
+        "example": "align oneself with"
+      }
+    ]
+  },
+  {
+    "word": "pull in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "of trains",
+        "example": "move into (a station)"
+      }
+    ]
+  },
+  {
+    "word": "pull off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be successful",
+        "example": "achieve a goal"
+      }
+    ]
+  },
+  {
+    "word": "pull up short",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "stop abruptly"
+      }
+    ]
+  },
+  {
+    "word": "pullulate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "breed freely and abundantly",
+        "example": ""
       }
     ]
   },
@@ -15488,6 +20050,88 @@
     ]
   },
   {
+    "word": "put away",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "stop using",
+        "example": "the children were told to put away their toys"
+      }
+    ]
+  },
+  {
+    "word": "put d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "adapt"
+      },
+      {
+        "definition": "cause (someone) to undergo something",
+        "example": "He put her to the torture"
+      }
+    ]
+  },
+  {
+    "word": "put on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "apply to a surface",
+        "example": "She applied paint to the back of the house"
+      },
+      {
+        "definition": "carry out (performances)",
+        "example": "They turned in a splendid effort"
+      },
+      {
+        "definition": "",
+        "example": "put on the stove or ready for cooking"
+      }
+    ]
+  },
+  {
+    "word": "put out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "retire"
+      }
+    ]
+  },
+  {
+    "word": "put out feelers",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make some preliminary investigations or test the waters",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "put up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "mount or put up",
+        "example": "put up a good fight"
+      }
+    ]
+  },
+  {
+    "word": "putrefy",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become putrid",
+        "example": "decay with an offensive smell"
+      }
+    ]
+  },
+  {
     "word": "putt",
     "pos": "verb",
     "meanings": [
@@ -15606,6 +20250,16 @@
     ]
   },
   {
+    "word": "quest for",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "go in search of or hunt for",
+        "example": "pursue a hobby"
+      }
+    ]
+  },
+  {
     "word": "quiz",
     "pos": "verb",
     "meanings": [
@@ -15714,6 +20368,16 @@
       {
         "definition": "raise from a lower to a higher position",
         "example": "Raise your hands"
+      }
+    ]
+  },
+  {
+    "word": "raise e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "establish radio communications with"
       }
     ]
   },
@@ -15994,6 +20658,16 @@
     ]
   },
   {
+    "word": "recalcitrate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "show strong objection or repugnance",
+        "example": "manifest vigorous opposition or resistance"
+      }
+    ]
+  },
+  {
     "word": "recalculate",
     "pos": "verb",
     "meanings": [
@@ -16056,6 +20730,16 @@
       {
         "definition": "render verbally",
         "example": "recite a poem"
+      }
+    ]
+  },
+  {
+    "word": "reckon d count c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take account of",
+        "example": "You have to reckon with our opponents"
       }
     ]
   },
@@ -16138,6 +20822,16 @@
     ]
   },
   {
+    "word": "re-create",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "form anew in the imagination",
+        "example": "recollect and re-form in the mind"
+      }
+    ]
+  },
+  {
     "word": "recruit",
     "pos": "verb",
     "meanings": [
@@ -16168,6 +20862,16 @@
     ]
   },
   {
+    "word": "red-eye",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "travel on an overnight flight"
+      }
+    ]
+  },
+  {
     "word": "reduce",
     "pos": "verb",
     "meanings": [
@@ -16182,6 +20886,46 @@
       {
         "definition": "cut down on",
         "example": "make a reduction in"
+      }
+    ]
+  },
+  {
+    "word": "reduce c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "destress and thus weaken a sound when pronouncing it"
+      }
+    ]
+  },
+  {
+    "word": "reduplicate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "form by reduplication"
+      }
+    ]
+  },
+  {
+    "word": "reecho",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "repeat or return an echo again or repeatedly",
+        "example": "send (an echo) back"
+      }
+    ]
+  },
+  {
+    "word": "re-examine",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "question after cross-examination by opposing counsel"
       }
     ]
   },
@@ -16328,6 +21072,16 @@
     ]
   },
   {
+    "word": "regift",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "give a present that one has received to someone else",
+        "example": "she regifted that ugly scarf she received from her aunt"
+      }
+    ]
+  },
+  {
     "word": "regiment",
     "pos": "verb",
     "meanings": [
@@ -16368,6 +21122,16 @@
       {
         "definition": "help to readapt, as to a former state of health or good repute",
         "example": "The prisoner was successfully rehabilitated"
+      }
+    ]
+  },
+  {
+    "word": "reharmonize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "provide with a different harmony"
       }
     ]
   },
@@ -16578,6 +21342,26 @@
     ]
   },
   {
+    "word": "render-set",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "cover with two coats of plaster"
+      }
+    ]
+  },
+  {
+    "word": "renegociate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "revise the terms of in order to limit or regain excess profits gained by the contractor"
+      }
+    ]
+  },
+  {
     "word": "repaint",
     "pos": "verb",
     "meanings": [
@@ -16690,6 +21474,26 @@
       {
         "definition": "announce as the result of an investigation or experience or finding",
         "example": "Dozens of incidents of wife beatings are reported daily in this city"
+      }
+    ]
+  },
+  {
+    "word": "report d cover",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be responsible for reporting the details of, as in journalism",
+        "example": "Snow reported on China in the 's"
+      }
+    ]
+  },
+  {
+    "word": "repose on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be based on",
+        "example": "of theories and claims, for example"
       }
     ]
   },
@@ -16858,6 +21662,16 @@
     ]
   },
   {
+    "word": "resinate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "impregnate with resin to give a special flavor to"
+      }
+    ]
+  },
+  {
     "word": "resist",
     "pos": "verb",
     "meanings": [
@@ -16912,6 +21726,16 @@
       {
         "definition": "breathe easily again, as after exertion or anxiety",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "resplend",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be resplendent or radiant",
+        "example": "to shine brightly"
       }
     ]
   },
@@ -17004,6 +21828,16 @@
       {
         "definition": "assume anew",
         "example": "resume a title"
+      }
+    ]
+  },
+  {
+    "word": "resurge",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "rise again",
+        "example": "His need for a meal resurged"
       }
     ]
   },
@@ -17306,12 +22140,52 @@
     ]
   },
   {
+    "word": "ride horseback",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "ride the bench",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "be out of the game"
+      }
+    ]
+  },
+  {
     "word": "ridicule",
     "pos": "verb",
     "meanings": [
       {
         "definition": "subject to laughter or ridicule",
         "example": "The satirists ridiculed the plans for a new opera house"
+      }
+    ]
+  },
+  {
+    "word": "rifle d go d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "go through in search of something",
+        "example": "search through someone's belongings in an unauthorized way"
+      }
+    ]
+  },
+  {
+    "word": "rigidify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make rigid and set into a conventional pattern",
+        "example": "rigidify the training schedule"
       }
     ]
   },
@@ -17346,6 +22220,16 @@
       {
         "definition": "cut (wood) along the grain",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "rip out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "burst out with a violent or profane utterance",
+        "example": "ripped out a vicious oath"
       }
     ]
   },
@@ -17470,6 +22354,56 @@
     ]
   },
   {
+    "word": "roll a undulate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move in a wavy pattern or with a rising and falling motion",
+        "example": "The curtains undulated"
+      }
+    ]
+  },
+  {
+    "word": "roll b revolve",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to move by turning over or in a circular manner of as if on an axis",
+        "example": "She rolled the ball"
+      }
+    ]
+  },
+  {
+    "word": "roll in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "pour or flow in a steady stream",
+        "example": "mist rolled in from the sea"
+      }
+    ]
+  },
+  {
+    "word": "roll up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "get or gather together",
+        "example": "I am accumulating evidence for the man's unfaithfulness to his wife"
+      }
+    ]
+  },
+  {
+    "word": "roller skate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "travel on shoes with steel or rubber rollers attached to their soles"
+      }
+    ]
+  },
+  {
     "word": "rollerblade",
     "pos": "verb",
     "meanings": [
@@ -17504,6 +22438,16 @@
       {
         "definition": "come into existence, originate",
         "example": "The problem roots in her depression"
+      }
+    ]
+  },
+  {
+    "word": "rope in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "draw in as if with a rope",
+        "example": "lure"
       }
     ]
   },
@@ -17546,12 +22490,32 @@
     ]
   },
   {
+    "word": "rubberneck",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "strain to watch",
+        "example": "stare curiously"
+      }
+    ]
+  },
+  {
     "word": "ruffle",
     "pos": "verb",
     "meanings": [
       {
         "definition": "discompose",
         "example": "This play is going to ruffle some people"
+      }
+    ]
+  },
+  {
+    "word": "rule out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "dismiss from consideration or a contest",
+        "example": "John was ruled out as a possible suspect because he had a strong alibi"
       }
     ]
   },
@@ -17572,6 +22536,16 @@
       {
         "definition": "search haphazardly",
         "example": "We rummaged through the drawers"
+      }
+    ]
+  },
+  {
+    "word": "rumple a crumple a wrinkle a crease a crinkle a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become wrinkled or crumpled or creased",
+        "example": "This fabric won't wrinkle"
       }
     ]
   },
@@ -17622,6 +22596,86 @@
     ]
   },
   {
+    "word": "run b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move about freely and without restraint, or act as if running around in an uncontrolled way",
+        "example": "who are these people running around in the building?"
+      }
+    ]
+  },
+  {
+    "word": "run d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "travel rapidly, by any (unspecified) means",
+        "example": "Run to the store"
+      }
+    ]
+  },
+  {
+    "word": "run down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "deplete",
+        "example": "exhaust one's savings"
+      }
+    ]
+  },
+  {
+    "word": "run dry",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become empty of water",
+        "example": "The river runs dry in the summer"
+      }
+    ]
+  },
+  {
+    "word": "run low",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "to be spent or finished",
+        "example": "The money had gone after a few days"
+      }
+    ]
+  },
+  {
+    "word": "run off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "leave suddenly and as if in a hurry",
+        "example": "The listeners bolted when he discussed his strange ideas"
+      }
+    ]
+  },
+  {
+    "word": "run on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "continue uninterrupted",
+        "example": "The disease will run on unchecked"
+      }
+    ]
+  },
+  {
+    "word": "run out c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become used up",
+        "example": "be exhausted"
+      }
+    ]
+  },
+  {
     "word": "rush",
     "pos": "verb",
     "meanings": [
@@ -17632,6 +22686,16 @@
       {
         "definition": "move hurridly",
         "example": "He rushed down the hall to receive his guests"
+      }
+    ]
+  },
+  {
+    "word": "rusticate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "send to the country",
+        "example": "He was rusticated for his bad behavior"
       }
     ]
   },
@@ -17650,6 +22714,16 @@
     ]
   },
   {
+    "word": "saccharify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "convert into a simple soluble fermentable sugar by hydrolyzing a sugar derivative or complex carbohydrate",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "sacrifice",
     "pos": "verb",
     "meanings": [
@@ -17664,6 +22738,16 @@
       {
         "definition": "endure the loss of",
         "example": "He gave his life for his children"
+      }
+    ]
+  },
+  {
+    "word": "saddle a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "load or burden",
+        "example": "encumber"
       }
     ]
   },
@@ -17728,6 +22812,20 @@
       {
         "definition": "make less offensive or more acceptable by removing objectionable features",
         "example": "sanitize a document before releasing it to the press"
+      }
+    ]
+  },
+  {
+    "word": "saponify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "convert into soap by hydrolizing an ester into an acid and alcohol as a result of treating it with an alkali"
+      },
+      {
+        "definition": "",
+        "example": "become converted into soap by being hydrolized into an acid and alcohol as a result of being treated with an alkali"
       }
     ]
   },
@@ -17800,6 +22898,16 @@
     ]
   },
   {
+    "word": "say d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "state as one's opinion or judgement",
+        "example": "declare"
+      }
+    ]
+  },
+  {
     "word": "scan",
     "pos": "verb",
     "meanings": [
@@ -17836,6 +22944,16 @@
       {
         "definition": "make a schedule",
         "example": "plan the time and place for events"
+      }
+    ]
+  },
+  {
+    "word": "schematize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "formulate in regular order",
+        "example": "to reduce to a scheme or formula"
       }
     ]
   },
@@ -18112,6 +23230,26 @@
     ]
   },
   {
+    "word": "see b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "go to see for professional or business reasons",
+        "example": "You should see a lawyer"
+      }
+    ]
+  },
+  {
+    "word": "see through",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "support financially through a period of time",
+        "example": "The scholarship saw me through college"
+      }
+    ]
+  },
+  {
     "word": "seed",
     "pos": "verb",
     "meanings": [
@@ -18128,6 +23266,16 @@
       {
         "definition": "try to get or reach",
         "example": "seek a position"
+      }
+    ]
+  },
+  {
+    "word": "seek out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "look for a specific person or thing",
+        "example": ""
       }
     ]
   },
@@ -18222,12 +23370,52 @@
     ]
   },
   {
+    "word": "sell out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "sell or get rid of all one's merchandise"
+      }
+    ]
+  },
+  {
     "word": "send",
     "pos": "verb",
     "meanings": [
       {
         "definition": "cause to go somewhere",
         "example": "The explosion sent the car flying in the air"
+      }
+    ]
+  },
+  {
+    "word": "send down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "suspend temporarily from college or university, in England",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "send in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "mail in",
+        "example": "cause to be delivered"
+      }
+    ]
+  },
+  {
+    "word": "senesce",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "grow old or older",
+        "example": "She aged gracefully"
       }
     ]
   },
@@ -18270,6 +23458,26 @@
     ]
   },
   {
+    "word": "sentimentalise",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "act in a sentimental way or indulge in sentimental thoughts or expression",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "sentimentalize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make (someone or something) sentimental or imbue with sentimental qualities",
+        "example": "Too much poetry sentimentalizes the mind"
+      }
+    ]
+  },
+  {
     "word": "separate",
     "pos": "verb",
     "meanings": [
@@ -18298,6 +23506,16 @@
       {
         "definition": "",
         "example": "undergo sequestration by forming a stable compound with an ion"
+      }
+    ]
+  },
+  {
+    "word": "sermonize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "speak as if delivering a sermon",
+        "example": "express moral judgements"
       }
     ]
   },
@@ -18340,6 +23558,16 @@
     ]
   },
   {
+    "word": "serve d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "do military service",
+        "example": "She served in Vietnam"
+      }
+    ]
+  },
+  {
     "word": "service",
     "pos": "verb",
     "meanings": [
@@ -18368,6 +23596,70 @@
     ]
   },
   {
+    "word": "set ablaze",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "set fire to",
+        "example": "cause to start burning"
+      }
+    ]
+  },
+  {
+    "word": "set about",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "begin to deal with",
+        "example": "approach a task"
+      }
+    ]
+  },
+  {
+    "word": "set aside",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "annul (a legal decision)"
+      }
+    ]
+  },
+  {
+    "word": "set back",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "slow down the progress of",
+        "example": "hinder"
+      }
+    ]
+  },
+  {
+    "word": "set in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "enter a particular state",
+        "example": "Laziness set in"
+      },
+      {
+        "definition": "blow toward the shore",
+        "example": "That gale could set in on us with the next high tide"
+      }
+    ]
+  },
+  {
+    "word": "set up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "get ready for a particular purpose or event",
+        "example": "set up an experiment"
+      }
+    ]
+  },
+  {
     "word": "settle",
     "pos": "verb",
     "meanings": [
@@ -18382,6 +23674,16 @@
       {
         "definition": "settle conclusively",
         "example": "come to terms"
+      }
+    ]
+  },
+  {
+    "word": "sexualize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make sexual, endow with sex, attribute sex to",
+        "example": "The god was sexualized and married to another god"
       }
     ]
   },
@@ -18518,6 +23820,16 @@
     ]
   },
   {
+    "word": "shift c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "change phonetically as part of a systematic historical change"
+      }
+    ]
+  },
+  {
     "word": "shine",
     "pos": "verb",
     "meanings": [
@@ -18538,6 +23850,16 @@
     ]
   },
   {
+    "word": "shirr",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "bake (eggs) in their shells until they are set"
+      }
+    ]
+  },
+  {
     "word": "shirt",
     "pos": "verb",
     "meanings": [
@@ -18554,6 +23876,16 @@
       {
         "definition": "shake, as from cold",
         "example": "The children are shivering--turn on the heat"
+      }
+    ]
+  },
+  {
+    "word": "shlep",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "pull along heavily, like a heavy load against a resistance",
+        "example": "Can you shlep this bag of potatoes upstairs?"
       }
     ]
   },
@@ -18604,6 +23936,16 @@
     ]
   },
   {
+    "word": "short-circuit",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "hamper the progress of",
+        "example": "impede"
+      }
+    ]
+  },
+  {
     "word": "shorten",
     "pos": "verb",
     "meanings": [
@@ -18628,6 +23970,16 @@
       {
         "definition": "utter a sudden loud cry",
         "example": "she cried with pain when the doctor inserted the needle"
+      }
+    ]
+  },
+  {
+    "word": "shove off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "leave",
+        "example": "informal or rude"
       }
     ]
   },
@@ -18684,12 +24036,32 @@
     ]
   },
   {
+    "word": "shrink b shrivel b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "decrease in size, range, or extent",
+        "example": "His earnings shrank"
+      }
+    ]
+  },
+  {
     "word": "shuffle",
     "pos": "verb",
     "meanings": [
       {
         "definition": "walk by dragging one's feet",
         "example": "he shuffled out of the room"
+      }
+    ]
+  },
+  {
+    "word": "shut off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "block off the passage through",
+        "example": "We shut off the valve"
       }
     ]
   },
@@ -18744,6 +24116,26 @@
     ]
   },
   {
+    "word": "sightread",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "perform music from a score without having seen the score before"
+      }
+    ]
+  },
+  {
+    "word": "sightsing",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "sing from a score without having seen it before"
+      }
+    ]
+  },
+  {
     "word": "sign",
     "pos": "verb",
     "meanings": [
@@ -18766,6 +24158,16 @@
       {
         "definition": "approve and express assent, responsibility, or obligation",
         "example": "All parties ratified the peace treaty"
+      }
+    ]
+  },
+  {
+    "word": "sign off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "cease broadcasting"
       }
     ]
   },
@@ -18858,6 +24260,26 @@
     ]
   },
   {
+    "word": "sit out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "not participate in (an activity, such as a dance or a sports event)"
+      }
+    ]
+  },
+  {
+    "word": "sit tight",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "maintain the same position",
+        "example": "wait it out"
+      }
+    ]
+  },
+  {
     "word": "situate",
     "pos": "verb",
     "meanings": [
@@ -18926,6 +24348,16 @@
     ]
   },
   {
+    "word": "skimcoat",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "coat with a mixture of gypsum and spackle"
+      }
+    ]
+  },
+  {
     "word": "skirt",
     "pos": "verb",
     "meanings": [
@@ -18936,12 +24368,32 @@
     ]
   },
   {
+    "word": "skyjack",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "subject an aircraft to air piracy"
+      }
+    ]
+  },
+  {
     "word": "slack",
     "pos": "verb",
     "meanings": [
       {
         "definition": "make less active or fast",
         "example": "He slackened his pace as he got tired"
+      }
+    ]
+  },
+  {
+    "word": "slam-dunk",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make a slam dunk"
       }
     ]
   },
@@ -18986,6 +24438,26 @@
     ]
   },
   {
+    "word": "sleep late",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "sleep later than usual or customary",
+        "example": "On Sundays, I sleep in"
+      }
+    ]
+  },
+  {
+    "word": "sleep together",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "u  f                                  f  have sexual intercourse with"
+      }
+    ]
+  },
+  {
     "word": "sling",
     "pos": "verb",
     "meanings": [
@@ -19006,6 +24478,26 @@
       {
         "definition": "move smoothly and easily",
         "example": "the bolt slipped into place"
+      }
+    ]
+  },
+  {
+    "word": "slip in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "insert casually",
+        "example": "She slipped in a reference to her own work"
+      }
+    ]
+  },
+  {
+    "word": "slip on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "put on with ease or speed",
+        "example": "slip into something more comfortable after work"
       }
     ]
   },
@@ -19054,6 +24546,16 @@
       {
         "definition": "deliver a hard blow to",
         "example": "The teacher smacked the student who had misbehaved"
+      }
+    ]
+  },
+  {
+    "word": "smack d reek d smell",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have an element suggestive (of something)",
+        "example": "his speeches smacked of racism"
       }
     ]
   },
@@ -19140,6 +24642,16 @@
     ]
   },
   {
+    "word": "sneak in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "enter surreptitiously",
+        "example": "He sneaked in under cover of darkness"
+      }
+    ]
+  },
+  {
     "word": "sneeze",
     "pos": "verb",
     "meanings": [
@@ -19210,6 +24722,20 @@
     ]
   },
   {
+    "word": "snuff out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "put an end to",
+        "example": "kill"
+      },
+      {
+        "definition": "put out, as of fires, flames, or lights",
+        "example": "Too big to be extinguished at once, the forest fires at best could be contained"
+      }
+    ]
+  },
+  {
     "word": "socialize",
     "pos": "verb",
     "meanings": [
@@ -19258,6 +24784,20 @@
     ]
   },
   {
+    "word": "solmizate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "sing using syllables like `do', `re' and `mi' to represent the tones of the scale"
+      },
+      {
+        "definition": "",
+        "example": "sing by the syllables of solmization"
+      }
+    ]
+  },
+  {
     "word": "solve",
     "pos": "verb",
     "meanings": [
@@ -19282,6 +24822,16 @@
     ]
   },
   {
+    "word": "sound off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "sour",
     "pos": "verb",
     "meanings": [
@@ -19298,6 +24848,16 @@
       {
         "definition": "get (a product) from another country or business",
         "example": "She sourced a supply of carpet"
+      }
+    ]
+  },
+  {
+    "word": "souse",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "cook in a marinade"
       }
     ]
   },
@@ -19356,6 +24916,16 @@
     ]
   },
   {
+    "word": "spatchcock",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "prepare for eating if or as if a spatchcock"
+      }
+    ]
+  },
+  {
     "word": "spawn",
     "pos": "verb",
     "meanings": [
@@ -19372,6 +24942,16 @@
       {
         "definition": "use language",
         "example": "the baby talks already"
+      }
+    ]
+  },
+  {
+    "word": "speak up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "speak louder",
+        "example": "raise one's voice"
       }
     ]
   },
@@ -19410,12 +24990,42 @@
     ]
   },
   {
+    "word": "speechify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make speeches",
+        "example": "hold forth, or harangue with a certain degree of formality"
+      }
+    ]
+  },
+  {
+    "word": "speed skate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "race on skates"
+      }
+    ]
+  },
+  {
     "word": "spell",
     "pos": "verb",
     "meanings": [
       {
         "definition": "orally recite the letters of or give the spelling of",
         "example": "How do you spell this word?"
+      }
+    ]
+  },
+  {
+    "word": "spell out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make explicit",
+        "example": "specify in detail"
       }
     ]
   },
@@ -19472,6 +25082,16 @@
     ]
   },
   {
+    "word": "spiritualize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "give a spiritual meaning to",
+        "example": "read in a spiritual sense"
+      }
+    ]
+  },
+  {
     "word": "splash",
     "pos": "verb",
     "meanings": [
@@ -19512,12 +25132,32 @@
     ]
   },
   {
+    "word": "spondaize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "make spondaic"
+      }
+    ]
+  },
+  {
     "word": "sportscast",
     "pos": "verb",
     "meanings": [
       {
         "definition": "broadcast a sports event",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "sporulate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "produce spores"
       }
     ]
   },
@@ -19556,12 +25196,32 @@
     ]
   },
   {
+    "word": "spread-eagle",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "execute a spread eagle on skates, with arms and legs stretched out"
+      }
+    ]
+  },
+  {
     "word": "sprinkle",
     "pos": "verb",
     "meanings": [
       {
         "definition": "scatter with liquid",
         "example": "wet lightly"
+      }
+    ]
+  },
+  {
+    "word": "spruce up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make neat, smart, or trim",
+        "example": "Spruce up your house for Spring"
       }
     ]
   },
@@ -19758,6 +25418,70 @@
     ]
   },
   {
+    "word": "stand a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "be available for stud services"
+      }
+    ]
+  },
+  {
+    "word": "stand back",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "stay clear of, avoid",
+        "example": "Keep your hands off my wife"
+      }
+    ]
+  },
+  {
+    "word": "stand by",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be loyal to",
+        "example": "She stood by her husband in times of trouble"
+      }
+    ]
+  },
+  {
+    "word": "stand guard",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "watch over so as to protect",
+        "example": "We must stand sentinel to protect ourselves"
+      }
+    ]
+  },
+  {
+    "word": "stand still",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "remain in place",
+        "example": "hold still"
+      }
+    ]
+  },
+  {
+    "word": "stand up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "defend against attack or criticism",
+        "example": "He stood up for his friend"
+      },
+      {
+        "definition": "resist or withstand wear, criticism, etc.",
+        "example": "Her shoes won't hold up"
+      }
+    ]
+  },
+  {
     "word": "start",
     "pos": "verb",
     "meanings": [
@@ -19832,6 +25556,16 @@
       {
         "definition": "continue in a place, position, or situation",
         "example": "After graduation, she stayed on in Cambridge as a student adviser"
+      }
+    ]
+  },
+  {
+    "word": "stay up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "not go to bed",
+        "example": "Don't stay up so late--you have to go to work tomorrow"
       }
     ]
   },
@@ -19928,6 +25662,26 @@
     ]
   },
   {
+    "word": "stick out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "extend out or project in space",
+        "example": "His sharp nose jutted out"
+      }
+    ]
+  },
+  {
+    "word": "stick to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "keep to",
+        "example": "Stick to your principles"
+      }
+    ]
+  },
+  {
     "word": "stiffen",
     "pos": "verb",
     "meanings": [
@@ -19996,6 +25750,16 @@
       {
         "definition": "move an implement through",
         "example": "stir the soup"
+      }
+    ]
+  },
+  {
+    "word": "stir fry",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "fry very quickly over high heat"
       }
     ]
   },
@@ -20270,6 +26034,50 @@
     ]
   },
   {
+    "word": "strike a chord",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "evoke a reaction, response, or emotion",
+        "example": "this writer strikes a chord with young women"
+      }
+    ]
+  },
+  {
+    "word": "strike dumb",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "render speechless, as by surprising or shocking",
+        "example": "we were struck dumb by the candidate's announcement"
+      }
+    ]
+  },
+  {
+    "word": "strike out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "put out or be put out by a strikeout"
+      },
+      {
+        "definition": "make a motion as with one's fist or foot towards an object or away from one's body",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "strike up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "begin",
+        "example": "strike up a conversation"
+      }
+    ]
+  },
+  {
     "word": "string",
     "pos": "verb",
     "meanings": [
@@ -20284,6 +26092,26 @@
       {
         "definition": "string together",
         "example": "tie or fasten with a string"
+      }
+    ]
+  },
+  {
+    "word": "strip c undress",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "remove (someone's or one's own) clothes",
+        "example": "The nurse quickly undressed the accident victim"
+      }
+    ]
+  },
+  {
+    "word": "strip-search",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "search (someone) for weapons or drugs by having the person remove their clothes",
+        "example": "He was strip-searched at the airport"
       }
     ]
   },
@@ -20322,6 +26150,16 @@
       {
         "definition": "obstruct",
         "example": "My nose is all stuffed"
+      }
+    ]
+  },
+  {
+    "word": "stultify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "prove to be of unsound mind or demonstrate someone's incompetence"
       }
     ]
   },
@@ -20512,6 +26350,26 @@
     ]
   },
   {
+    "word": "sum up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "give a summary (of)",
+        "example": "he summed up his results"
+      }
+    ]
+  },
+  {
+    "word": "summerize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "prepare for summer",
+        "example": "summerize your car"
+      }
+    ]
+  },
+  {
     "word": "summit",
     "pos": "verb",
     "meanings": [
@@ -20528,6 +26386,16 @@
       {
         "definition": "expose to the rays of the sun or affect by exposure to the sun",
         "example": "insolated paper may turn yellow and crumble"
+      }
+    ]
+  },
+  {
+    "word": "superannuate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "declare to be obsolete",
+        "example": ""
       }
     ]
   },
@@ -20724,6 +26592,26 @@
     ]
   },
   {
+    "word": "swear in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "administer on oath to",
+        "example": "The speaker of the House swore in the new President"
+      }
+    ]
+  },
+  {
+    "word": "sweat off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "lose weight by sweating",
+        "example": "I sweated off  pounds in the sauna"
+      }
+    ]
+  },
+  {
     "word": "sweep",
     "pos": "verb",
     "meanings": [
@@ -20776,12 +26664,52 @@
     ]
   },
   {
+    "word": "swing around",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "turn abruptly and face the other way, either physically or metaphorically",
+        "example": "He turned around to face his opponent"
+      }
+    ]
+  },
+  {
     "word": "switch",
     "pos": "verb",
     "meanings": [
       {
         "definition": "lay aside, abandon, or leave for another",
         "example": "switch to a different brand of beer"
+      }
+    ]
+  },
+  {
+    "word": "switch off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to stop operating by disengaging a switch",
+        "example": "Turn off the stereo, please"
+      }
+    ]
+  },
+  {
+    "word": "switch on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to operate by flipping a switch",
+        "example": "switch on the light"
+      }
+    ]
+  },
+  {
+    "word": "switch-hit",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "bat right-handed against a left-handed and left-handed against a right-handed pitcher"
       }
     ]
   },
@@ -20908,6 +26836,134 @@
     ]
   },
   {
+    "word": "take a look",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "look at with attention",
+        "example": "Have a look at this"
+      }
+    ]
+  },
+  {
+    "word": "take after",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "imitate in behavior",
+        "example": "take as a model"
+      }
+    ]
+  },
+  {
+    "word": "take away",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take away a part from",
+        "example": "diminish"
+      },
+      {
+        "definition": "remove from a certain place, environment, or mental or emotional state",
+        "example": "transport into a new location or state"
+      }
+    ]
+  },
+  {
+    "word": "take down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "reduce in worth or character, usually verbally",
+        "example": "She tends to put down younger women colleagues"
+      }
+    ]
+  },
+  {
+    "word": "take e have",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have sex with",
+        "example": "archaic use"
+      }
+    ]
+  },
+  {
+    "word": "take f accept c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make use of or accept for some purpose",
+        "example": "take a risk"
+      }
+    ]
+  },
+  {
+    "word": "take lying down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "suffer without protest",
+        "example": "suffer or endure passively"
+      }
+    ]
+  },
+  {
+    "word": "take orders",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be ordained",
+        "example": "enter the Christian ministry"
+      }
+    ]
+  },
+  {
+    "word": "take out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "obtain by legal or official process",
+        "example": "take out a license"
+      },
+      {
+        "definition": "purchase prepared food to be eaten at home",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "take the cake",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "rank first",
+        "example": "used often in a negative context"
+      }
+    ]
+  },
+  {
+    "word": "take the count",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "@        be counted out"
+      }
+    ]
+  },
+  {
+    "word": "take to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "develop a habit",
+        "example": "apply oneself to a practice or occupation"
+      }
+    ]
+  },
+  {
     "word": "talk",
     "pos": "verb",
     "meanings": [
@@ -20918,6 +26974,26 @@
       {
         "definition": "exchange thoughts",
         "example": "talk with"
+      }
+    ]
+  },
+  {
+    "word": "talk down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "direct and control (the flight of an airplane during landing) via radio",
+        "example": "the control tower talked down the plane whose pilot fell ill"
+      }
+    ]
+  },
+  {
+    "word": "tamper c fiddle",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "play around with or alter or falsify, usually secretively or dishonestly",
+        "example": "Someone tampered with the documents on my desk"
       }
     ]
   },
@@ -20936,12 +27012,32 @@
     ]
   },
   {
+    "word": "tap dance",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "tar",
     "pos": "verb",
     "meanings": [
       {
         "definition": "coat with tar",
         "example": "tar the roof"
+      }
+    ]
+  },
+  {
+    "word": "tar-and-feather",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "smear the body of (someone) with tar and feathers",
+        "example": "done in some societies as punishment"
       }
     ]
   },
@@ -20972,6 +27068,16 @@
       {
         "definition": "assign a task to",
         "example": "I tasked him with looking after the children"
+      }
+    ]
+  },
+  {
+    "word": "tauten",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "become taut or tauter",
+        "example": "Your muscles will firm when you exercise regularly"
       }
     ]
   },
@@ -21050,6 +27156,16 @@
       {
         "definition": "be teeming, be abuzz",
         "example": "The garden was swarming with bees"
+      }
+    ]
+  },
+  {
+    "word": "teethe",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "grow teeth",
+        "example": "cut the baby teeth"
       }
     ]
   },
@@ -21134,6 +27250,16 @@
     ]
   },
   {
+    "word": "test drive",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "test a vehicle by driving it"
+      }
+    ]
+  },
+  {
     "word": "testify",
     "pos": "verb",
     "meanings": [
@@ -21180,6 +27306,50 @@
       {
         "definition": "imagine or visualize",
         "example": "Just think--you could be rich one day"
+      }
+    ]
+  },
+  {
+    "word": "think about",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "have on one's mind, think about actively",
+        "example": "I'm thinking about my friends abroad"
+      }
+    ]
+  },
+  {
+    "word": "think d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "ponder",
+        "example": "reflect on, or reason about"
+      }
+    ]
+  },
+  {
+    "word": "think of",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "look on as or consider",
+        "example": "she looked on this affair as a joke"
+      },
+      {
+        "definition": "intend to refer to",
+        "example": "I'm thinking of good food when I talk about France"
+      }
+    ]
+  },
+  {
+    "word": "think up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "devise or invent",
+        "example": "He thought up a plan to get rich quickly"
       }
     ]
   },
@@ -21314,6 +27484,16 @@
     ]
   },
   {
+    "word": "tide over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "suffice for a period between two points",
+        "example": "This money will keep us going for another year"
+      }
+    ]
+  },
+  {
     "word": "tie",
     "pos": "verb",
     "meanings": [
@@ -21324,12 +27504,42 @@
     ]
   },
   {
+    "word": "tie down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "secure with or as if with ropes",
+        "example": "tie down the prisoners"
+      }
+    ]
+  },
+  {
+    "word": "tie up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "restrain from moving or operating normally",
+        "example": "Traffic is tied up for miles around the bridge where the accident occurred"
+      }
+    ]
+  },
+  {
     "word": "till",
     "pos": "verb",
     "meanings": [
       {
         "definition": "",
         "example": "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation"
+      }
+    ]
+  },
+  {
+    "word": "tinge d color",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "affect as in thought or feeling",
+        "example": "My personal feelings color my judgment in this case"
       }
     ]
   },
@@ -21360,6 +27570,16 @@
       {
         "definition": "color lightly",
         "example": "her greying hair was tinged blond"
+      }
+    ]
+  },
+  {
+    "word": "tintinnabulate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "ring or sound like a small bell",
+        "example": ""
       }
     ]
   },
@@ -21438,6 +27658,16 @@
     ]
   },
   {
+    "word": "tone down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make less strong or intense",
+        "example": "soften"
+      }
+    ]
+  },
+  {
     "word": "tongue",
     "pos": "verb",
     "meanings": [
@@ -21468,6 +27698,46 @@
       {
         "definition": "strike (the top part of a ball in golf, baseball, or pool) giving it a forward spin",
         "example": ""
+      }
+    ]
+  },
+  {
+    "word": "top out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "to reach the highest point",
+        "example": "attain maximum intensity, activity"
+      }
+    ]
+  },
+  {
+    "word": "topicalize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "emphasize by putting heavy stress on or by moving to the front of the sentence"
+      }
+    ]
+  },
+  {
+    "word": "toss in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "add casually to a conversation",
+        "example": "`I don't agree with this,' she tossed in"
+      }
+    ]
+  },
+  {
+    "word": "toss off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "drink down entirely",
+        "example": "He downed three martinis before dinner"
       }
     ]
   },
@@ -21512,6 +27782,46 @@
       {
         "definition": "deal with",
         "example": "usually used with a form of negation"
+      }
+    ]
+  },
+  {
+    "word": "touch down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "come or bring (a plane) to a landing"
+      }
+    ]
+  },
+  {
+    "word": "touch on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "refer to or discuss briefly",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "touch up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "alter so as to produce a more desirable appearance"
+      }
+    ]
+  },
+  {
+    "word": "tousle",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "disarrange or rumple",
+        "example": "dishevel"
       }
     ]
   },
@@ -21632,6 +27942,36 @@
       {
         "definition": "",
         "example": "travel on foot, especially on a walking expedition"
+      }
+    ]
+  },
+  {
+    "word": "tramp down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "walk on and flatten",
+        "example": "tramp down the grass"
+      }
+    ]
+  },
+  {
+    "word": "transact e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "conduct business"
+      }
+    ]
+  },
+  {
+    "word": "transaminate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "undergo transfer from one compound to another"
       }
     ]
   },
@@ -21774,6 +28114,16 @@
     ]
   },
   {
+    "word": "travel by",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move past",
+        "example": "A black limousine passed by when she looked out the window"
+      }
+    ]
+  },
+  {
     "word": "treat",
     "pos": "verb",
     "meanings": [
@@ -21812,6 +28162,16 @@
       {
         "definition": "set, plant, or bury in a trench",
         "example": "trench the fallen soldiers"
+      }
+    ]
+  },
+  {
+    "word": "trespass c take advantage c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make excessive use of",
+        "example": "You are taking advantage of my good will"
       }
     ]
   },
@@ -21880,6 +28240,26 @@
     ]
   },
   {
+    "word": "trot out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "bring out and show for inspection and admiration",
+        "example": "His novel trots out a rich heiress"
+      }
+    ]
+  },
+  {
+    "word": "trouble oneself",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "take the trouble to do something",
+        "example": "concern oneself"
+      }
+    ]
+  },
+  {
     "word": "truncate",
     "pos": "verb",
     "meanings": [
@@ -21928,6 +28308,16 @@
     ]
   },
   {
+    "word": "try on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "put on a garment in order to see whether it fits and looks nice",
+        "example": "Try on this sweater to see how it looks"
+      }
+    ]
+  },
+  {
     "word": "tuck",
     "pos": "verb",
     "meanings": [
@@ -21938,6 +28328,16 @@
       {
         "definition": "make a tuck or several folds in",
         "example": "tuck the fabric"
+      }
+    ]
+  },
+  {
+    "word": "tuck in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "eat up",
+        "example": "usually refers to a considerable quantity of food"
       }
     ]
   },
@@ -21988,6 +28388,122 @@
       {
         "definition": "cause to move around or rotate",
         "example": "turn a key"
+      }
+    ]
+  },
+  {
+    "word": "turn a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "alter the functioning or setting of",
+        "example": "turn the dial to"
+      },
+      {
+        "definition": "accomplish by rotating",
+        "example": "turn a somersault"
+      }
+    ]
+  },
+  {
+    "word": "turn around",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "improve significantly",
+        "example": "go from bad to good"
+      }
+    ]
+  },
+  {
+    "word": "turn around c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "improve dramatically",
+        "example": "The new strategy turned around sales"
+      }
+    ]
+  },
+  {
+    "word": "turn d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "direct at someone",
+        "example": "She turned a smile on me"
+      },
+      {
+        "definition": "cause to move along an axis or into a new direction",
+        "example": "turn your face to the wall"
+      },
+      {
+        "definition": "",
+        "example": "get by buying and selling"
+      },
+      {
+        "definition": "cause to change or turn into something different",
+        "example": "assume new characteristics"
+      }
+    ]
+  },
+  {
+    "word": "turn e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "channel one's attention, interest, thought, or attention toward or away from something",
+        "example": "The pedophile turned to boys for satisfaction"
+      }
+    ]
+  },
+  {
+    "word": "turn on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "produce suddenly or automatically",
+        "example": "Turn on the charm"
+      }
+    ]
+  },
+  {
+    "word": "turn on a dime",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "have a small turning radius"
+      }
+    ]
+  },
+  {
+    "word": "turn out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "turn outward",
+        "example": "These birds can splay out their toes"
+      }
+    ]
+  },
+  {
+    "word": "turn over",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "do business worth a certain amount of money"
+      }
+    ]
+  },
+  {
+    "word": "turn to",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "direct one's interest or attention towards",
+        "example": "go into"
       }
     ]
   },
@@ -22060,6 +28576,16 @@
     ]
   },
   {
+    "word": "ulcerate",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "affect with an ulcer",
+        "example": "Her stomach was ulcerated"
+      }
+    ]
+  },
+  {
     "word": "unbalance",
     "pos": "verb",
     "meanings": [
@@ -22114,6 +28640,16 @@
     ]
   },
   {
+    "word": "underdevelop",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "c"
+      }
+    ]
+  },
+  {
     "word": "underestimate",
     "pos": "verb",
     "meanings": [
@@ -22124,12 +28660,36 @@
     ]
   },
   {
+    "word": "underexpose",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "expose insufficiently"
+      },
+      {
+        "definition": "",
+        "example": "expose to too little light"
+      }
+    ]
+  },
+  {
     "word": "undergo",
     "pos": "verb",
     "meanings": [
       {
         "definition": "pass through",
         "example": "The chemical undergoes a sudden change"
+      }
+    ]
+  },
+  {
+    "word": "undergrow",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "grow below something",
+        "example": "The moss undergrew the stone patio"
       }
     ]
   },
@@ -22150,6 +28710,16 @@
       {
         "definition": "",
         "example": "perform too rarely"
+      }
+    ]
+  },
+  {
+    "word": "underquote",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "quote a price lower than that quoted by (another seller)",
+        "example": ""
       }
     ]
   },
@@ -22182,6 +28752,16 @@
     ]
   },
   {
+    "word": "understock",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "stock with less than the usual or desirable number or quantity",
+        "example": ""
+      }
+    ]
+  },
+  {
     "word": "undress",
     "pos": "verb",
     "meanings": [
@@ -22202,6 +28782,26 @@
       {
         "definition": "extend or stretch out to a greater or the full length",
         "example": "Unfold the newspaper"
+      }
+    ]
+  },
+  {
+    "word": "unhand",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "remove the hand from",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "word": "unharness",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "remove the harness from"
       }
     ]
   },
@@ -22288,6 +28888,16 @@
     ]
   },
   {
+    "word": "unyoke",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "remove the yoke from"
+      }
+    ]
+  },
+  {
     "word": "update",
     "pos": "verb",
     "meanings": [
@@ -22338,6 +28948,16 @@
       {
         "definition": "habitually do something or be in a certan state or place (use only in the past tense)",
         "example": "She used to call her mother every week but now she calls only occasionally"
+      }
+    ]
+  },
+  {
+    "word": "use e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "seek or achieve an end by using to one's advantage",
+        "example": "She uses her influential friends to get jobs"
       }
     ]
   },
@@ -22530,6 +29150,16 @@
     ]
   },
   {
+    "word": "vinify",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "convert a juice into wine by fermentation"
+      }
+    ]
+  },
+  {
     "word": "violate",
     "pos": "verb",
     "meanings": [
@@ -22618,6 +29248,26 @@
     ]
   },
   {
+    "word": "vote b",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "express a choice or opinion",
+        "example": "I vote that we all go home"
+      }
+    ]
+  },
+  {
+    "word": "vote d",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "express one's preference for a candidate or for a measure or resolution",
+        "example": "cast a vote"
+      }
+    ]
+  },
+  {
     "word": "vouch",
     "pos": "verb",
     "meanings": [
@@ -22634,6 +29284,16 @@
       {
         "definition": "make a vow",
         "example": "promise"
+      }
+    ]
+  },
+  {
+    "word": "vulgarize",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "act in a vulgar manner",
+        "example": "The drunkard tends to vulgarize"
       }
     ]
   },
@@ -22714,6 +29374,30 @@
     ]
   },
   {
+    "word": "walk around",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "behave in a certain manner or have certain properties",
+        "example": "He walks around with his nose in the air"
+      }
+    ]
+  },
+  {
+    "word": "walk off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "go away from",
+        "example": "The actor walked off before he got his cue"
+      },
+      {
+        "definition": "take without permission",
+        "example": "he walked off with my wife"
+      }
+    ]
+  },
+  {
     "word": "wallow",
     "pos": "verb",
     "meanings": [
@@ -22778,6 +29462,16 @@
       {
         "definition": "remove by the application of water or other liquid and soap or some other cleaning agent",
         "example": "he washed the dirt from his coat"
+      }
+    ]
+  },
+  {
+    "word": "wash down",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "eat food accompanied by lots of liquid",
+        "example": "also use metaphorically"
       }
     ]
   },
@@ -22860,6 +29554,16 @@
     ]
   },
   {
+    "word": "wear ship",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "turn away from the wind"
+      }
+    ]
+  },
+  {
     "word": "weave",
     "pos": "verb",
     "meanings": [
@@ -22884,6 +29588,16 @@
     ]
   },
   {
+    "word": "weed out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "remove unwanted elements",
+        "example": "The company weeded out the incompetent people"
+      }
+    ]
+  },
+  {
     "word": "weigh",
     "pos": "verb",
     "meanings": [
@@ -22900,6 +29614,16 @@
       {
         "definition": "come up, as of a liquid",
         "example": "Tears well in her eyes"
+      }
+    ]
+  },
+  {
+    "word": "well up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come up (as of feelings and thoughts, or other ephemeral things)",
+        "example": "Strong emotions welled up"
       }
     ]
   },
@@ -23072,6 +29796,16 @@
     ]
   },
   {
+    "word": "win back",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "recover something or somebody that appeared to be lost",
+        "example": "We got back the money after we threatened to sue the company"
+      }
+    ]
+  },
+  {
     "word": "wince",
     "pos": "verb",
     "meanings": [
@@ -23160,6 +29894,16 @@
       {
         "definition": "rub with a circular motion",
         "example": "wipe the blackboard"
+      }
+    ]
+  },
+  {
+    "word": "wipe up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "to wash or wipe with or as if with a mop",
+        "example": "Mop the hallway now"
       }
     ]
   },
@@ -23284,6 +30028,80 @@
     ]
   },
   {
+    "word": "work a",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "behave in a certain way when handled",
+        "example": "This dough does not work easily"
+      }
+    ]
+  },
+  {
+    "word": "work c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to operate or function",
+        "example": "This pilot works the controls"
+      }
+    ]
+  },
+  {
+    "word": "work e",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "move into or onto",
+        "example": "work the raisins into the dough"
+      }
+    ]
+  },
+  {
+    "word": "work in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "add by mixing or blending on or attaching",
+        "example": "work in the butter and the dough will get the right consistency"
+      }
+    ]
+  },
+  {
+    "word": "work off",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "cause to go away through effort or work",
+        "example": "work off the extra pounds you have gained over the holidays"
+      }
+    ]
+  },
+  {
+    "word": "work out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "come up with",
+        "example": "His colleagues worked out his interesting idea"
+      },
+      {
+        "definition": "happen in a certain way, leading to, producing, or resulting in a certain outcome, often well",
+        "example": "Things worked out in an interesting way"
+      }
+    ]
+  },
+  {
+    "word": "work through",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "apply thoroughly",
+        "example": "think through"
+      }
+    ]
+  },
+  {
     "word": "worry",
     "pos": "verb",
     "meanings": [
@@ -23294,6 +30112,16 @@
       {
         "definition": "be worried, concerned, anxious, troubled, or uneasy",
         "example": "I worry about my job"
+      }
+    ]
+  },
+  {
+    "word": "worry c care c",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "be concerned with",
+        "example": "I worry about my grades"
       }
     ]
   },
@@ -23376,12 +30204,66 @@
     ]
   },
   {
+    "word": "write copy",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "write for commercial publications"
+      }
+    ]
+  },
+  {
+    "word": "write on",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "write about a particular topic"
+      }
+    ]
+  },
+  {
+    "word": "write out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "make out and issue",
+        "example": "write out a check"
+      },
+      {
+        "definition": "",
+        "example": "put into writing"
+      }
+    ]
+  },
+  {
+    "word": "write up",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "bring to public notice by writing, with praise or condemnation",
+        "example": "The New York Times wrote him up last week"
+      }
+    ]
+  },
+  {
     "word": "writhe",
     "pos": "verb",
     "meanings": [
       {
         "definition": "to move in a twisting or contorted motion, (especially when struggling)",
         "example": "The prisoner writhed in discomfort"
+      }
+    ]
+  },
+  {
+    "word": "x-ray",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "",
+        "example": "take an x-ray of something or somebody"
       }
     ]
   },
@@ -23440,6 +30322,26 @@
       {
         "definition": "strike suddenly and with force",
         "example": "This show zaps the viewers with some shocking scenes"
+      }
+    ]
+  },
+  {
+    "word": "zonk out",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "fall asleep fast, as when one is extremely tired",
+        "example": "after the long drive, we zonked out and slept for  hours"
+      }
+    ]
+  },
+  {
+    "word": "zoom in",
+    "pos": "verb",
+    "meanings": [
+      {
+        "definition": "examine closely",
+        "example": "focus one's attention on"
       }
     ]
   }

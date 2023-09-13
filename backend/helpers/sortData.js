@@ -15,9 +15,4 @@ function testWord(word) {
   }
 }
 
-allDataWords.forEach((word) => {
-  const test = testWord(word);
-  if (test) {
-    finalData.push(word);
-  }
-});
+console.log(allDataWords.length);
