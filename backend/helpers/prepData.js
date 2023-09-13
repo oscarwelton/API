@@ -97,9 +97,6 @@ function convertToJSON() {
     fs.createReadStream(csvPaths[path])
       .pipe(csv())
       .on("data", async (data) => {
-
-
-
         jsonArray.push(data);
       })
       .on("end", () => {
