@@ -21,8 +21,6 @@ const {
 
 const mergeData = require("./mergeData.js");
 
-// const results = [];
-
 const csvPaths = {
   adverbs: "../data/CSV/WordnetAdverbs.csv",
   nouns: "../data/CSV/WordnetNouns.csv",
@@ -105,5 +103,5 @@ function convertToJSON() {
   });
 }
 
-convertToJSON();
+// convertToJSON();
 mergeData();

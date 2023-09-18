@@ -1,4 +1,5 @@
 const fs = require("fs");
+const word = require("../models/word");
 
 function makeThesaurus() {
   const antonyms = require("../data/JSON/antonyms.json");
@@ -200,21 +201,33 @@ function insertHyp() {
   return wordList;
 }
 
+function singleWord(word) {
+  const splitString = word.split(" ");
+  if (splitString.length === 1) {
+    return true;
+  }
+  return false;
+}
+
+function removeNonSingles() {
+  const singles = wordList.filter((object) => singleWord(object.word));
+  wordList = singles;
+}
+
 function mergeData() {
+
   insertTypes();
   insertThesaurus();
   insertHyp();
-
-  console.log(wordList.length);
+  removeNonSingles();
 
   fs.writeFile(
-    "../data/allData.json",
+    "../data/finalData.json",
     JSON.stringify(wordList, null, 2),
     (err) => {
       if (err) throw err;
-      console.log("The file was saved!");
+      console.log("Saved wordList.json", wordList.length);
     }
-  );
+  )
 }
-
 module.exports = mergeData;
