@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@import "./components/reset.scss";
+@import "./components/fonts.scss";
+@import "./components/banner.scss";
+@import "./components/navbar.scss";
+@import "./components/form.scss";
+@import "./components/feature.scss";
+
+//variables
+
+:root {
+  --green: #053900;
+  --gray: #BCBCBC;
+  --inter: 'Inter', sans-serif;
+}
+
+main {
+  padding: 1rem;
+}

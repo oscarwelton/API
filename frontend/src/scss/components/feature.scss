@@ -1,0 +1,13 @@
+.feature {
+  display: flex;
+  align-items: center;
+
+  img {
+    height: 80px;
+    width: 80px;
+  }
+
+  .feature-text {
+    padding: 1rem;
+  }
+}
