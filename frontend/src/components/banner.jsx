@@ -8,10 +8,10 @@ function Banner() {
           Complete <br /> Language <br />
           API
         </h1>
-      <p>
+      <h4>
         Access the most comprehensive lexical language database with our simple
         API
-      </p>
+      </h4>
       </div>
     </>
   );
