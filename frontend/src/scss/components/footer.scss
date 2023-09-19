@@ -1,0 +1,23 @@
+.footer {
+  color: white;
+  background-color: var(--green);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  .footer-header {
+    display: flex;
+    margin: auto;
+
+    h2 {
+      display: flex;
+      align-self: center;
+    }
+
+    img {
+      height: 100px;
+      width: 100px;
+    }
+  }
+
+}

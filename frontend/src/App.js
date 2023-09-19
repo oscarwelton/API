@@ -1,6 +1,9 @@
 import Navbar from "./components/navbar";
 import Banner from "./components/banner";
 import Features from "./components/features";
+import Demo from "./components/demo";
+import Footer from "./components/footer";
+import Form from "./components/form";
 
 function App() {
   return (
@@ -8,18 +11,15 @@ function App() {
       <Navbar />
       <main>
         <Banner />
-        <div className="form">
-          <form action="">
-            <input type="email" placeholder="Email"></input>
-            <button type="submit">Submit</button>
-          </form>
-        </div>
+        <Form />
         <p>
-          *Sign up with a valid email address to receive your <span>free</span>
+          Sign up with a valid email address to receive your <span>free </span>
           API key
         </p>
         <Features />
+        <Demo />
       </main>
+      <Footer />
     </div>
   );
 }
