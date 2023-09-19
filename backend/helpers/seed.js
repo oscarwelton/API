@@ -1,32 +1,32 @@
 const fs = require("fs");
 const Mongoose = require("mongoose");
 const {
-  wordA,
-  wordB,
-  wordC,
-  wordD,
-  wordE,
-  wordF,
-  wordG,
-  wordH,
-  wordI,
-  wordJ,
-  wordK,
-  wordL,
-  wordM,
-  wordN,
-  wordO,
-  wordP,
-  wordQ,
-  wordR,
-  wordS,
-  wordT,
-  wordU,
-  wordV,
-  wordW,
-  wordX,
-  wordY,
-  wordZ,
+  Aword,
+  Bword,
+  Cword,
+  Dword,
+  Eword,
+  Fword,
+  Gword,
+  Hword,
+  Iword,
+  Jword,
+  Kword,
+  Lword,
+  Mword,
+  Nword,
+  Oword,
+  Pword,
+  Qword,
+  Rword,
+  Sword,
+  Tword,
+  Uword,
+  Vword,
+  Wword,
+  Xword,
+  Yword,
+  Zword,
 } = require("../models/word");
 const words = JSON.parse(fs.readFileSync("../data/finalData.json"));
 
@@ -41,89 +41,89 @@ const connect = Mongoose.connect(process.env.MONGO, {
 async function modelSelector(firstLetter, word) {
   switch (firstLetter) {
     case "a":
-      await wordA.create(word);
+      await Aword.create(word);
       break;
     case "b":
-      await wordB.create(word);
+      await Bword.create(word);
       break;
     case "c":
-      await wordC.create(word);
+      await Cword.create(word);
       break;
     case "d":
-      await wordD.create(word);
+      await Dword.create(word);
       break;
     case "e":
-      await wordE.create(word);
+      await Eword.create(word);
       break;
     case "f":
-      await wordF.create(word);
+      await Fword.create(word);
       break;
     case "g":
-      await wordG.create(word);
+      await Gword.create(word);
       break;
     case "h":
-      await wordH.create(word);
+      await Hword.create(word);
       break;
     case "i":
-      await wordI.create(word);
+      await Iword.create(word);
       break;
     case "j":
-      await wordJ.create(word);
+      await Jword.create(word);
       break;
     case "k":
-      await wordK.create(word);
+      await Kword.create(word);
       break;
     case "l":
-      await wordL.create(word);
+      await Lword.create(word);
       break;
     case "m":
-      await wordM.create(word);
+      await Mword.create(word);
       break;
     case "n":
-      await wordN.create(word);
+      await Nword.create(word);
       break;
     case "o":
-      await wordO.create(word);
+      await Oword.create(word);
       break;
     case "p":
-      await wordP.create(word);
+      await Pword.create(word);
       break;
     case "q":
-      await wordQ.create(word);
+      await Qword.create(word);
       break;
     case "r":
-      await wordR.create(word);
+      await Rword.create(word);
       break;
     case "s":
-      await wordS.create(word);
+      await Sword.create(word);
       break;
     case "t":
-      await wordT.create(word);
+      await Tword.create(word);
       break;
     case "u":
-      await wordU.create(word);
+      await Uword.create(word);
       break;
     case "v":
-      await wordV.create(word);
+      await Vword.create(word);
       break;
     case "w":
-      await wordW.create(word);
+      await Wword.create(word);
       break;
     case "x":
-      await wordX.create(word);
+      await Xword.create(word);
       break;
     case "y":
-      await wordY.create(word);
+      await Yword.create(word);
       break;
     case "z":
-      await wordZ.create(word);
+      await Zword.create(word);
       break;
     default:
-      console.log("Error");
+      console.log("Error inserting word: ", word.word, " into database.");
   }
 }
 
-connect.then((db) => async () => {
+connect.then(async (db) => {
   console.log("Connected correctly to server");
 
   for (let i = 0; i < words.length; i++) {
@@ -132,6 +132,7 @@ connect.then((db) => async () => {
       word.length = word.word.length;
       const firstLetter = word.word[0].toLowerCase();
       await modelSelector(firstLetter, word);
+      console.log("Inserted word: ", word.word);
     } catch (err) {
       console.log(err);
     }
