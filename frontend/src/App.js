@@ -1,8 +1,11 @@
+import Navbar from "./components/navbar";
+import Banner from "./components/banner";
 
 function App() {
   return (
     <div className="App">
-      <h1>hello world from the React app</h1>
+      <Navbar />
+      <Banner />
     </div>
   );
 }
