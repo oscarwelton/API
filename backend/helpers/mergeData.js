@@ -215,7 +215,6 @@ function removeNonSingles() {
 }
 
 function mergeData() {
-
   insertTypes();
   insertThesaurus();
   insertHyp();
@@ -228,6 +227,6 @@ function mergeData() {
       if (err) throw err;
       console.log("Saved wordList.json", wordList.length);
     }
-  )
+  );
 }
 module.exports = mergeData;
