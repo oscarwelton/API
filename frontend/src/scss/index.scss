@@ -8,10 +8,12 @@
 @import "./components/footer.scss";
 @import "./components/feature.scss";
 
-//variables
-
 :root {
   --green: #053900;
-  --gray: #BCBCBC;
+  --gray: #e5e5e5;
   --inter: 'Inter', sans-serif;
+}
+
+body {
+  color: var(--green)
 }

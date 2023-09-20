@@ -10,11 +10,10 @@ function App() {
     <div className="App">
       <Navbar />
         <Banner />
+        <h3 className="sign-up">
+          Sign up to receive your <span>free</span> API key
+        </h3>
         <Form />
-        <p className="sign-up">
-          Sign up with a valid email address to receive your <span>free </span>
-          API key
-        </p>
         <Features />
         <Demo />
       <Footer />
