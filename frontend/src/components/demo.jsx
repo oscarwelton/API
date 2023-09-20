@@ -9,7 +9,6 @@ function Demo() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("submitted")
     const query = e.target[0].value.toLowerCase().trim();
 
     if (regex.test(query)) {
@@ -20,24 +19,33 @@ function Demo() {
           },
         })
         .then((res) => {
-          setData(res.data);
-          console.log(data['data']);
+          setData(JSON.stringify(res.data, null, 2));
+        })
+        .catch((err) => {
+          console.log(err);
         });
     }
   };
 
   return (
     <div className="demo">
-      <h3 className="demo-title">Live Demo</h3>
-      <div className="form">
+      <h3 className="demo-title">Try Me:</h3>
+      <div className="demo-form">
         <form onSubmit={handleSubmit}>
           <input
             placeholder="search word"
             value={query}
-            onChange={(e) => setQuery(e.target.value)}
+            onChange={(e) => {
+              setQuery(e.target.value);
+              setData("");
+            }}
           />
           <button type="submit">Submit</button>
         </form>
+      </div>
+      <div className="demo-output">
+        <h4>Output:</h4>
+        <pre style={{ whiteSpace: "pre-wrap", tabSize: 4 }}>{data}</pre>
       </div>
     </div>
   );

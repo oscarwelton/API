@@ -130,6 +130,7 @@ function findWord(query) {
     default:
       result = {};
   }
+  return result;
 }
 
 module.exports = {
