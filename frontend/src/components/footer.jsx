@@ -1,5 +1,4 @@
 import spiderSvg from '../resources/spider.svg'
-import Form from './form'
 
 function Footer() {
   return (
@@ -8,7 +7,6 @@ function Footer() {
         <img src={spiderSvg} alt="" />
         <h2>WordWeb API</h2>
       </div>
-        <Form />
         <a href="#">Documentation</a>
         <a href="#">Pricing</a>
 

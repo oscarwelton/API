@@ -1,4 +1,5 @@
 import React from "react";
+import { redirect } from "react-router-dom";
 
 function Documentation() {
   return (
@@ -45,7 +46,8 @@ function Documentation() {
         <p>
           Whilst the official WordNet database comprises of over 150,000 words
           and 115,000 synsets, this API uses a refined subset of the database.
-          Our database contains over 40,000 words and their corresponding synsets.
+          Our database contains over 40,000 words and their corresponding
+          synsets.
         </p>
 
         <p>
@@ -53,10 +55,12 @@ function Documentation() {
           REST APIs and to practice building a full stack application. On this
           basis, the API is not intended to be used in production. I recommend
           using using this API for personal projects and learning purposes only.
-          However, the API is open source and the source code can be found at:
-          <pre>https://github.com/oscarwelton/API</pre>
-          I will welcome any contributions to the project.
+          However, the API is open source and the source code can be found on my
+          GitHub:
         </p>
+        <button onClick={redirect("https://github.com/oscarwelton/API")}>
+          WordWeb Repo
+        </button>
         <p>
           I hope you find this API useful and if you have any questions, please
           feel free to get in touch.
@@ -67,28 +71,38 @@ function Documentation() {
         <h4>Getting Started</h4>
 
         <p>
+          To get started, all users must register for an API key. This is a
+          simple process and can be done by joining the mailing list. Once you
+          have registered, you will be sent an API key to your email address.
+        </p>
 
+        <p>
+          The API key is used to authenticate requests to the API. The API key
+          must be included in the request header as follows:
+          <code>console.log("hello world");</code>
         </p>
       </div>
 
       <div className="section">
         <h4>Examples</h4>
-
       </div>
 
       <div className="section">
         <h4>Error Handling</h4>
-
       </div>
 
       <div className="section">
         <h4>Rate Limiting</h4>
-
       </div>
 
       <div className="section">
         <h4>Endpoints</h4>
-
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat at
+          iste autem, earum quam ab ipsum velit. Quisquam, labore consequuntur
+          iusto dolores optio et, molestiae officia ad, perferendis voluptatem
+          laudantium.
+        </p>
       </div>
 
       <div className="section">
