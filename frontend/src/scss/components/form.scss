@@ -1,17 +1,29 @@
 .form {
-  padding: 0.5rem;
+  padding: 1rem;
   background-color: var(--green);
   text-align: center;
-
-  form {}
+  position: relative;
 
   input {
-    border: none;
     font-size: 1.2rem;
+    padding: 1rem;
+    border-radius: 25px;
+    border: none;
+    width: 100%;
+
+    &:focus {
+      outline: none;
+      box-shadow: inset 4px 0px 2px 1px rgba(0, 0, 0, 0.256);
+    }
   }
 
   button {
+    font-size: 1.2rem;
+    border-radius: 25px;
     border: none;
+    padding: 1rem;
     background-color: var(--gray);
+    position: absolute;
+    right: 1rem;
   }
 }

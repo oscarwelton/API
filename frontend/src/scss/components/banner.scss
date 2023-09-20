@@ -1,7 +1,12 @@
 .banner {
+  background-image: url("../../resources/background.svg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top right;
   position: relative;
 
+  h1 {
+    padding: 1rem;
+    line-height: 1.5;
+  }
 }

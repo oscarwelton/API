@@ -9,16 +9,14 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <main>
         <Banner />
         <Form />
-        <p>
+        <p className="sign-up">
           Sign up with a valid email address to receive your <span>free </span>
           API key
         </p>
         <Features />
         <Demo />
-      </main>
       <Footer />
     </div>
   );

@@ -1,7 +1,7 @@
 function Banner() {
   return (
     <div className="banner">
-      <h1>Access the most comprehensive lexical language database</h1>
+      <h1>The <br />Comprehensive <br />Lexical <br />Language <br />Database</h1>
     </div>
   );
 }
