@@ -3,7 +3,7 @@ import axios from "axios";
 
 function Demo() {
   const [query, setQuery] = useState("");
-  const [data, setData] = useState("");
+  const [data, setData] = useState("Search for a word to view its meaning!");
 
   const regex = /^[a-zA-Z]+$/;
 
@@ -19,7 +19,27 @@ function Demo() {
           },
         })
         .then((res) => {
-          setData(JSON.stringify(res.data, null, 2));
+          const response = res.data;
+
+          if (response.length === 0) {
+            setData(
+              JSON.stringify(
+                {
+                  error: "No Word Found",
+                  message:
+                    "Sorry pal, we couldn't find definitions for the word you were looking for.",
+                  resolution:
+                    "You can try the search again at later time or head to the web instead.",
+                },
+
+                null,
+                2
+              )
+            );
+            return;
+          }
+
+          setData(JSON.stringify(res.data[0], null, 2));
         })
         .catch((err) => {
           console.log(err);
@@ -37,7 +57,6 @@ function Demo() {
             value={query}
             onChange={(e) => {
               setQuery(e.target.value);
-              setData("");
             }}
           />
           <button type="submit">Submit</button>
