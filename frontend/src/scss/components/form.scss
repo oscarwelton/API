@@ -1,6 +1,9 @@
+.form-container {
+  background-color: var(--green);
+}
+
 .form {
   padding: 1rem;
-  background-color: var(--green);
   text-align: center;
   position: relative;
 
@@ -33,6 +36,5 @@
 .sign-up {
   padding: 1rem 1rem 0rem 1rem;
   text-align: center;
-  background-color: var(--green);
   color: white;
 }

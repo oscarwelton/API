@@ -9,13 +9,15 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-        <Banner />
+      <Banner />
+      <div className="form-container">
         <h3 className="sign-up">
           Sign up to receive your <span>free</span> API key
         </h3>
         <Form />
-        <Features />
-        <Demo />
+      </div>
+      <Features />
+      <Demo />
       <Footer />
     </div>
   );
