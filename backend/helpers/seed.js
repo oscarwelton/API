@@ -27,7 +27,7 @@ const {
   Xword,
   Yword,
   Zword,
-} = require("../models/word");
+} = require("../models/Word.js");
 const words = JSON.parse(fs.readFileSync("../data/finalData.json"));
 
 const dotenv = require("dotenv");
