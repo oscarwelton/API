@@ -1,4 +1,6 @@
 const mongoose = require("mongoose");
+const dotenv = require("dotenv");
+dotenv.config();
 
 const {
   Aword,
@@ -30,7 +32,7 @@ const {
 } = require("./models/Word.js");
 
 mongoose.connect(
-  "mongodb+srv://oscarwelton:dictionaryapi@cluster0.1duaotn.mongodb.net/words?retryWrites=true&w=majority",
+  process.env.MONGO,
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
@@ -49,88 +51,85 @@ function findWord(query) {
   switch (firstLetter) {
     case "a":
       result = Aword.find({ word: query.query });
-      break
+      break;
     case "b":
       result = Bword.find({ word: query.query });
-      break
+      break;
     case "c":
       result = Cword.find({ word: query.query });
-      break
+      break;
     case "d":
       result = Dword.find({ word: query.query });
-      break
+      break;
     case "e":
       result = Eword.find({ word: query.query });
-      break
+      break;
     case "f":
       result = Fword.find({ word: query.query });
-      break
+      break;
     case "g":
       result = Gword.find({ word: query.query });
-      break
+      break;
     case "h":
       result = Hword.find({ word: query.query });
-      break
+      break;
     case "i":
       result = Iword.find({ word: query.query });
-      break
+      break;
     case "j":
       result = Jword.find({ word: query.query });
-      break
+      break;
     case "k":
       result = Kword.find({ word: query.query });
-      break
+      break;
     case "l":
       result = Lword.find({ word: query.query });
-      break
+      break;
     case "m":
       result = Mword.find({ word: query.query });
-      break
+      break;
     case "n":
       result = Nword.find({ word: query.query });
-      break
+      break;
     case "o":
       result = Oword.find({ word: query.query });
-      break
+      break;
     case "p":
       result = Pword.find({ word: query.query });
-      break
+      break;
     case "q":
       result = Qword.find({ word: query.query });
-      break
+      break;
     case "r":
       result = Rword.find({ word: query.query });
-      break
+      break;
     case "s":
       result = Sword.find({ word: query.query });
-      break
+      break;
     case "t":
       result = Tword.find({ word: query.query });
-      break
+      break;
     case "u":
       result = Uword.find({ word: query.query });
-      break
+      break;
     case "v":
       result = Vword.find({ word: query.query });
-      break
+      break;
     case "w":
       result = Wword.find({ word: query.query });
-      break
+      break;
     case "x":
       result = Xword.find({ word: query.query });
-      break
+      break;
     case "y":
       result = Yword.find({ word: query.query });
-      break
+      break;
     case "z":
       result = Zword.find({ word: query.query });
-      break
+      break;
     default:
       result = {};
   }
-
-  console.log(result);
-  return result;
 }
 
 module.exports = {
