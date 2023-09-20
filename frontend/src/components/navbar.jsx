@@ -1,8 +1,8 @@
 function Navbar() {
   return (
     <div className="nav">
-      <h3>WordWeb</h3>
-      <a href="#">Documentation</a>
+      <a href="/">WordWeb</a>
+      <a href="/documentation">Documentation</a>
     </div>
   );
 }

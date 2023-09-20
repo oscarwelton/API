@@ -1,3 +1,5 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Documentation from "./pages/documentation";
 import Navbar from "./components/navbar";
 import Banner from "./components/banner";
 import Features from "./components/features";
@@ -7,19 +9,24 @@ import Form from "./components/form";
 
 function App() {
   return (
-    <div className="App">
+    <Router>
       <Navbar />
-      <Banner />
-      <div className="form-container">
-        <h3 className="sign-up">
-          Sign up to receive your <span>free</span> API key
-        </h3>
-        <Form />
-      </div>
-      <Features />
-      <Demo />
+      <Routes>
+        <Route path="/" element={<>
+          <Banner />
+          <div className="form-container">
+            <h3 className="sign-up">
+              Sign up to receive your <span>free</span> API key
+            </h3>
+            <Form />
+          </div>
+          <Features />
+          <Demo />
+        </>} />
+        <Route path="/documentation" element={<Documentation />} />
+      </Routes>
       <Footer />
-    </div>
+    </Router>
   );
 }
 
