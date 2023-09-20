@@ -29,7 +29,7 @@ function Demo() {
 
   return (
     <div className="demo">
-      <h3 className="demo-title">Try Me:</h3>
+      <h3 className="demo-title">Try Me</h3>
       <div className="demo-form">
         <form onSubmit={handleSubmit}>
           <input
@@ -43,8 +43,8 @@ function Demo() {
           <button type="submit">Submit</button>
         </form>
       </div>
+      <h4>Output:</h4>
       <div className="demo-output">
-        <h4>Output:</h4>
         <pre style={{ whiteSpace: "pre-wrap", tabSize: 4 }}>{data}</pre>
       </div>
     </div>
