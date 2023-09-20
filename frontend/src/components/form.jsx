@@ -1,11 +1,27 @@
 import { useState } from "react";
+import axios from "axios";
 
 function Form() {
   const [email, setEmail] = useState("");
 
-  const handleSubmit = (e) => {
+  async function newUser(email) {
+    axios
+      .post(
+        "http://localhost:5000/add",
+        {
+          headers: {
+            "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*",
+          },
+          email: email,
+        },
+      )
+      .then((res) => console.log(res.data));
+  }
+
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log(email);
+    await newUser(email);
   };
 
   return (
