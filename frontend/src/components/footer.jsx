@@ -8,7 +8,6 @@ function Footer() {
         <h2>WordWeb API</h2>
       </div>
         <a href="#">Documentation</a>
-        <a href="#">Pricing</a>
 
         <ul className="social-links">
           <li><a href="#">GitHub</a></li>

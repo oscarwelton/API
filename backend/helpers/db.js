@@ -29,7 +29,7 @@ const {
   Xword,
   Yword,
   Zword,
-} = require("./models/Word.js");
+} = require("../models/Word.js");
 
 mongoose.connect(
   process.env.MONGO,
