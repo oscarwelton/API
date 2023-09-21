@@ -75,7 +75,9 @@ function Documentation() {
             purposes only. However, the API is open source and the source code
             can be found on my GitHub:
           </p>
-          <button onClick={redirect("https://github.com/oscarwelton/API")}>
+          <button
+            onClick={() => redirect("https://github.com/oscarwelton/API")}
+          >
             WordWeb Repo
           </button>
           <p>
