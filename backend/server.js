@@ -1,4 +1,5 @@
 const express = require("express");
+const cookieParser = require("cookie-parser");
 const mongoose = require("mongoose");
 const cors = require("cors");
 const app = express();
@@ -7,7 +8,6 @@ dotenv.config();
 
 const UserManager = require("./controllers/usersController.js");
 const { findWord } = require("./helpers/db.js");
-const User = require("./models/User.js");
 const port = 5000;
 
 mongoose.connect(process.env.MONGO, {
@@ -20,6 +20,7 @@ db.on("error", (error) => console.error("MongoDB connection error:", error));
 db.once("open", () => console.log("MongoDB connected successfully"));
 
 app.use(express.json());
+app.use(cookieParser(process.env.COOKIE_SECRET));
 app.use(cors());
 
 function validateEmail(email) {
@@ -43,7 +44,7 @@ app.post("/new", async (req, res) => {
   res.send("Success");
 });
 
-app.get("/api", async (req, res) => {
+app.get("/demo", async (req, res) => {
   let result = await findWord(req.query);
   res.send(result);
 });
@@ -51,8 +52,12 @@ app.get("/api", async (req, res) => {
 app.get("/verify/:email/:token", async (req, res) => {
   const email = req.params.email;
   const token = req.params.token;
+  const verified = await UserManager.verifyUser(email, token);
 
-  await UserManager.verifyUser(email, token);
+  if (verified) {
+    res.cookie("email", verified.email);
+    res.cookie("apiKey", verified.apiKey);
+  }
 
   res.redirect("http://localhost:3000/documentation");
 });

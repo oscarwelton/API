@@ -13,7 +13,7 @@ function Demo() {
 
     if (regex.test(query)) {
       axios
-        .get("http://localhost:5000/api", {
+        .get("http://localhost:5000/demo", {
           params: {
             query: query,
           },

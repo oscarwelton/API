@@ -15,9 +15,6 @@ function App() {
         <Route path="/" element={<>
           <Banner />
           <div className="form-container">
-            <h3 className="sign-up">
-              Sign up to receive your <span>free</span> API key
-            </h3>
             <Form />
           </div>
           <Features />

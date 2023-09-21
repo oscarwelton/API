@@ -1,4 +1,5 @@
 const User = require("../models/User.js");
+const crypto = require('crypto');
 const mailer = require("nodemailer");
 const dotenv = require("dotenv");
 dotenv.config();
@@ -270,12 +271,12 @@ table, td { color: #000000; } #u_body a { color: #169179; text-decoration: under
   });
 }
 
-function generateApiKey() {
-  return Math.random().toString(36).substr(2, 20);
+function generateApiKey(length = 32) {
+    return crypto.randomBytes(length).toString('hex');
 }
 
-function generateToken() {
-  return Math.random().toString(36).substr(2, 20);
+function generateToken(length = 24) {
+  return crypto.randomBytes(length).toString('hex');
 }
 class UserManager {
   static async createUser(email) {
