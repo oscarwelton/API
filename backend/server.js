@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const dotenv = require("dotenv");
+const UserManager = require("./controllers/usersController.js");
 dotenv.config();
 
 const { findWord } = require("./helpers/db.js");
@@ -10,23 +11,27 @@ const port = 5000;
 app.use(express.json());
 app.use(cors());
 
-app.post("/add", (req, res) => {
+function validateEmail(email) {
+  const regex = /\S+@\S+\.\S+/;
+  return regex.test(email);
+}
+
+app.post("/new", async (req, res) => {
   const user = req.body.email;
 
   if (!validateEmail(user)) {
     return res.status(400).send("Invalid email address");
   }
 
-  // Generate a random API key
-  // Add user to database with Email, API Key, token and Verification status.
-  // Send email to user with verification token.
-
-  // if validation is successful, send response to user with API key.
-
-  // else send error message to user - validation not complete.
-
+  const newUser = await UserManager.addUser(user);
+  console.log(newUser);
   res.send("User has been added to the database");
 });
+
+
+
+
+
 
 app.get("/api", async (req, res) => {
   let result = await findWord(req.query);

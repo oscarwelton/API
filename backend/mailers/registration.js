@@ -5,13 +5,26 @@ dotenv.config();
 const email = process.env.EMAIL;
 const password = process.env.PASSWORD;
 
-console.log(email, password);
+let transporter = mailer.createTransport({
+  host: "smtp.zoho.eu",
+  secure: true,
+  port: 465,
+  auth: {
+    user: email,
+    pass: password,
+  },
+});
 
-const apiKey = "123456"
-const url = `http://localhost:3000/verify/${apiKey}`;
+function sendEmail(userEmail) {
+  const mailOptions = {
+    from: email,
+    to: userEmail,
+    subject: "WordWeb API - Verify your email address",
+    html: verificationEmail,
+  };
 
-const verificationEmail =
-`<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  const verificationEmail = `<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional
+//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
 <head>
 <!--[if gte mso 9]>
@@ -245,31 +258,15 @@ table, td { color: #000000; } #u_body a { color: #169179; text-decoration: under
   <!--[if mso]></div><![endif]-->
   <!--[if IE]></div><![endif]-->
 </body>
+    </html>`;
 
-</html>`;
+  transporter.sendMail(mailOptions, function (err, info) {
+    if (err) {
+      console.error(err);
+    } else {
+      console.log("Email sent: " + info.response);
+    }
+  })
+}
 
-
-let transporter = mailer.createTransport({
-  host: "smtp.zoho.eu",
-  secure: true,
-  port: 465,
-  auth: {
-    user: email,
-    pass: password,
-  },
-});
-
-const mailOptions = {
-  from: email,
-  to: 'oscarwelton@gmail.com',
-  subject: "Sending Email using Node.js",
-  html: verificationEmail,
-};
-
-transporter.sendMail(mailOptions, function (err, info) {
-  if (err) {
-    console.error(err);
-  } else {
-    console.log("Email sent: " + info.response);
-  }
-});
+module.exports = sendEmail;

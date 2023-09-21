@@ -7,7 +7,7 @@ function Form() {
   async function newUser(email) {
     axios
       .post(
-        "http://localhost:5000/api/v1/users/new",
+        "http://localhost:5000/new",
         {
           headers: {
             "Content-Type": "application/json",
