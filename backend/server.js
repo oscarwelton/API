@@ -4,11 +4,33 @@ const mongoose = require("mongoose");
 const cors = require("cors");
 const app = express();
 const dotenv = require("dotenv");
+var RateLimit = require("express-rate-limit");
+var MongoStore = require("rate-limit-mongo");
 dotenv.config();
 
 const UserManager = require("./controllers/usersController.js");
 const { findWord } = require("./helpers/db.js");
 const port = 5000;
+
+const limiter = RateLimit({
+  store: new MongoStore({
+    uri: process.env.MONGO,
+    expireTimeMs: 60 * 1000,
+    errorHandler: console.error.bind(null, "rate-limit-mongo"),
+  }),
+  max: 10,
+  keyGenerator: function (req) {
+    return req.params.apiKey;
+  },
+  handle: function (req, res) {
+    res.status(429).send({
+      error: "Too many requests from this API key, please try again later",
+      status: 429,
+      apiKey: req.params.apiKey,
+      solution: "Please retry after 1 minute",
+    });
+  },
+});
 
 mongoose.connect(process.env.MONGO, {
   useNewUrlParser: true,
@@ -20,6 +42,7 @@ db.on("error", (error) => console.error("MongoDB connection error:", error));
 db.once("open", () => console.log("MongoDB connected successfully"));
 
 app.use(express.json());
+app.use(limiter);
 app.use(cookieParser(process.env.COOKIE_SECRET));
 app.use(cors());
 
@@ -66,7 +89,7 @@ app.listen(port, () => {
   console.log(`Server listening on port ${port}`);
 });
 
-app.get("/api/wordweb/:apiKey/:word", async (req, res) => {
+app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
   const apiKey = req.params.apiKey;
   const query = req.params.word;
 
