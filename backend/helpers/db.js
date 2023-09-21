@@ -1,7 +1,3 @@
-const mongoose = require("mongoose");
-const dotenv = require("dotenv");
-dotenv.config();
-
 const {
   Aword,
   Bword,
@@ -30,19 +26,6 @@ const {
   Yword,
   Zword,
 } = require("../models/Word.js");
-
-mongoose.connect(
-  process.env.MONGO,
-  {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  }
-);
-
-const db = mongoose.connection;
-
-db.on("error", (error) => console.error("MongoDB connection error:", error));
-db.once("open", () => console.log("MongoDB connected successfully"));
 
 function findWord(query) {
   const firstLetter = query.query[0];

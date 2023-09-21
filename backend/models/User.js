@@ -2,7 +2,8 @@ const mongoose = require("mongoose");
 
 const userSchema = new mongoose.Schema({
   email: { type: String, required: true },
-  active: { type: Boolean, required: true, default: false },
+  verified: { type: Boolean, required: true, default: false },
+  token: { type: String, required: true },
   apiKey: { type: String, required: false },
 });
 
