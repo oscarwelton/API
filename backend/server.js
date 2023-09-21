@@ -49,10 +49,9 @@ app.post("/new", async (req, res) => {
   if (user) {
     res.cookie("email", user.email);
     res.cookie("apiKey", user.apiKey);
-    return res.status(400).send("User already exists");
+    return res.send("User already exists");
   }
 
-  // otherwise create new user
   const newUser = await UserManager.createUser(email);
   if (newUser !== null) {
     await UserManager.sendVerificationEmail(email);

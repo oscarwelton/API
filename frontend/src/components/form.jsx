@@ -3,6 +3,7 @@ import axios from "axios";
 
 function Form() {
   const [email, setEmail] = useState("");
+  const [data, setData] = useState([]);
   const [formSubmitted, setFormSubmitted] = useState(false);
 
   async function newUser(email) {
@@ -20,16 +21,15 @@ function Form() {
         }
       )
       .then((res) => {
-        if (res.status === 200) {
-          setFormSubmitted(true);
-        }
+        setData(res.data);
+        console.log(data);
       });
   }
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    document.cookie = "email=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-    document.cookie = "apiKey=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+    // document.cookie = "email=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+    // document.cookie = "apiKey=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
     await newUser(email);
   };
 
