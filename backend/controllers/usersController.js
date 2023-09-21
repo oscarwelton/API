@@ -319,6 +319,11 @@ class UserManager {
     await user.save();
     return user;
   }
+
+  static async validateRequest(apiKey) {
+    const user = await User.findOne({ apiKey });
+    return user ? true : false;
+  }
 }
 
 module.exports = UserManager;

@@ -65,3 +65,21 @@ app.get("/verify/:email/:token", async (req, res) => {
 app.listen(port, () => {
   console.log(`Server listening on port ${port}`);
 });
+
+app.get("/api/wordweb/:apiKey/:word", async (req, res) => {
+  const apiKey = req.params.apiKey;
+  const query = req.params.word;
+
+  if (!apiKey) {
+    return res.status(400).send("No API key provided");
+  }
+
+  const validRequest = await UserManager.validateRequest(apiKey);
+
+  if (!validRequest) {
+    return res.status(401).send("Invalid API key");
+  }
+
+  let result = await findWord({ query });
+  res.send(result);
+});
