@@ -31,45 +31,79 @@ function Form() {
     setFormSubmitted(true);
   };
 
-
   const resubmit = () => {
     setEmail("");
     setFormSubmitted(false);
-    console.log(email)
   };
 
   return (
     <div className="form">
-      {formSubmitted ? (
-        <div className="message">
-          <h2>Check your inbox!</h2>
-          <p>Verify your email to receive your free API Key</p>
-          <p>
-            Haven't received anything? Check your spam folder or{" "}
-            <span id="form-span" onClick={resubmit}>
-              Try Again
-            </span>
-          </p>
-        </div>
-      ) : (
-        <>
-          <h3 className="sign-up">
-            Sign up to receive your <span>free</span> API key
-          </h3>
-          <form onSubmit={handleSubmit}>
-            <input
-              type="email"
-              placeholder="Email"
-              required={true}
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-            />
-            <button type="submit">Submit</button>
-          </form>
-        </>
-      )}
+      <h3 className="sign-up">
+        Sign up to receive your <span>free</span> API key
+      </h3>
+      <form onSubmit={handleSubmit}>
+        <input
+          type="email"
+          placeholder="Email"
+          required={true}
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+        />
+        <button type="submit">Submit</button>
+      </form>
     </div>
   );
 }
+
+// function Default() {
+//   return (
+//     <>
+//       <h3 className="sign-up">
+//         Sign up to receive your <span>free</span> API key
+//       </h3>
+//       <form onSubmit={handleSubmit}>
+//         <input
+//           type="email"
+//           placeholder="Email"
+//           required={true}
+//           value={email}
+//           onChange={(e) => setEmail(e.target.value)}
+//         />
+//         <button type="submit">Submit</button>
+//       </form>
+//     </>
+//   );
+// }
+
+// function Created() {
+//   return (
+//     <div className="message">
+//       <h2>Check your inbox!</h2>
+//       <p>Verify your email to receive your free API Key</p>
+//       <p>
+//         Haven't received anything? Check your spam folder or{" "}
+//         <span id="form-span" onClick={resendEmail}>
+//           Try Again
+//         </span>
+//       </p>
+//     </div>
+//   );
+// }
+
+// function Exists() {
+//   return (
+//     <div className="message">
+//       <h2>Look like you've already signed up!</h2>
+//       <p>If you have already confirmed your email,
+//         you can view your API Key in the documentation.</p>
+//       <p>
+//         Haven't received an email? Check your spam folder or{" "}
+//         <span id="form-span" onClick={resendEmail}>
+//           Resend Confirmation
+//         </span>
+//       </p>
+//     </div>
+//   );
+// }
 
 export default Form;
