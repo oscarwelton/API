@@ -36,7 +36,13 @@ db.once("open", () => console.log("MongoDB connected successfully"));
 app.use(express.json());
 app.use(limiter);
 app.use(cookieParser(process.env.COOKIE_SECRET));
-app.use(cors());
+
+const corsOptions = {
+  origin: "http://localhost:3000",
+  optionsSuccessStatus: 200,
+};
+
+app.use(cors(corsOptions));
 
 app.get("/demo", async (req, res) => {
   let result = await findWord(req.query);
@@ -44,18 +50,25 @@ app.get("/demo", async (req, res) => {
 });
 
 app.post("/new", async (req, res) => {
-  const email = req.body.email;
-  const user = await UserManager.getUser(email);
-  if (user) {
-    res.cookie("email", user.email);
-    res.cookie("apiKey", user.apiKey);
-    return res.send("User already exists");
-  }
+  try {
+    const email = req.body.email;
+    const user = await UserManager.getUser(email);
 
-  const newUser = await UserManager.createUser(email);
-  if (newUser !== null) {
-    await UserManager.sendVerificationEmail(email);
-    res.send("User created successfully");
+    if (user) {
+      res.cookie("email", user.email);
+      res.cookie("apiKey", user.apiKey);
+      return res.send("exists");
+    }
+
+    const newUser = await UserManager.createUser(email);
+
+    if (newUser !== null) {
+      await UserManager.sendVerificationEmail(email);
+      return res.send("created");
+    }
+    return res.send("error");
+  } catch (error) {
+    console.error(error);
   }
 });
 

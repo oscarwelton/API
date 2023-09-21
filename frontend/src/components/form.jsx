@@ -15,27 +15,27 @@ function Form() {
         },
         {
           headers: {
-            "Content-Type": "application/json",
             "Access-Control-Allow-Origin": "*",
           },
         }
       )
       .then((res) => {
         setData(res.data);
-        console.log(data);
+        console.log(res.data);
       });
   }
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // document.cookie = "email=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-    // document.cookie = "apiKey=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
     await newUser(email);
+    setFormSubmitted(true);
   };
+
 
   const resubmit = () => {
     setEmail("");
     setFormSubmitted(false);
+    console.log(email)
   };
 
   return (
