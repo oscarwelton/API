@@ -10,7 +10,7 @@ dotenv.config();
 
 const UserManager = require("./controllers/usersController.js");
 const { findWord } = require("./helpers/db.js");
-const port = 5000;
+const PORT = process.env.PORT || 5001;
 
 const limiter = RateLimit({
   store: new MongoStore({
@@ -21,14 +21,6 @@ const limiter = RateLimit({
   max: 10,
   keyGenerator: function (req) {
     return req.params.apiKey;
-  },
-  handle: function (req, res) {
-    res.status(429).send({
-      error: "Too many requests from this API key, please try again later",
-      status: 429,
-      apiKey: req.params.apiKey,
-      solution: "Please retry after 1 minute",
-    });
   },
 });
 
@@ -46,31 +38,38 @@ app.use(limiter);
 app.use(cookieParser(process.env.COOKIE_SECRET));
 app.use(cors());
 
-function validateEmail(email) {
-  const regex = /\S+@\S+\.\S+/;
-  return regex.test(email);
-}
 
-app.post("/new", async (req, res) => {
-  const user = req.body.email;
-
-  if (!validateEmail(user)) {
-    return res.status(400).send("Invalid email address");
-  }
-
-  const newUser = await UserManager.createUser(user);
-
-  if (newUser) {
-    await UserManager.sendVerificationEmail(user);
-  }
-
-  res.send("Success");
-});
 
 app.get("/demo", async (req, res) => {
   let result = await findWord(req.query);
   res.send(result);
 });
+
+
+
+function validateEmail(email) {
+  const regex = /\S+@\S+\.\S+/;
+  return regex.test(email);
+}
+
+
+
+
+app.post("/new", async (req, res) => {
+  const email = req.body.email;
+  if (!validateEmail(email)) {
+    return res.status(400).send("Invalid email address");
+  }
+  const newUser = await UserManager.createUser(email);
+
+  if (newUser !== null) {
+    await UserManager.sendVerificationEmail(email);
+    res.send("User created successfully");
+  }
+});
+
+
+
 
 app.get("/verify/:email/:token", async (req, res) => {
   const email = req.params.email;
@@ -85,9 +84,9 @@ app.get("/verify/:email/:token", async (req, res) => {
   res.redirect("http://localhost:3000/documentation");
 });
 
-app.listen(port, () => {
-  console.log(`Server listening on port ${port}`);
-});
+
+
+
 
 app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
   const apiKey = req.params.apiKey;
@@ -105,4 +104,11 @@ app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
 
   let result = await findWord({ query });
   res.send(result);
+});
+
+
+
+
+app.listen(PORT, () => {
+  console.log(`Server listening on port ${PORT}`);
 });

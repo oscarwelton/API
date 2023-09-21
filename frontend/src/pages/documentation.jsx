@@ -100,7 +100,6 @@ function Documentation() {
           <p>
             The API key is used to authenticate requests to the API. The API key
             must be included in the request header as follows:
-            <code>console.log("hello world");</code>
           </p>
         </div>
 

@@ -55,6 +55,7 @@ function Demo() {
           <input
             placeholder="search word"
             value={query}
+            required={true}
             onChange={(e) => {
               setQuery(e.target.value);
             }}

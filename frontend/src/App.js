@@ -21,7 +21,6 @@ function App() {
           <Demo />
         </>} />
         <Route path="/documentation" element={<Documentation />} />
-        <Route path="/verfiy/:email/:token" element={<h1>Verifying...</h1>} />
       </Routes>
       <Footer />
     </Router>

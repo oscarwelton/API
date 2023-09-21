@@ -1,5 +1,5 @@
 const User = require("../models/User.js");
-const crypto = require('crypto');
+const crypto = require("crypto");
 const mailer = require("nodemailer");
 const dotenv = require("dotenv");
 dotenv.config();
@@ -272,11 +272,11 @@ table, td { color: #000000; } #u_body a { color: #169179; text-decoration: under
 }
 
 function generateApiKey(length = 32) {
-    return crypto.randomBytes(length).toString('hex');
+  return "wordweb" + crypto.randomBytes(length).toString("hex");
 }
 
 function generateToken(length = 24) {
-  return crypto.randomBytes(length).toString('hex');
+  return crypto.randomBytes(length).toString("hex");
 }
 class UserManager {
   static async createUser(email) {
@@ -286,8 +286,12 @@ class UserManager {
       verified: false,
       apiKey: "",
     });
-    await user.save();
-    return user;
+    try {
+      await user.save();
+      return user;
+    } catch (err) {
+      return null;
+    }
   }
 
   static async findUser(email, token) {

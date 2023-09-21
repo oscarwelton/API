@@ -6,21 +6,41 @@ function Form() {
   const [formSubmitted, setFormSubmitted] = useState(false);
 
   async function newUser(email) {
-    axios
-      .post("http://localhost:5000/new", {
-        headers: {
-          "Content-Type": "application/json",
-          "Access-Control-Allow-Origin": "*",
+    await axios
+      .post(
+        "http://localhost:5000/new",
+        {
+          email: email.toLowerCase().trim(),
         },
-        email: email,
-      })
-      .then((res) => console.log(res.data));
+        {
+          headers: {
+            "Content-Type": "application/json",
+            "Access-Control-Allow-Origin": "*",
+          },
+        }
+      )
+      .then((res) => {
+        console.log(res);
+      });
   }
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    setFormSubmitted(true);
-    await newUser(email);
+    const user = await newUser(email);
+
+    if (user === "Error") {
+      alert("Email already exists");
+      return;
+    }
+
+    if (user === "Success") {
+      setFormSubmitted(true);
+    }
+  };
+
+  const resubmit = () => {
+    setEmail("");
+    setFormSubmitted(false);
   };
 
   return (
@@ -28,7 +48,13 @@ function Form() {
       {formSubmitted ? (
         <div className="message">
           <h2>Check your inbox!</h2>
-          <p>Verify your email address to receive your free API Key</p>
+          <p>
+            An email has been sent to. Verify your email to receive your free
+            API Key
+          </p>
+          <p>
+            Not working? <button onClick={resubmit}>Try Again</button>
+          </p>
         </div>
       ) : (
         <>
@@ -39,6 +65,7 @@ function Form() {
             <input
               type="email"
               placeholder="Email"
+              required={true}
               value={email}
               onChange={(e) => setEmail(e.target.value)}
             />
