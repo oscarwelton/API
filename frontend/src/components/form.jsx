@@ -20,22 +20,17 @@ function Form() {
         }
       )
       .then((res) => {
-        console.log(res);
+        if (res.status === 200) {
+          setFormSubmitted(true);
+        }
       });
   }
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const user = await newUser(email);
-
-    if (user === "Error") {
-      alert("Email already exists");
-      return;
-    }
-
-    if (user === "Success") {
-      setFormSubmitted(true);
-    }
+    document.cookie = "email=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+    document.cookie = "apiKey=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+    await newUser(email);
   };
 
   const resubmit = () => {
@@ -48,12 +43,12 @@ function Form() {
       {formSubmitted ? (
         <div className="message">
           <h2>Check your inbox!</h2>
+          <p>Verify your email to receive your free API Key</p>
           <p>
-            An email has been sent to. Verify your email to receive your free
-            API Key
-          </p>
-          <p>
-            Not working? <button onClick={resubmit}>Try Again</button>
+            Haven't received anything? Check your spam folder or{" "}
+            <span id="form-span" onClick={resubmit}>
+              Try Again
+            </span>
           </p>
         </div>
       ) : (

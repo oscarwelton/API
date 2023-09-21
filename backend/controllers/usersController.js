@@ -278,24 +278,27 @@ function generateApiKey(length = 32) {
 function generateToken(length = 24) {
   return crypto.randomBytes(length).toString("hex");
 }
+
 class UserManager {
   static async createUser(email) {
-    const user = new User({
+    const newUser = new User({
       email,
       token: generateToken(),
       verified: false,
       apiKey: "",
     });
+
     try {
-      await user.save();
-      return user;
+      await newUser.save();
+      return newUser;
     } catch (err) {
       return null;
     }
   }
 
-  static async findUser(email, token) {
-    return User.find({ email, token });
+  static async getUser(email) {
+    const user = await User.findOne({ email });
+    return user;
   }
 
   static async sendVerificationEmail(email) {

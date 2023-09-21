@@ -40,3 +40,13 @@
 .message {
   color: white;
 }
+
+#form-span {
+  text-decoration: underline;
+  font-weight: 500;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--gray);
+  }
+}

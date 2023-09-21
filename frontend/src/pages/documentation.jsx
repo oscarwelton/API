@@ -21,10 +21,6 @@ function Documentation() {
 
   return (
     <>
-    <div className="cookieData">
-      <p>Email: {email}</p>
-      <p>API Key: {apiKey}</p>
-    </div>
       <div className="documentation">
         <h3>Documentation</h3>
         <ul className="links">

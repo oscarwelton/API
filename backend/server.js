@@ -38,38 +38,27 @@ app.use(limiter);
 app.use(cookieParser(process.env.COOKIE_SECRET));
 app.use(cors());
 
-
-
 app.get("/demo", async (req, res) => {
   let result = await findWord(req.query);
   res.send(result);
 });
 
-
-
-function validateEmail(email) {
-  const regex = /\S+@\S+\.\S+/;
-  return regex.test(email);
-}
-
-
-
-
 app.post("/new", async (req, res) => {
   const email = req.body.email;
-  if (!validateEmail(email)) {
-    return res.status(400).send("Invalid email address");
+  const user = await UserManager.getUser(email);
+  if (user) {
+    res.cookie("email", user.email);
+    res.cookie("apiKey", user.apiKey);
+    return res.status(400).send("User already exists");
   }
-  const newUser = await UserManager.createUser(email);
 
+  // otherwise create new user
+  const newUser = await UserManager.createUser(email);
   if (newUser !== null) {
     await UserManager.sendVerificationEmail(email);
     res.send("User created successfully");
   }
 });
-
-
-
 
 app.get("/verify/:email/:token", async (req, res) => {
   const email = req.params.email;
@@ -83,10 +72,6 @@ app.get("/verify/:email/:token", async (req, res) => {
 
   res.redirect("http://localhost:3000/documentation");
 });
-
-
-
-
 
 app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
   const apiKey = req.params.apiKey;
@@ -105,9 +90,6 @@ app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
   let result = await findWord({ query });
   res.send(result);
 });
-
-
-
 
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
