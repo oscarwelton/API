@@ -34,13 +34,30 @@ function Form() {
   };
 
   const resendEmail = () => {
-    setEmail("");
+    try {
+      console.log(email);
+      axios.post(
+        "http://localhost:5000/resend",
+        {
+          email: email.toLowerCase().trim(),
+        },
+        {
+          headers: {
+            "Access-Control-Allow-Origin": "*",
+          },
+        }
+      );
+    } catch (err) {
+      console.log(err);
+    } finally {
+      setData(3);
+    }
   };
 
   if (data === 1) {
     return (
       <div className="message">
-        <h2>Look like you've already signed up!</h2>
+        <h4>Look like you've already signed up!</h4>
         <p>
           If you have already confirmed your email, you can view your API Key in
           the documentation.
@@ -56,14 +73,22 @@ function Form() {
   } else if (data === 2) {
     return (
       <div className="message">
-        <h2>Check your inbox!</h2>
+        <h4>Check your inbox!</h4>
         <p>Verify your email to receive your free API Key</p>
         <p>
           Haven't received anything? Check your spam folder or{" "}
-          <span id="form-span" onClick={resendEmail}>
+          <span id="form-span" onClick={setData(3)}>
             Try Again
           </span>
         </p>
+      </div>
+    );
+  } else if (data === 3) {
+    return (
+      <div className="message">
+        <h4>Check your inbox!</h4>
+        <p>Verify your email to receive your free API Key.</p>
+        <p>If you have not received an email from us, please try again later.</p>
       </div>
     );
   } else {

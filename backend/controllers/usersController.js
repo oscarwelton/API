@@ -311,18 +311,6 @@ class UserManager {
     }
   }
 
-  static async resendVerificationEmail(email) {
-    const user = await User.findOne({ email });
-
-    if (user) {
-      const userMail = user.email;
-      const token = user.token;
-
-      const url = `http://localhost:5000/verify/${userMail}/${token}`;
-      sendEmail(userMail, url);
-    }
-  }
-
   static async verifyUser(email, token) {
     const user = await User.findOne({ email, token });
 

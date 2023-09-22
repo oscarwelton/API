@@ -57,16 +57,16 @@ app.post("/new", async (req, res) => {
     if (user) {
       res.cookie("email", user.email);
       res.cookie("apiKey", user.apiKey);
-      return res.send('1');
+      return res.send("1");
     }
 
     const newUser = await UserManager.createUser(email);
 
     if (newUser !== null) {
       await UserManager.sendVerificationEmail(email);
-      return res.send('2');
+      return res.send("2");
     }
-    return res.send('3');
+    return res.send("3");
   } catch (error) {
     console.error(error);
   }
@@ -83,6 +83,19 @@ app.get("/verify/:email/:token", async (req, res) => {
   }
 
   res.redirect("http://localhost:3000/documentation");
+});
+
+app.post("/resend", async (req, res) => {
+  const email = req.body.email;
+  console.log(email);
+  const user = await UserManager.getUser(email);
+
+  if (user) {
+    await UserManager.sendVerificationEmail(email);
+    return res.send("1");
+  }
+
+  return res.send("0");
 });
 
 app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
