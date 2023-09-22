@@ -265,8 +265,6 @@ table, td { color: #000000; } #u_body a { color: #169179; text-decoration: under
   transporter.sendMail(mailOptions, function (err, info) {
     if (err) {
       console.error(err);
-    } else {
-      console.log("Email sent: " + info.response);
     }
   });
 }

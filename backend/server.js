@@ -57,16 +57,16 @@ app.post("/new", async (req, res) => {
     if (user) {
       res.cookie("email", user.email);
       res.cookie("apiKey", user.apiKey);
-      return res.send("exists");
+      return res.send('1');
     }
 
     const newUser = await UserManager.createUser(email);
 
     if (newUser !== null) {
       await UserManager.sendVerificationEmail(email);
-      return res.send("created");
+      return res.send('2');
     }
-    return res.send("error");
+    return res.send('3');
   } catch (error) {
     console.error(error);
   }
