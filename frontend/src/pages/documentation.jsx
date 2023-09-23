@@ -1,26 +1,11 @@
-import { React, useState, useEffect } from "react";
+import { React } from "react";
 import { redirect } from "react-router-dom";
+import User from "../components/user";
 
 function Documentation() {
-  const [email, setEmail] = useState("");
-  const [apiKey, setApiKey] = useState("");
-
-  useEffect(() => {
-    const getCookie = (name) => {
-      const value = `; ${document.cookie}`;
-      const parts = value.split(`; ${name}=`);
-      if (parts.length === 2) return parts.pop().split(";").shift();
-    };
-
-    const emailCookie = getCookie("email");
-    const apiKeyCookie = getCookie("apiKey");
-
-    setEmail(emailCookie);
-    setApiKey(apiKeyCookie);
-  }, []);
-
   return (
     <>
+      <User />
       <div className="documentation">
         <h3>Documentation</h3>
         <ul className="links">

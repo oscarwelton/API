@@ -4,8 +4,8 @@ const mailer = require("nodemailer");
 const dotenv = require("dotenv");
 dotenv.config();
 
-const email = "wordweb@mail.com";
-const password = "AZVmDnHaeSvh";
+const email = "oscarwelton@gmail.com";
+const password = "wordwebapi@1";
 
 function sendEmail(userMail, url) {
   const verificationEmail = `<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional

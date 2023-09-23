@@ -94,9 +94,9 @@ function Form() {
   } else {
     return (
       <div className="form">
-        <h3 className="sign-up">
+        <h6 className="sign-up">
           Sign up to receive your <span>free</span> API key
-        </h3>
+        </h6>
         <form onSubmit={handleSubmit}>
           <input
             type="email"
