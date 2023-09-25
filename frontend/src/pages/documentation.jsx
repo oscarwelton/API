@@ -3,6 +3,7 @@ import { redirect } from "react-router-dom";
 import User from "../components/user";
 
 function Documentation() {
+
   return (
     <>
       <User />

@@ -9,7 +9,7 @@ var MongoStore = require("rate-limit-mongo");
 dotenv.config();
 
 const UserManager = require("./controllers/usersController.js");
-const { findWord } = require("./helpers/db.js");
+const { findWord } = require("./controllers/wordsController.js");
 const PORT = process.env.PORT || 5001;
 
 const limiter = RateLimit({
@@ -37,6 +37,13 @@ app.use(express.json());
 app.use(limiter);
 app.use(cookieParser(process.env.COOKIE_SECRET));
 
+const cookieOptions = {
+  maxAge: 1000 * 60,
+  // httpOnly: true,
+  // secure: true,
+};
+
+
 const corsOptions = {
   origin: "http://localhost:3000",
   optionsSuccessStatus: 200,
@@ -46,6 +53,7 @@ app.use(cors(corsOptions));
 
 app.get("/demo", async (req, res) => {
   let result = await findWord(req.query);
+  result = result[0];
   res.send(result);
 });
 
@@ -78,8 +86,8 @@ app.get("/verify/:email/:token", async (req, res) => {
   const verified = await UserManager.verifyUser(email, token);
 
   if (verified) {
-    res.cookie("email", verified.email);
-    res.cookie("apiKey", verified.apiKey);
+    res.cookie("email", verified.email, cookieOptions);
+    res.cookie("apiKey", verified.apiKey, cookieOptions);
   }
 
   res.redirect("http://localhost:3000/documentation");

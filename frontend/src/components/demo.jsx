@@ -39,7 +39,7 @@ function Demo() {
             return;
           }
 
-          setData(JSON.stringify(res.data[0], null, 2));
+          setData(JSON.stringify(res.data, null, 2));
         })
         .catch((err) => {
           console.log(err);

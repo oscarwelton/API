@@ -269,11 +269,11 @@ table, td { color: #000000; } #u_body a { color: #169179; text-decoration: under
   });
 }
 
-function generateApiKey(length = 32) {
+function generateApiKey(length = 24) {
   return "wordweb" + crypto.randomBytes(length).toString("hex");
 }
 
-function generateToken(length = 24) {
+function generateToken(length = 16) {
   return crypto.randomBytes(length).toString("hex");
 }
 

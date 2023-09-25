@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import axios from "axios";
 import Form from "./form";
 
 function User() {
@@ -20,17 +19,26 @@ function User() {
       setShowForm(false);
       setEmail(getCookie("email"));
       setApiKey(getCookie("apiKey"));
+      console.log(emailCookie, apiKeyCookie);
     }
   }, []);
+
+  function clipboard() {
+    const id = document.getElementById("key");
+    const text = id.innerText;
+    navigator.clipboard.writeText(text);
+    alert("API Key Copied to clipboard!");
+  }
 
   return (
     <div className="user">
       {showForm ? (
         <Form />
       ) : (
-        <div className="message">
-          <h4>Look like you've already signed up!</h4>
-          <p>Check your email for your API key.</p>
+        <div className="user-details">
+          <p><strong>Email:</strong> {emailCookie}</p>
+          <p id="key"><strong>API Key:</strong> {apiKeyCookie}</p>
+          <button onClick={clipboard}>Copy</button>
         </div>
       )}
     </div>
