@@ -33,9 +33,6 @@ const db = mongoose.connection;
 db.on("error", (error) => console.error("MongoDB connection error:", error));
 db.once("open", () => console.log("MongoDB connected successfully"));
 
-app.use(express.json());
-app.use(limiter);
-app.use(cookieParser(process.env.COOKIE_SECRET));
 
 const cookieOptions = {
   maxAge: 1000 * 60,
@@ -43,17 +40,19 @@ const cookieOptions = {
   // secure: true,
 };
 
-
 const corsOptions = {
   origin: "http://localhost:3000",
   optionsSuccessStatus: 200,
 };
 
+app.use(express.json());
+app.use(limiter);
+app.use(cookieParser(process.env.COOKIE_SECRET));
 app.use(cors(corsOptions));
+
 
 app.get("/demo", async (req, res) => {
   let result = await findWord(req.query);
-  result = result[0];
   res.send(result);
 });
 
@@ -62,7 +61,7 @@ app.post("/new", async (req, res) => {
     const email = req.body.email;
     const user = await UserManager.getUser(email);
 
-    if (user) {
+    if (user && user.verified) {
       res.cookie("email", user.email);
       res.cookie("apiKey", user.apiKey);
       return res.send("1");
@@ -83,8 +82,9 @@ app.post("/new", async (req, res) => {
 app.get("/verify/:email/:token", async (req, res) => {
   const email = req.params.email;
   const token = req.params.token;
-  const verified = await UserManager.verifyUser(email, token);
 
+
+  const verified = await UserManager.verifyUser(email, token);
   if (verified) {
     res.cookie("email", verified.email, cookieOptions);
     res.cookie("apiKey", verified.apiKey, cookieOptions);
@@ -115,7 +115,6 @@ app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
   }
 
   const validRequest = await UserManager.validateRequest(apiKey);
-
   if (!validRequest) {
     return res.status(401).send("Invalid API key");
   }

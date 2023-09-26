@@ -30,12 +30,22 @@ function User() {
     alert("API Key Copied to clipboard!");
   }
 
+  function clearData() {
+    setShowForm(true);
+    document.cookie = "email=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
+    document.cookie = "apiKey=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;"
+    setEmail("");
+    setApiKey("");
+  }
+
   return (
     <div className="user">
       {showForm ? (
         <Form />
       ) : (
         <div className="user-details">
+          <button onClick={clearData}>clear</button>
+          <h3>Account Details</h3>
           <p><strong>Email:</strong> {emailCookie}</p>
           <p id="key"><strong>API Key:</strong> {apiKeyCookie}</p>
           <button onClick={clipboard}>Copy</button>

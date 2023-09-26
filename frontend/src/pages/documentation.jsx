@@ -1,12 +1,12 @@
 import { React } from "react";
 import { redirect } from "react-router-dom";
 import User from "../components/user";
+import Form from "../components/form";
 
 function Documentation() {
 
   return (
     <>
-      <User />
       <div className="documentation">
         <h3>Documentation</h3>
         <ul className="links">
@@ -29,6 +29,9 @@ function Documentation() {
             <a href="#endpoints">Endpoints</a>
           </li>
         </ul>
+
+        <Form />
+        <User />
 
         <div className="section">
           <h4>Introduction</h4>

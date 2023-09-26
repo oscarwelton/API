@@ -27,92 +27,107 @@ const {
   Zword,
 } = require("../models/Word.js");
 
-function findWord(query) {
+async function findWord(query) {
   const firstLetter = query.query[0];
   let result = {};
 
   switch (firstLetter) {
     case "a":
-      result = Aword.find({ word: query.query });
+      result = await Aword.find({ word: query.query });
       break;
     case "b":
-      result = Bword.find({ word: query.query });
+      result = await Bword.find({ word: query.query });
       break;
     case "c":
-      result = Cword.find({ word: query.query });
+      result = await Cword.find({ word: query.query });
       break;
     case "d":
-      result = Dword.find({ word: query.query });
+      result = await Dword.find({ word: query.query });
       break;
     case "e":
-      result = Eword.find({ word: query.query });
+      result = await Eword.find({ word: query.query });
       break;
     case "f":
-      result = Fword.find({ word: query.query });
+      result = await Fword.find({ word: query.query });
       break;
     case "g":
-      result = Gword.find({ word: query.query });
+      result = await Gword.find({ word: query.query });
       break;
     case "h":
-      result = Hword.find({ word: query.query });
+      result = await Hword.find({ word: query.query });
       break;
     case "i":
-      result = Iword.find({ word: query.query });
+      result = await Iword.find({ word: query.query });
       break;
     case "j":
-      result = Jword.find({ word: query.query });
+      result = await Jword.find({ word: query.query });
       break;
     case "k":
-      result = Kword.find({ word: query.query });
+      result = await Kword.find({ word: query.query });
       break;
     case "l":
-      result = Lword.find({ word: query.query });
+      result = await Lword.find({ word: query.query });
       break;
     case "m":
-      result = Mword.find({ word: query.query });
+      result = await Mword.find({ word: query.query });
       break;
     case "n":
-      result = Nword.find({ word: query.query });
+      result = await Nword.find({ word: query.query });
       break;
     case "o":
-      result = Oword.find({ word: query.query });
+      result = await Oword.find({ word: query.query });
       break;
     case "p":
-      result = Pword.find({ word: query.query });
+      result = await Pword.find({ word: query.query });
       break;
     case "q":
-      result = Qword.find({ word: query.query });
+      result = await Qword.find({ word: query.query });
       break;
     case "r":
-      result = Rword.find({ word: query.query });
+      result = await Rword.find({ word: query.query });
       break;
     case "s":
-      result = Sword.find({ word: query.query });
+      result = await Sword.find({ word: query.query });
       break;
     case "t":
-      result = Tword.find({ word: query.query });
+      result = await Tword.find({ word: query.query });
       break;
     case "u":
-      result = Uword.find({ word: query.query });
+      result = await Uword.find({ word: query.query });
       break;
     case "v":
-      result = Vword.find({ word: query.query });
+      result = await Vword.find({ word: query.query });
       break;
     case "w":
-      result = Wword.find({ word: query.query });
+      result = await Wword.find({ word: query.query });
       break;
     case "x":
-      result = Xword.find({ word: query.query });
+      result = await Xword.find({ word: query.query });
       break;
     case "y":
-      result = Yword.find({ word: query.query });
+      result = await Yword.find({ word: query.query });
       break;
     case "z":
-      result = Zword.find({ word: query.query });
+      result = await Zword.find({ word: query.query });
       break;
     default:
       result = {};
   }
+
+  result = result[0];
+
+  result = {
+    word: result.word,
+    length: result.length,
+    definition: result.definition,
+    pos: result.pos,
+    meanings: result.meanings,
+    synonyms: result.synonyms,
+    antonyms: result.antonyms,
+    hypernyms: result.hypernyms,
+    hyponyms: result.hyponyms,
+  }
+
   return result;
 }
 

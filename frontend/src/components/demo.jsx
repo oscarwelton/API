@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import axios from "axios";
 
 function Demo() {
@@ -15,7 +15,7 @@ function Demo() {
       axios
         .get("http://localhost:5000/demo", {
           params: {
-            query: query,
+            query,
           },
         })
         .then((res) => {

@@ -21,7 +21,6 @@ function Form() {
         )
         .then((res) => {
           setData(parseInt(res.data));
-          console.log(res.data);
         });
     } catch (err) {
       console.log(err);
@@ -35,7 +34,6 @@ function Form() {
 
   const resendEmail = () => {
     try {
-      console.log(email);
       axios.post(
         "http://localhost:5000/resend",
         {
@@ -55,21 +53,9 @@ function Form() {
   };
 
   if (data === 1) {
-    return (
-      <div className="message">
-        <h4>Look like you've already signed up!</h4>
-        <p>
-          If you have already confirmed your email, you can view your API Key in
-          the documentation.
-        </p>
-        <p>
-          Haven't received an email? Check your spam folder or{" "}
-          <span id="form-span" onClick={resendEmail}>
-            Resend Confirmation
-          </span>
-        </p>
-      </div>
-    );
+    <>
+      <p>Show user data here.</p>
+    </>;
   } else if (data === 2) {
     return (
       <div className="message">
@@ -88,7 +74,9 @@ function Form() {
       <div className="message">
         <h4>Check your inbox!</h4>
         <p>Verify your email to receive your free API Key.</p>
-        <p>If you have not received an email from us, please try again later.</p>
+        <p>
+          If you have not received an email from us, please try again later.
+        </p>
       </div>
     );
   } else {

@@ -313,16 +313,18 @@ class UserManager {
 
   static async verifyUser(email, token) {
     const user = await User.findOne({ email, token });
-
     if (!user) {
       throw new Error("User not found");
     }
 
-    user.apiKey = generateApiKey();
-    user.verified = true;
-
-    await user.save();
-    return user;
+    if (user.verified) {
+      return user;
+    } else {
+      user.verified = true;
+      user.apiKey = generateApiKey();
+      await user.save();
+      return user;
+    }
   }
 
   static async validateRequest(apiKey) {
