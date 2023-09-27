@@ -24,16 +24,14 @@ function Form() {
             headers: {
               "Access-Control-Allow-Origin": "*",
             },
+            withCredentials: true,
           }
         )
         .then(async (response) => {
           setData(response.data);
           if (response.data === "verified") {
-            console.log(response);
-            setTimeout(async () => {
-              const apiKeyCookie = await getCookie("apiKey");
-              setApiKey(apiKeyCookie);
-            }, 3000);
+            const apiKeyCookie = await getCookie("apiKey");
+            setApiKey(apiKeyCookie);
           }
         });
     } catch (err) {

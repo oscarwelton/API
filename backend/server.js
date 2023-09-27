@@ -34,14 +34,15 @@ db.on("error", (error) => console.error("MongoDB connection error:", error));
 db.once("open", () => console.log("MongoDB connected successfully"));
 
 const corsOptions = {
+  credentials: true,
   origin: "http://localhost:3000",
-  optionsSuccessStatus: 200,
 };
+app.use(cors(corsOptions));
+
+app.use(cookieParser(process.env.COOKIE_SECRET));
 
 app.use(express.json());
 app.use(limiter);
-app.use(cookieParser());
-app.use(cors(corsOptions));
 
 app.get("/demo", async (req, res) => {
   let result = await findWord(req.query);
@@ -54,8 +55,20 @@ app.post("/new", async (req, res) => {
     const user = await UserManager.getUser(email);
 
     if (user && user.verified) {
-      res.cookie("email", user.email);
-      res.cookie("apiKey", user.apiKey);
+      console.log(user.email)
+      res.cookie("email", user.email, {
+        maxAge: 3600 * 1000,
+        domain: "localhost",
+        sameSite: "lax",
+      });
+
+      console.log(user.apiKey)
+      res.cookie("apiKey", user.apiKey, {
+        maxAge: 3600 * 1000,
+        domain: "localhost",
+        sameSite: "lax",
+      });
+
       return res.send("verified");
     } else if (user && !user.verified) {
       return res.send("unverified");
@@ -115,14 +128,4 @@ app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
-});
-
-app.get("/check-cookies", (req, res) => {
-  const emailCookie = req.cookies.email;
-  const apiKeyCookie = req.cookies.apiKey;
-
-  console.log("Email Cookie:", emailCookie);
-  console.log("API Key Cookie:", apiKeyCookie);
-
-  res.send("Cookies checked. Check console for output.");
 });
