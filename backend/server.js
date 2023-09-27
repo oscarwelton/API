@@ -1,7 +1,7 @@
 const express = require("express");
-const cookieParser = require("cookie-parser");
 const mongoose = require("mongoose");
 const cors = require("cors");
+const cookieParser = require("cookie-parser");
 const app = express();
 const dotenv = require("dotenv");
 var RateLimit = require("express-rate-limit");
@@ -33,12 +33,6 @@ const db = mongoose.connection;
 db.on("error", (error) => console.error("MongoDB connection error:", error));
 db.once("open", () => console.log("MongoDB connected successfully"));
 
-const cookieOptions = {
-  maxAge: 1000 * 60,
-  // httpOnly: true,
-  // secure: true,
-};
-
 const corsOptions = {
   origin: "http://localhost:3000",
   optionsSuccessStatus: 200,
@@ -46,7 +40,7 @@ const corsOptions = {
 
 app.use(express.json());
 app.use(limiter);
-app.use(cookieParser(process.env.COOKIE_SECRET));
+app.use(cookieParser());
 app.use(cors(corsOptions));
 
 app.get("/demo", async (req, res) => {
@@ -55,14 +49,6 @@ app.get("/demo", async (req, res) => {
 });
 
 app.post("/new", async (req, res) => {
-  /*
-  1. when a user submits their email, check if they exist in the db.
-  2. if they do, check if they are verified.
-  3. if they are, log set the cookies to apikey and email.
-  4. if they are not, show option to resend verification email.
-  5. if they do not exist, create a new user and send verification email.
-  */
-
   try {
     const email = req.body.email;
     const user = await UserManager.getUser(email);
@@ -91,8 +77,8 @@ app.get("/verify/:email/:token", async (req, res) => {
 
   const verified = await UserManager.verifyUser(email, token);
   if (verified) {
-    res.cookie("email", verified.email, cookieOptions);
-    res.cookie("apiKey", verified.apiKey, cookieOptions);
+    res.cookie("email", verified.email);
+    res.cookie("apiKey", verified.apiKey);
   }
   return res.redirect("http://localhost:3000/documentation");
 });
@@ -129,4 +115,14 @@ app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
+});
+
+app.get("/check-cookies", (req, res) => {
+  const emailCookie = req.cookies.email;
+  const apiKeyCookie = req.cookies.apiKey;
+
+  console.log("Email Cookie:", emailCookie);
+  console.log("API Key Cookie:", apiKeyCookie);
+
+  res.send("Cookies checked. Check console for output.");
 });
