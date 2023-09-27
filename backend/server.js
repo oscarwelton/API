@@ -125,11 +125,11 @@ app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
   return res.send(result);
 });
 
-app.get("/reset", async (req, res) => {
-  const email = req.params.email;
+app.patch("/reset", async (req, res) => {
+  const email = req.body.email;
   console.log(email);
-  const key = await UserManager.getNewKey(email);
-  res.cookie("apiKey", key);
+  const apikey = await UserManager.getNewKey(email);
+  res.cookie("apiKey", apikey);
   return res.send("success");
 });
 

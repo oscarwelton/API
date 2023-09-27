@@ -333,7 +333,6 @@ class UserManager {
   }
 
   static async getNewKey(email) {
-    console.log(email);
     const filter = { email };
     const patch = { apiKey: generateApiKey() };
     await User.updateOne(filter, patch);

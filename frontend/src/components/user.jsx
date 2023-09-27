@@ -42,17 +42,20 @@ function User() {
     const email = decodeURIComponent(emailCookie);
     try {
       await axios
-        .get("http://localhost:5000/reset", {
-          headers: {
-            "Access-Control-Allow-Origin": "*",
+        .patch(
+          "http://localhost:5000/reset",
+          {
+            email: email.toLowerCase().trim(),
           },
-          params: {
-            email,
-          },
-          withCredentials: true,
-        })
+          {
+            headers: {
+              "Access-Control-Allow-Origin": "*",
+            },
+            withCredentials: true,
+          }
+        )
         .then((res) => {
-          console.log('response', res);
+          console.log("response", res);
           if (res.data === "success") {
             const newKey = getCookie("apiKey");
             setApiKey(newKey);
