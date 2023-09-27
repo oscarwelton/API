@@ -331,6 +331,14 @@ class UserManager {
     const user = await User.findOne({ apiKey });
     return user ? true : false;
   }
+
+  static async getNewKey(email) {
+    console.log(email);
+    const filter = { email };
+    const patch = { apiKey: generateApiKey() };
+    await User.updateOne(filter, patch);
+    return patch.apiKey;
+  }
 }
 
 module.exports = UserManager;

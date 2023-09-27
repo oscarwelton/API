@@ -1,4 +1,5 @@
 import { useState } from "react";
+import User from "./user";
 import axios from "axios";
 
 function Form() {
@@ -44,50 +45,54 @@ function Form() {
     await newUser(email);
   };
 
-  if (data === "verified") {
-    return (
-      <div className="message">
-        {email}
-        <br />
-        {apiKey}
-      </div>
-    );
-  } else if (data === "unverified") {
-    return (
-      <div className="message">
-        <h4>Check your inbox!</h4>
-        <p>Verify your email to receive your free API Key</p>
-        <p>Haven't received anything? Check your spam folder or </p>
-      </div>
-    );
-  } else if (data === "new user") {
-    return (
-      <div className="message">
-        <h4>Check your inbox!</h4>
-        <p>Verify your email to receive your free API Key.</p>
-        <p>
-          If you have not received an email from us, please try again later.
-        </p>
-      </div>
-    );
+  if (apiKey === "") {
+    if (data === "verified") {
+      return (
+        <div className="message">
+          {email}
+          <br />
+          {apiKey}
+        </div>
+      );
+    } else if (data === "unverified") {
+      return (
+        <div className="message">
+          <h4>Check your inbox!</h4>
+          <p>Verify your email to receive your free API Key</p>
+          <p>Haven't received anything? Check your spam folder or </p>
+        </div>
+      );
+    } else if (data === "new user") {
+      return (
+        <div className="message">
+          <h4>Check your inbox!</h4>
+          <p>Verify your email to receive your free API Key.</p>
+          <p>
+            If you have not received an email from us, please try again later.
+          </p>
+        </div>
+      );
+    } else {
+      return (
+        <div className="form">
+          <h6 className="sign-up">
+            Sign up to receive your <span>free</span> API key
+          </h6>
+          <form onSubmit={handleSubmit}>
+            <input
+              type="email"
+              placeholder="Email"
+              required={true}
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+            />
+            <button type="submit">Submit</button>
+          </form>
+        </div>
+      );
+    }
   } else {
-    return (
-      <div className="form">
-        <h6 className="sign-up">
-          Sign up to receive your <span>free</span> API key
-        </h6>
-        <form onSubmit={handleSubmit}>
-          <input
-            type="email"
-            placeholder="Email"
-            required={true}
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-          />
-          <button type="submit">Submit</button>
-        </form>
-      </div>
-    );
+    <User />;
   }
 }
 

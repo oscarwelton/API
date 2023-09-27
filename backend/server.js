@@ -40,7 +40,6 @@ const corsOptions = {
 app.use(cors(corsOptions));
 
 app.use(cookieParser(process.env.COOKIE_SECRET));
-
 app.use(express.json());
 app.use(limiter);
 
@@ -55,14 +54,14 @@ app.post("/new", async (req, res) => {
     const user = await UserManager.getUser(email);
 
     if (user && user.verified) {
-      console.log(user.email)
+      console.log(user.email);
       res.cookie("email", user.email, {
         maxAge: 3600 * 1000,
         domain: "localhost",
         sameSite: "lax",
       });
 
-      console.log(user.apiKey)
+      console.log(user.apiKey);
       res.cookie("apiKey", user.apiKey, {
         maxAge: 3600 * 1000,
         domain: "localhost",
@@ -124,6 +123,14 @@ app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
 
   let result = await findWord({ query });
   return res.send(result);
+});
+
+app.get("/reset", async (req, res) => {
+  const email = req.params.email;
+  console.log(email);
+  const key = await UserManager.getNewKey(email);
+  res.cookie("apiKey", key);
+  return res.send("success");
 });
 
 app.listen(PORT, () => {
