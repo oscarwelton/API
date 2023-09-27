@@ -30,7 +30,7 @@ function Documentation() {
           </li>
         </ul>
 
-        <Form />
+        {/* <Form /> */}
         <User />
 
         <div className="section">

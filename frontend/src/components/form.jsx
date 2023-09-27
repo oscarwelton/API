@@ -1,8 +1,11 @@
 import { useState } from "react";
 import axios from "axios";
+import cookie from 'js-cookie'
 
 function Form() {
   const [email, setEmail] = useState("");
+  const [emailCookie, setEmailCookie] = useState('')
+  const [apiKeyCookie, setApiKeyCookie] = useState('')
   const [data, setData] = useState([]);
 
   async function newUser(email) {
@@ -20,11 +23,16 @@ function Form() {
           }
         )
         .then((res) => {
-          setData(parseInt(res.data));
+          setData(res.data);
+          if (res.data === 'verified') {
+            setEmailCookie(cookie.get('email'))
+            setApiKeyCookie(cookie.get('apiKey'))
+          }
         });
     } catch (err) {
       console.log(err);
     }
+
   }
 
   const handleSubmit = async (e) => {
@@ -32,44 +40,24 @@ function Form() {
     await newUser(email);
   };
 
-  const resendEmail = () => {
-    try {
-      axios.post(
-        "http://localhost:5000/resend",
-        {
-          email: email.toLowerCase().trim(),
-        },
-        {
-          headers: {
-            "Access-Control-Allow-Origin": "*",
-          },
-        }
-      );
-    } catch (err) {
-      console.log(err);
-    } finally {
-      setData(3);
-    }
-  };
-
-  if (data === 1) {
-    <>
-      <p>Show user data here.</p>
-    </>;
-  } else if (data === 2) {
+  if (data === 'verified') {
+    return (
+    <div className="message">
+      <p>Email: {emailCookie}</p>
+      <p>Api Key: {apiKeyCookie}</p>
+    </div>
+    )
+  } else if (data === 'unverified') {
     return (
       <div className="message">
         <h4>Check your inbox!</h4>
         <p>Verify your email to receive your free API Key</p>
         <p>
           Haven't received anything? Check your spam folder or{" "}
-          <span id="form-span" onClick={setData(3)}>
-            Try Again
-          </span>
         </p>
       </div>
     );
-  } else if (data === 3) {
+  } else if (data === 'new user') {
     return (
       <div className="message">
         <h4>Check your inbox!</h4>

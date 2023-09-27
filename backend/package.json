@@ -24,5 +24,8 @@
     "rate-limit-mongo": "^2.3.2",
     "sass": "^1.66.1",
     "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }

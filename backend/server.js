@@ -33,7 +33,6 @@ const db = mongoose.connection;
 db.on("error", (error) => console.error("MongoDB connection error:", error));
 db.once("open", () => console.log("MongoDB connected successfully"));
 
-
 const cookieOptions = {
   maxAge: 1000 * 60,
   // httpOnly: true,
@@ -50,13 +49,20 @@ app.use(limiter);
 app.use(cookieParser(process.env.COOKIE_SECRET));
 app.use(cors(corsOptions));
 
-
 app.get("/demo", async (req, res) => {
   let result = await findWord(req.query);
-  res.send(result);
+  return res.send(result);
 });
 
 app.post("/new", async (req, res) => {
+  /*
+  1. when a user submits their email, check if they exist in the db.
+  2. if they do, check if they are verified.
+  3. if they are, log set the cookies to apikey and email.
+  4. if they are not, show option to resend verification email.
+  5. if they do not exist, create a new user and send verification email.
+  */
+
   try {
     const email = req.body.email;
     const user = await UserManager.getUser(email);
@@ -64,16 +70,16 @@ app.post("/new", async (req, res) => {
     if (user && user.verified) {
       res.cookie("email", user.email);
       res.cookie("apiKey", user.apiKey);
-      return res.send("1");
+      return res.send("verified");
+    } else if (user && !user.verified) {
+      return res.send("unverified");
+    } else {
+      const newUser = await UserManager.createUser(email);
+      if (newUser !== null) {
+        await UserManager.sendVerificationEmail(email);
+        return res.send("new user");
+      }
     }
-
-    const newUser = await UserManager.createUser(email);
-
-    if (newUser !== null) {
-      await UserManager.sendVerificationEmail(email);
-      return res.send("2");
-    }
-    return res.send("3");
   } catch (error) {
     console.error(error);
   }
@@ -83,14 +89,12 @@ app.get("/verify/:email/:token", async (req, res) => {
   const email = req.params.email;
   const token = req.params.token;
 
-
   const verified = await UserManager.verifyUser(email, token);
   if (verified) {
     res.cookie("email", verified.email, cookieOptions);
     res.cookie("apiKey", verified.apiKey, cookieOptions);
   }
-
-  res.redirect("http://localhost:3000/documentation");
+  return res.redirect("http://localhost:3000/documentation");
 });
 
 app.post("/resend", async (req, res) => {
@@ -120,7 +124,7 @@ app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
   }
 
   let result = await findWord({ query });
-  res.send(result);
+  return res.send(result);
 });
 
 app.listen(PORT, () => {
