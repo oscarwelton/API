@@ -26,7 +26,7 @@ function User() {
   }, []);
 
   function clipboard() {
-    const id = document.getElementById("key").lastChild;
+    const id = document.getElementById("key");
     const text = id.innerText;
     navigator.clipboard.writeText(text);
     console.log("Copied to clipboard");
