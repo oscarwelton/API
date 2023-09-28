@@ -5,9 +5,9 @@
     margin: 2rem 0rem;
     max-width: 700px;
 
-      h4 {
-        border-bottom: 1px solid var(--green);
-      }
+    h4 {
+      border-bottom: 1px solid var(--green);
+    }
   }
 
   pre {
@@ -35,4 +35,21 @@ td {
 th {
   background-color: var(--green);
   color: white;
+}
+
+.code {
+  word-wrap: break-word;
+  font-size: 1rem;
+  margin: 1rem 0rem;
+  padding: 1rem;
+  height: 350px;
+  overflow: scroll;
+  color: var(--green);
+  border-radius: 5px;
+  border: 1px solid var(--green);
+
+}
+
+.code-btn {
+  margin-right: 1rem;
 }

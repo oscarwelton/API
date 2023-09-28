@@ -2,7 +2,6 @@ import React, { useState } from "react";
 
 function CodeExample() {
   const [language, setLanguage] = useState("javascript");
-
   const renderCode = () => {
     switch (language) {
       case "javascript":
@@ -28,7 +27,7 @@ function CodeExample() {
         return (
           <pre>
             {`import requests
-  response = requests.get('https://wordweb.app/api/words',
+response = requests.get('https://wordweb.app/api/words',
   params={
     'apikey': your_api_key,
     'word': your_word_query
@@ -64,18 +63,18 @@ function CodeExample() {
   };
 
   return (
-    <div>
-      <button onClick={() => setLanguage("javascript")}>JavaScript</button>
-      <button onClick={() => setLanguage("python")}>Python</button>
-      <button onClick={() => setLanguage("ruby")}>Ruby</button>
-
-      <div
-        className="demo-output"
-        style={{ whiteSpace: "pre-wrap", tabSize: 4 }}
-      >
-        {renderCode()}
-      </div>
-    </div>
+    <>
+      <button className="docs-btn code-btn" onClick={() => setLanguage("javascript")}>
+        JavaScript
+      </button>
+      <button className="docs-btn code-btn" onClick={() => setLanguage("python")}>
+        Python
+      </button>
+      <button className="docs-btn code-btn" onClick={() => setLanguage("ruby")}>
+        Ruby
+      </button>
+      <div className="code">{renderCode()}</div>
+    </>
   );
 }
 
