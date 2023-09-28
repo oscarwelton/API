@@ -19,6 +19,17 @@
   }
 }
 
+.links {
+  li {
+    margin: 1rem 0rem;
+  }
+
+  a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
