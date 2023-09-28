@@ -87,14 +87,27 @@ function Documentation() {
             <h4>Endpoints</h4>
             <p>
               WordWeb API is a simple HTTP REST API for searching and retreiving
-              word data. The current version supports just the one endpoint.
+              word data. The current version supports just the one endpoint to
+              keep things simple.
             </p>
-            <ul>
-              <li>Endpoint: /api/wordweb/</li>
-              <li>Description: Retrieves information about a specific word</li>
-              <li>Method: GET</li>
-              <li>Parameters: API Key, word</li>
-            </ul>
+            <table>
+              <tr>
+                <td>Endpoint:</td>
+                <td>/api/wordweb/</td>
+              </tr>
+              <tr>
+                <td>Description:</td>
+                <td>Retrieves information about a specific word</td>
+              </tr>
+              <tr>
+                <td>Method:</td>
+                <td>GET</td>
+              </tr>
+              <tr>
+                <td>Parameters:</td>
+                <td>API Key, word</td>
+              </tr>
+            </table>
           </div>
 
           <div className="section">
