@@ -18,7 +18,7 @@ const limiter = RateLimit({
     expireTimeMs: 60 * 1000,
     errorHandler: console.error.bind(null, "rate-limit-mongo"),
   }),
-  max: 10,
+  max: 100,
   keyGenerator: function (req) {
     return req.params.apiKey;
   },
@@ -108,7 +108,7 @@ app.post("/resend", async (req, res) => {
   return res.send("0");
 });
 
-app.get("/api/wordweb/", limiter, async (req, res) => {
+app.get("/api/words/", limiter, async (req, res) => {
   const apiKey = req.query.apiKey;
   const query = req.query.word;
 

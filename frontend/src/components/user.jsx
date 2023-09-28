@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import Form from "./form";
+import { useLocation } from "react-router-dom";
 
 function User() {
   const [emailCookie, setEmail] = useState("");
   const [apiKeyCookie, setApiKey] = useState("");
   const [showForm, setShowForm] = useState(false);
+  const location = useLocation();
 
   const getCookie = (name) => {
     const value = `; ${document.cookie}`;
@@ -27,7 +29,7 @@ function User() {
     const id = document.getElementById("key").lastChild;
     const text = id.innerText;
     navigator.clipboard.writeText(text);
-    console.log("Copied to clipboard")
+    console.log("Copied to clipboard");
   }
 
   function clearData() {
@@ -39,6 +41,7 @@ function User() {
   }
 
   async function getNewKey() {
+    console.log(location.pathname);
     const email = decodeURIComponent(emailCookie);
     try {
       await axios
@@ -65,24 +68,26 @@ function User() {
     }
   }
 
-  return (
+  return showForm ? (
+    <Form />
+  ) : (
     <div className="user">
-      {showForm ? (
-        <Form />
-      ) : (
-        <div className="user-details">
-          <button onClick={clearData}>Log out</button>
-          <h3>Your API Key:</h3>
-          <p>
-            <strong>Email:</strong> {emailCookie}
-          </p>
-          <p id="key">
-            <strong>API Key:</strong><span>{apiKeyCookie}</span>
-          </p>
-          <button onClick={clipboard}>Copy</button>
-          <button onClick={getNewKey}>Generate New Key</button>
-        </div>
-      )}
+      <button id="logout" className="docs-btn" onClick={clearData}>
+        Log out
+      </button>
+      <h4>Account: {emailCookie}</h4>
+      <p>
+        <strong>Your Key:</strong>
+      </p>
+      <div className="copy">
+        <p id="key">{apiKeyCookie}</p>
+        <button className="docs-btn" onClick={clipboard}>
+          Copy
+        </button>
+      </div>
+      <button className="docs-btn" onClick={getNewKey}>
+        Generate New Key
+      </button>
     </div>
   );
 }

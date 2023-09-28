@@ -116,16 +116,22 @@ async function findWord(query) {
 
   result = result[0];
 
-  result = {
-    word: result.word,
-    length: result.length,
-    definition: result.definition,
-    pos: result.pos,
-    meanings: result.meanings,
-    synonyms: result.synonyms,
-    antonyms: result.antonyms,
-    hypernyms: result.hypernyms,
-    hyponyms: result.hyponyms,
+  if (!result) {
+    result = {
+      message: 'Word not found'
+    }
+  } else {
+    result = {
+      word: result.word,
+      length: result.length,
+      definition: result.definition,
+      pos: result.pos,
+      meanings: result.meanings,
+      synonyms: result.synonyms,
+      antonyms: result.antonyms,
+      hypernyms: result.hypernyms,
+      hyponyms: result.hyponyms,
+    };
   }
 
   return result;

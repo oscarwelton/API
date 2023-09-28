@@ -30,7 +30,7 @@ function Features() {
         <div className="feature-text">
           <h4>Standardised Response</h4>
           <p>
-            Receive data in a standard format for consistent, seamless
+            Receive data in JSON format by default for consistent, seamless
             implementation.
           </p>
         </div>

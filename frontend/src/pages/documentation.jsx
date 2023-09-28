@@ -1,12 +1,12 @@
 import { React } from "react";
 import { redirect } from "react-router-dom";
 import User from "../components/user";
+import CodeExample from "../components/code";
 
 function Documentation() {
-
   return (
     <>
-       <User />
+      <User />
       <div className="documentation">
         <h3>Documentation</h3>
         <ul className="links">
@@ -17,16 +17,16 @@ function Documentation() {
             <a href="#getting-started">Getting Started</a>
           </li>
           <li>
-            <a href="#examples">Examples</a>
+            <a href="#endpoints">Endpoints</a>
+          </li>
+          <li>
+            <a href="#response">Repsonse Data</a>
+          </li>
+          <li>
+            <a href="#rate-limiting">Authentication & Rate Limiting</a>
           </li>
           <li>
             <a href="#error-handling">Error Handling</a>
-          </li>
-          <li>
-            <a href="#rate-limiting">Rate Limiting</a>
-          </li>
-          <li>
-            <a href="#endpoints">Endpoints</a>
           </li>
         </ul>
 
@@ -62,59 +62,123 @@ function Documentation() {
             can be found on my GitHub:
           </p>
           <button
+            className="docs-btn"
             onClick={() => redirect("https://github.com/oscarwelton/API")}
           >
-            WordWeb Repo
+            WordWeb GitHub
           </button>
-          <p>
-            I hope you find this API useful and if you have any questions,
-            please feel free to get in touch.
-          </p>
         </div>
 
         <div className="section">
           <h4>Getting Started</h4>
-
           <p>
             To get started, all users must register for an API key. This is a
-            simple process and can be done by joining the mailing list. Once you
-            have registered, you will be sent an API key to your email address.
+            simple process. Register with a valid email address and once you
+            have confirmed your email, your API key will be viewable in the
+            browser.
           </p>
-
           <p>
-            The API key is used to authenticate requests to the API. The API key
-            must be included in the request header as follows:
+            The API key is used to authenticate requests and must be included in
+            the request header. See examples below for more details.
           </p>
-        </div>
+          <CodeExample />
 
-        <div className="section">
-          <h4>Examples</h4>
-        </div>
+          <div className="section">
+            <h4>Endpoints</h4>
+            <p>
+              WordWeb API is a simple HTTP REST API for searching and retreiving
+              word data. The current version supports just the one endpoint.
+            </p>
+            <ul>
+              <li>Endpoint: /api/wordweb/</li>
+              <li>Description: Retrieves information about a specific word</li>
+              <li>Method: GET</li>
+              <li>Parameters: API Key, word</li>
+            </ul>
+          </div>
 
-        <div className="section">
-          <h4>Error Handling</h4>
-        </div>
+          <div className="section">
+            <h4>Response Data</h4>
+            <p>
+              Valid words return the following data. Due to to the nature of the
+              database, some words may not return all the data fields.
+            </p>
 
-        <div className="section">
-          <h4>Rate Limiting</h4>
-        </div>
+            <table>
+              <tr>
+                <th>Category</th>
+                <th>Description</th>
+              </tr>
+              <tr>
+                <td>Word</td>
+                <td>The word being searched.</td>
+              </tr>
+              <tr>
+                <td>Length</td>
+                <td>The character count of the word.</td>
+              </tr>
+              <tr>
+                <td>Part of Speech</td>
+                <td>Category of word (noun, verb, adjective, adverb).</td>
+              </tr>
+              <tr>
+                <td>Definitions</td>
+                <td>A definition of the word.</td>
+              </tr>
+              <tr>
+                <td>Examples</td>
+                <td>An example of the word in context.</td>
+              </tr>
+              <tr>
+                <td>Synonyms</td>
+                <td>
+                  An array of words or phrases that means exactly or nearly the
+                  same as the word.
+                </td>
+              </tr>
+              <tr>
+                <td>Antonyms</td>
+                <td>
+                  An array of words or phrases that mean the opposite of the
+                  word.
+                </td>
+              </tr>
+              <tr>
+                <td>Hypernyms</td>
+                <td>An array of categories for which the word belongs.</td>
+              </tr>
+              <tr>
+                <td>Hyponyms</td>
+                <td>
+                  An array of specific words for which the word could be
+                  considered the category.
+                </td>
+              </tr>
+            </table>
+          </div>
 
-        <div className="section">
-          <h4>Endpoints</h4>
-          <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugiat at
-            iste autem, earum quam ab ipsum velit. Quisquam, labore consequuntur
-            iusto dolores optio et, molestiae officia ad, perferendis voluptatem
-            laudantium.
-          </p>
-        </div>
+          <div className="section">
+            <h4>Error Handling</h4>
+            <ul>
+              <li>400 Bad Request</li>
+              <li>401 Unauthorized</li>
+              <li>404 Not Found</li>
+              <li>429 Too Many Requests</li>
+              <li>500 Internal Server Error</li>
+            </ul>
+          </div>
 
-        <div className="section">
-          <h4>Contributing</h4>
-        </div>
+          <div className="section">
+            <h4>Rate Limiting</h4>
+            <p>
+              By default, all API Keys are rate-limited to a maximum of 10
+              requests per minute.
+            </p>
+          </div>
 
-        <div className="section">
-          <h4>License</h4>
+          <div className="section">
+            <h4>License</h4>
+          </div>
         </div>
       </div>
     </>

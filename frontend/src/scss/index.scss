@@ -13,7 +13,7 @@
 
 :root {
   --green: #053900;
-  --gray: #8d8d8d;
+  --gray: #e8e8e8;
   --inter: 'Inter', sans-serif;
 }
 
@@ -24,7 +24,8 @@ body {
 button {
   &:hover {
     cursor: pointer;
-    background-color: antiquewhite;
+    background-color: var(--green);
+    color: white;
   }
 
   &:focus {

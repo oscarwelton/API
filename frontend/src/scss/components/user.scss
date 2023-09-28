@@ -1,14 +1,40 @@
 .user {
   color: white;
-  border: 3px solid var(--gray);
   background-color: var(--green);
+  border-radius: 20px;
   margin: 2rem;
+  padding: 1rem;
+}
 
-  .user-details {
-    padding: 1rem;
-  }
+.docs-btn {
+  padding: 0.5rem;
+  border: none;
+  background-color: var(--gray);
+  color: var(--green);
+  border-radius: 5px;
+}
+
+#logout {
+  float: right;
 }
 
 #key {
-  word-wrap: break-word;
+  overflow: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.copy {
+  border-radius: 5px;
+  margin: 1rem 0rem;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  color: var(--green);
 }

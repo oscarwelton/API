@@ -1,12 +1,38 @@
 .documentation {
-  padding: 2rem;
+  padding: 1rem 2rem;
 
   .section {
     margin: 2rem 0rem;
-    max-width: 600px;
+    max-width: 700px;
+
+      h4 {
+        border-bottom: 1px solid var(--green);
+      }
+  }
+
+  pre {
+    text-wrap: balance;
   }
 
   p {
     margin: 1rem 0rem;
   }
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid var(--green);
+  padding: 8px;
+  text-align: left;
+  margin-bottom: 0.5rem;
+}
+
+th {
+  background-color: var(--green);
+  color: white;
 }
