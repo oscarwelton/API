@@ -1,9 +1,8 @@
 .user {
   color: white;
   background-color: var(--green);
-  border-radius: 20px;
-  margin: 2rem;
-  padding: 1rem;
+  padding: 2rem 1rem;
+  position: relative;
 }
 
 .docs-btn {
@@ -15,7 +14,9 @@
 }
 
 #logout {
-  float: right;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
 }
 
 #key {

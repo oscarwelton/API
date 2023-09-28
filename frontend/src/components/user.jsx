@@ -75,7 +75,6 @@ function User() {
       <button id="logout" className="docs-btn" onClick={clearData}>
         Log out
       </button>
-      <h4>Account: {emailCookie}</h4>
       <p>
         <strong>Your Key:</strong>
       </p>

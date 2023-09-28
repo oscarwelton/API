@@ -105,7 +105,7 @@ function Documentation() {
               </tr>
               <tr>
                 <td>Parameters:</td>
-                <td>API Key, word</td>
+                <td>API Key, Word</td>
               </tr>
             </table>
           </div>
@@ -169,28 +169,43 @@ function Documentation() {
               </tr>
             </table>
           </div>
-
-          <div className="section">
-            <h4>Error Handling</h4>
-            <ul>
-              <li>400 Bad Request</li>
-              <li>401 Unauthorized</li>
-              <li>404 Not Found</li>
-              <li>429 Too Many Requests</li>
-              <li>500 Internal Server Error</li>
-            </ul>
-          </div>
-
           <div className="section">
             <h4>Rate Limiting</h4>
             <p>
               By default, all API Keys are rate-limited to a maximum of 10
-              requests per minute.
+              requests per minute. This API is not intended for production use
+              and therefore the rate limit is low.
             </p>
           </div>
 
           <div className="section">
-            <h4>License</h4>
+            <h4>Error Handling</h4>
+            <table>
+              <tr>
+                <th>Error Code</th>
+                <th>Error Message</th>
+              </tr>
+              <tr>
+                <td>400</td>
+                <td>Bad Request</td>
+              </tr>
+              <tr>
+                <td>401</td>
+                <td>Unauthorized</td>
+              </tr>
+              <tr>
+                <td>404</td>
+                <td>Not Found</td>
+              </tr>
+              <tr>
+                <td>429</td>
+                <td>Too Many Requests</td>
+              </tr>
+              <tr>
+                <td>500</td>
+                <td>Internal Server Error</td>
+              </tr>
+            </table>
           </div>
         </div>
       </div>
