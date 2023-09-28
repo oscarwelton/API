@@ -108,9 +108,9 @@ app.post("/resend", async (req, res) => {
   return res.send("0");
 });
 
-app.get("/api/wordweb/:apiKey/:word", limiter, async (req, res) => {
-  const apiKey = req.params.apiKey;
-  const query = req.params.word;
+app.get("/api/wordweb/", limiter, async (req, res) => {
+  const apiKey = req.query.apiKey;
+  const query = req.query.word;
 
   if (!apiKey) {
     return res.status(400).send("No API key provided");

@@ -18,16 +18,16 @@ function User() {
       setShowForm(true);
     } else {
       setShowForm(false);
-      setEmail(getCookie("email"));
+      setEmail(decodeURIComponent(getCookie("email")));
       setApiKey(getCookie("apiKey"));
     }
   }, []);
 
   function clipboard() {
-    const id = document.getElementById("key");
+    const id = document.getElementById("key").lastChild;
     const text = id.innerText;
     navigator.clipboard.writeText(text);
-    alert("API Key Copied to clipboard!");
+    console.log("Copied to clipboard")
   }
 
   function clearData() {
@@ -55,7 +55,6 @@ function User() {
           }
         )
         .then((res) => {
-          console.log("response", res);
           if (res.data === "success") {
             const newKey = getCookie("apiKey");
             setApiKey(newKey);
@@ -78,7 +77,7 @@ function User() {
             <strong>Email:</strong> {emailCookie}
           </p>
           <p id="key">
-            <strong>API Key:</strong> {apiKeyCookie}
+            <strong>API Key:</strong><span>{apiKeyCookie}</span>
           </p>
           <button onClick={clipboard}>Copy</button>
           <button onClick={getNewKey}>Generate New Key</button>
