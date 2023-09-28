@@ -2,6 +2,14 @@ import React, { useState } from "react";
 
 function CodeExample() {
   const [language, setLanguage] = useState("javascript");
+
+  const copy = () => {
+    const code = document.querySelector(".code pre");
+    const text = code.innerText;
+    navigator.clipboard.writeText(text);
+    console.log("Copied to clipboard");
+  };
+
   const renderCode = () => {
     switch (language) {
       case "javascript":
@@ -64,16 +72,25 @@ response = requests.get('https://wordweb.app/api/words',
 
   return (
     <>
-      <button className="docs-btn code-btn" onClick={() => setLanguage("javascript")}>
+      <button
+        className="docs-btn code-btn"
+        onClick={() => setLanguage("javascript")}
+      >
         JavaScript
       </button>
-      <button className="docs-btn code-btn" onClick={() => setLanguage("python")}>
+      <button
+        className="docs-btn code-btn"
+        onClick={() => setLanguage("python")}
+      >
         Python
       </button>
       <button className="docs-btn code-btn" onClick={() => setLanguage("ruby")}>
         Ruby
       </button>
-      <div className="code">{renderCode()}</div>
+      <div className="code">
+        {renderCode()}
+        <button className="docs-btn" onClick={() => copy()}>Copy to Clipboard</button>
+      </div>
     </>
   );
 }

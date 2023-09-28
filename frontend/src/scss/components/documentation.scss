@@ -58,7 +58,13 @@ th {
   color: var(--green);
   border-radius: 5px;
   border: 1px solid var(--green);
+  position: relative;
 
+  button {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+  }
 }
 
 .code-btn {
