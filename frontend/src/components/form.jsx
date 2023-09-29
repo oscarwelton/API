@@ -49,8 +49,7 @@ function Form() {
         <p>Visit the documentation to view your API Key.</p>
       </div>
     )
-  }
-  else if (data === "unverified" || data === "new user") {
+  } else if (data === "unverified" || data === "new user") {
     return (
       <div className="message">
         <h4>Check your inbox!</h4>

@@ -81,7 +81,6 @@ function Documentation() {
             The API key is used to authenticate requests and must be included in
             the request header. See examples below for more details.
           </p>
-          <CodeExample />
 
           <div className="section">
             <h4>Endpoints</h4>
@@ -109,7 +108,10 @@ function Documentation() {
               </tr>
             </table>
           </div>
-
+          <div className="section">
+            <h4>Examples</h4>
+            <CodeExample />
+          </div>
           <div className="section">
             <h4>Response Data</h4>
             <p>

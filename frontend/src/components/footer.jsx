@@ -6,15 +6,15 @@ function Footer() {
       <div className="footer">
         <div className="footer-header">
           <img src={spiderSvg} alt="" />
-          <h2>WordWeb API</h2>
+          <h2>WordWeb</h2>
         </div>
 
         <ul className="links">
           <li>
-            <a href="#">Documentation</a>
+            <a href="/documentation">Documentation</a>
           </li>
           <li>
-            <a href="#">Repository</a>
+            <a href="https://github.com/oscarwelton" target="_blank" rel="noreferrer">Repository</a>
           </li>
           <li>
             <a href="mailto:oscarwelton@gmail.com">Report Issue</a>
@@ -23,13 +23,10 @@ function Footer() {
 
         <ul className="links">
           <li>
-            <a href="#">GitHub</a>
+            <a href="https://github.com/oscarwelton" target="_blank" rel="noreferrer">GitHub</a>
           </li>
           <li>
-            <a href="#">Twitter</a>
-          </li>
-          <li>
-            <a href="#">LinkedIn</a>
+            <a href="https://linkedin.com/in/oscar-welton" target="_blank" rel="noreferrer">LinkedIn</a>
           </li>
         </ul>
       </div>
