@@ -53,8 +53,9 @@ function Form() {
     return (
       <div className="message">
         <h4>Check your inbox!</h4>
-        <p>Verify your email to receive your free API Key/</p>
+        <p>Verify your email to receive your free API Key.</p>
         <p>Haven't received anything? Check your spam folder!</p>
+        {/* <p onClick={setData('')}>Or try again.</p> */}
       </div>
     );
   } else {
