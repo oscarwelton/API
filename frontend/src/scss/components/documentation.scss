@@ -1,5 +1,5 @@
 .documentation {
-  padding: 1rem 2rem;
+  padding: 2rem;
 
   .documentation-header {
     display: flex;
@@ -8,10 +8,11 @@
   }
 
   .section {
-    margin: 2rem 0rem;
+    padding: 4rem 0rem 0rem 0rem;
     max-width: 700px;
 
     h4 {
+      padding-bottom: 0.5rem;
       border-bottom: 1px solid var(--green);
     }
   }
@@ -27,6 +28,8 @@
 }
 
 .links {
+  padding-top: 2rem;
+
   li {
     margin: 1rem 0rem;
   }

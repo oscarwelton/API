@@ -30,7 +30,7 @@ function Documentation() {
           </li>
         </ul>
 
-        <div className="section">
+        <div id="introduction" className="section">
           <h4>Introduction</h4>
           <p>
             WordWeb API is a simple HTTP REST API for searching and retreiving
@@ -69,7 +69,7 @@ function Documentation() {
           </button>
         </div>
 
-        <div className="section">
+        <div  id="getting-started" className="section">
           <h4>Getting Started</h4>
           <p>
             To get started, all users must register for an API key. This is a
@@ -82,7 +82,7 @@ function Documentation() {
             the request header. See examples below for more details.
           </p>
 
-          <div className="section">
+          <div id="endpoints" className="section">
             <h4>Endpoints</h4>
             <p>
               WordWeb API is a simple HTTP REST API for searching and retreiving
@@ -108,11 +108,11 @@ function Documentation() {
               </tr>
             </table>
           </div>
-          <div className="section">
+          <div id="examples" className="section">
             <h4>Examples</h4>
             <CodeExample />
           </div>
-          <div className="section">
+          <div id="response" className="section">
             <h4>Response Data</h4>
             <p>
               Valid words return the following data. Due to to the nature of the
@@ -171,7 +171,7 @@ function Documentation() {
               </tr>
             </table>
           </div>
-          <div className="section">
+          <div id="rate-limiting" className="section">
             <h4>Rate Limiting</h4>
             <p>
               By default, all API Keys are rate-limited to a maximum of 10
@@ -180,7 +180,7 @@ function Documentation() {
             </p>
           </div>
 
-          <div className="section">
+          <div id="error-handling" className="section">
             <h4>Error Handling</h4>
             <table>
               <tr>
